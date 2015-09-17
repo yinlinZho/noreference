@@ -1,0 +1,694 @@
+2015-06-19 14:07:48,588 video_quality        INFO       video_quality douyu_lol_02_CQ 
+2015-06-19 14:07:48,589 duplication          INFO       duplication douyu_lol_02_CQ 
+2015-06-19 14:07:49,188 duplication          INFO       duplication douyu_lol_02_CQ spent 0s
+2015-06-19 14:07:49,188 quality              INFO       quality douyu_lol_02_CQ 
+2015-06-19 14:07:49,269 quality              INFO       quality douyu_lol_02_CQ spent 0s
+2015-06-19 14:07:49,269 video_quality        ERROR      video_quality error
+Traceback (most recent call last):
+  File "F:/SSEQ/video-qa.py", line 193, in video_quality
+    quality(video_name, image_file_paths, csv_basedir)
+  File "F:/SSEQ/video-qa.py", line 154, in quality
+    score = sseq(image_file_path)
+  File "F:/SSEQ/video-qa.py", line 83, in sseq
+    image = matlab.imread(image_file_path)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 627, in __getattr__
+    nout = self._do("nargout('%s')" % name)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 547, in _do
+    res = self._get_values(resSL)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 483, in _get_values
+    res.append(self._get(varname))
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 568, in _get
+    vartype = self._var_type(varname)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 436, in _var_type
+    res_type = mlabraw.get(self._session, "TMP_CLS__")
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabraw.py", line 73, in get
+    return matlab.get(var_name)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\matlabcom.py", line 110, in get
+    ret[name] = self.client.GetWorkspaceData(name, 'base')
+  File "<COMObject matlab.application>", line 3, in GetWorkspaceData
+  File "D:\python27\lib\site-packages\win32com\client\dynamic.py", line 282, in _ApplyTypes_
+    result = self._oleobj_.InvokeTypes(*(dispid, LCID, wFlags, retType, argTypes) + args)
+com_error: (-2147352567, '\xb7\xa2\xc9\xfa\xd2\xe2\xcd\xe2\xa1\xa3', (0, None, u'', None, 0, -2147352567), None)
+2015-06-19 14:07:49,269 video_quality        INFO       video_quality douyu_lol_02_CQ spent 0s
+2015-06-19 14:22:47,740 video_quality        INFO       video_quality douyu_lol_02_CQ 
+2015-06-19 14:22:47,743 duplication          INFO       duplication douyu_lol_02_CQ 
+2015-06-19 14:22:48,315 duplication          INFO       duplication douyu_lol_02_CQ spent 0s
+2015-06-19 14:22:48,315 quality              INFO       quality douyu_lol_02_CQ 
+2015-06-19 14:22:48,394 quality              INFO       quality douyu_lol_02_CQ spent 0s
+2015-06-19 14:22:48,394 video_quality        ERROR      video_quality error
+Traceback (most recent call last):
+  File "F:/SSEQ/video-qa.py", line 193, in video_quality
+    quality(video_name, image_file_paths, csv_basedir)
+  File "F:/SSEQ/video-qa.py", line 154, in quality
+    score = sseq(image_file_path)
+  File "F:/SSEQ/video-qa.py", line 83, in sseq
+    image = matlab.imread(image_file_path)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 627, in __getattr__
+    nout = self._do("nargout('%s')" % name)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 547, in _do
+    res = self._get_values(resSL)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 483, in _get_values
+    res.append(self._get(varname))
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 568, in _get
+    vartype = self._var_type(varname)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabwrap.py", line 436, in _var_type
+    res_type = mlabraw.get(self._session, "TMP_CLS__")
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\mlabraw.py", line 73, in get
+    return matlab.get(var_name)
+  File "D:\python27\lib\site-packages\mlab-1.1.4-py2.7.egg\mlab\matlabcom.py", line 110, in get
+    ret[name] = self.client.GetWorkspaceData(name, 'base')
+  File "<COMObject matlab.application>", line 3, in GetWorkspaceData
+  File "D:\python27\lib\site-packages\win32com\client\dynamic.py", line 282, in _ApplyTypes_
+    result = self._oleobj_.InvokeTypes(*(dispid, LCID, wFlags, retType, argTypes) + args)
+com_error: (-2147352567, '\xb7\xa2\xc9\xfa\xd2\xe2\xcd\xe2\xa1\xa3', (0, None, u'', None, 0, -2147352567), None)
+2015-06-19 14:22:48,394 video_quality        INFO       video_quality douyu_lol_02_CQ spent 0s
+Starting parallel pool (parpool) using the 'LocalProfile1' profile ... connected to 4 workers.
+
+ans =
+
+E:\douyu_lol_02_CQ
+
+
+csv_rootpath =
+
+C:\
+
+Exception Throw in run calling output
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+Starting parallel pool (parpool) using the 'LocalProfile1' profile ... connected to 4 workers.
+
+ans =
+
+E:\douyu_lol_02_CQ
+
+
+csv_rootpath =
+
+C:\
+
+Reading the bmp list
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00016.bmp
+
+
+score =
+
+   59.4829
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00038.bmp
+
+
+score =
+
+   63.9897
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00069.bmp
+
+
+score =
+
+   64.0998
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00057.bmp
+
+
+score =
+
+   63.6270
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00035.bmp
+
+
+score =
+
+   63.8782
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00015.bmp
+
+
+score =
+
+   59.4829
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00068.bmp
+
+
+score =
+
+   64.0908
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00055.bmp
+
+
+score =
+
+   63.5646
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00013.bmp
+
+
+score =
+
+   58.3415
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00034.bmp
+
+
+score =
+
+   63.8782
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00054.bmp
+
+
+score =
+
+   63.5646
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00066.bmp
+
+
+score =
+
+   64.0908
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00008.bmp
+
+
+score =
+
+   56.7089
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00033.bmp
+
+
+score =
+
+   63.8782
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00065.bmp
+
+
+score =
+
+   64.0908
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00049.bmp
+
+
+score =
+
+   63.6176
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00007.bmp
+
+
+score =
+
+   56.7089
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00032.bmp
+
+
+score =
+
+   63.8782
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00064.bmp
+
+
+score =
+
+   63.9292
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00048.bmp
+
+
+score =
+
+   63.6176
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00006.bmp
+
+
+score =
+
+   56.7089
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00029.bmp
+
+
+score =
+
+   62.1484
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00063.bmp
+
+
+score =
+
+   63.9292
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00047.bmp
+
+
+score =
+
+   63.6176
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00025.bmp
+
+
+score =
+
+   60.3639
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00062.bmp
+
+
+score =
+
+   63.9292
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00043.bmp
+
+
+score =
+
+   63.6093
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00005.bmp
+
+
+score =
+
+   56.7089
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00003.bmp
+
+
+score =
+
+   55.5733
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00024.bmp
+
+
+score =
+
+   60.3639
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00078.bmp
+
+
+score =
+
+   63.8121
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00042.bmp
+
+
+score =
+
+   63.8460
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00022.bmp
+
+
+score =
+
+   60.2597
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00073.bmp
+
+
+score =
+
+   64.0394
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00041.bmp
+
+
+score =
+
+   63.8460
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00002.bmp
+
+
+score =
+
+   55.5733
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00021.bmp
+
+
+score =
+
+   60.2597
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00072.bmp
+
+
+score =
+
+   64.0394
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00040.bmp
+
+
+score =
+
+   63.9897
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00001.bmp
+
+
+score =
+
+   55.1567
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00084.bmp
+
+
+score =
+
+   63.4666
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00093.bmp
+
+
+score =
+
+   63.2070
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00071.bmp
+
+
+score =
+
+   64.0998
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00089.bmp
+
+
+score =
+
+   63.1753
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00081.bmp
+
+
+score =
+
+   63.4664
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00070.bmp
+
+
+score =
+
+   64.0998
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00092.bmp
+
+
+score =
+
+   63.2070
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00087.bmp
+
+
+score =
+
+   63.1927
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00080.bmp
+
+
+score =
+
+   63.8121
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00095.bmp
+
+
+score =
+
+   63.0981
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00086.bmp
+
+
+score =
+
+   63.1928
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00097.bmp
+
+
+score =
+
+   63.0981
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00079.bmp
+
+
+score =
+
+   63.8121
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00094.bmp
+
+
+score =
+
+   63.2070
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00096.bmp
+
+
+score =
+
+   63.0981
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00100.bmp
+
+
+score =
+
+   63.2115
+
+
+ans =
+
+E:\douyu_lol_02_CQ\douyu_lol_02_CQ00098.bmp
+
+
+score =
+
+   63.0981
+
+
+outpath =
+
+C:\douyu_lol_02_CQ.csv
+
+
+ans =
+
+C:\douyu_lol_02_CQ.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.

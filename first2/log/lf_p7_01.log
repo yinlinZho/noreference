@@ -1,0 +1,711 @@
+Reading the bmp list
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100425.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100417.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100205.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100197.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100783.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100771.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100535.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100525.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100707.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100699.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100097.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100089.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100317.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100305.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100623.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100615.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100405.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100189.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100763.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100517.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100687.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100077.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100297.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100605.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100397.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100751.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100679.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100289.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100181.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100507.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100069.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100597.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100389.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100743.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100671.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100281.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100169.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100499.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100061.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100587.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100381.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100735.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100661.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100269.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100161.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100489.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100051.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100579.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100369.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100725.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100651.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100261.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100153.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100479.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100043.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100569.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100361.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100715.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100643.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100253.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100471.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100561.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100145.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100035.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100353.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100635.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100241.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100551.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100463.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100133.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100023.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100343.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100843.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100835.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100233.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100543.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100453.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100125.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100015.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100333.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100827.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100899.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100891.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100441.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100225.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100117.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100005.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100325.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100817.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100879.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100947.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100935.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100433.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100213.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100109.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100001.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100807.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100871.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100927.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100991.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100983.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100799.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100863.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100919.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101067.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101055.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101027.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101019.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101151.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101083.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101175.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101167.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100975.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100791.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100911.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100855.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101011.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101047.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101075.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101159.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100965.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101039.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101003.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101195.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101187.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0100955.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101211.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101203.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101231.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101223.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101247.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101239.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101267.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101257.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101285.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101275.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101303.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101293.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101323.bmp
+
+
+ans =
+
+D:\lf_p7_01\lf_p7_0101313.bmp
+
+
+outpath =
+
+D:\lf_p7_01.csv
+
+
+ans =
+
+D:\lf_p7_01.csv
+

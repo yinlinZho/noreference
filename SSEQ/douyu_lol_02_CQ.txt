@@ -1,0 +1,470 @@
+F:\douyu_lol_02_CQ\\douyu_lol_01_CQ
+
+ans =
+
+F:\douyu_lol_02_CQ.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+F:\douyu_lol_02_CQ\\douyu_lol_02_CQ
+操作在以下过程中被用户终止 dct (line 74)
+
+
+位置 dct2 (line 49)
+    b = dct(dct(arg1).').';
+
+位置 fecal (line 2)
+    rf=dct2(im);
+
+位置 feature_extract>@(x)fecal(x) (line 19)
+        fun1=@(x)fecal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 21)
+        femat=blkproc(im,[8 8],fun1);
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+操作在以下过程中被用户终止 dct (line 46)
+
+
+位置 dct2 (line 49)
+    b = dct(dct(arg1).').';
+
+位置 fecal (line 2)
+    rf=dct2(im);
+
+位置 feature_extract>@(x)fecal(x) (line 19)
+        fun1=@(x)fecal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 21)
+        femat=blkproc(im,[8 8],fun1);
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+操作在以下过程中被用户终止 fecal (line 4)
+
+
+位置 feature_extract>@(x)fecal(x) (line 19)
+        fun1=@(x)fecal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 21)
+        femat=blkproc(im,[8 8],fun1);
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+操作在以下过程中被用户终止 imhist>parse_inputs (line 282)
+
+
+位置 imhist (line 60)
+[a, n, isScaled, top, map] = parse_inputs(varargin{:});
+
+位置 entropy (line 45)
+p = imhist(I(:));
+
+位置 secal (line 2)
+    e=entropy(im);
+
+位置 feature_extract>@(x)secal(x) (line 7)
+        fun0=@(x)secal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 8)
+        emat=blkproc(im,[8 8] ,fun0); 
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{操作在以下过程中被用户终止 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distcomp.remoteparfor/getCompleteIntervals', 'D:\matlab\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m', 119)" style="font-weight:bold">distcomp.remoteparfor/getCompleteIntervals</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m',119,0)">line 119</a>)
+
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function>distributed_execution', 'D:\matlab\toolbox\matlab\lang\parallel_function.m', 820)" style="font-weight:bold">parallel_function>distributed_execution</a> (<a href="matlab: opentoline('D:\matlab\toolbox\matlab\lang\parallel_function.m',820,0)">line 820</a>)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function', 'D:\matlab\toolbox\matlab\lang\parallel_function.m', 587)" style="font-weight:bold">parallel_function</a> (<a href="matlab: opentoline('D:\matlab\toolbox\matlab\lang\parallel_function.m',587,0)">line 587</a>)
+        R = distributed_execution(...
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OUTPUT', 'F:\SSEQ\OUTPUT.m', 15)" style="font-weight:bold">OUTPUT</a> (<a href="matlab: opentoline('F:\SSEQ\OUTPUT.m',15,0)">line 15</a>)
+        parfor i =  3 : len
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'F:\SSEQ\test.m', 9)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('F:\SSEQ\test.m',9,0)">line 9</a>)
+    OUTPUT(image_paths{i},'F:\')
+} 
+test
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    '..'
+    'douyu_lol_01_CQ'
+    'douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'douyu_lol_01_CQ'
+    'douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'F:\douyu_lol_02_CQ\douyu_lol_01_CQ'
+    'douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'F:\douyu_lol_02_CQ\douyu_lol_01_CQ'
+    'F:\douyu_lol_02_CQ\douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'F:\douyu_lol_02_CQ\douyu_lol_01_CQ'
+    'F:\douyu_lol_02_CQ\douyu_lol_02_CQ'
+    'F:\douyu_lol_02_CQ\douyu_lol_03_CQ'
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+Starting parallel pool (parpool) using the 'LocalProfile1' profile ... connected to 4 workers.
+F:\douyu_lol_02_CQ\douyu_lol_02_CQ
+
+ans =
+
+F:\douyu_lol_02_CQ.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+F:\douyu_lol_02_CQ\douyu_lol_03_CQ
+操作在以下过程中被用户终止 entropy (line 48)
+
+
+位置 secal (line 2)
+    e=entropy(im);
+
+位置 feature_extract>@(x)secal(x) (line 7)
+        fun0=@(x)secal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 8)
+        emat=blkproc(im,[8 8] ,fun0); 
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+操作在以下过程中被用户终止 entropy>ParseInputs
+
+
+位置 entropy (line 38)
+I = ParseInputs(varargin{:});
+
+位置 secal (line 2)
+    e=entropy(im);
+
+位置 feature_extract>@(x)secal(x) (line 7)
+        fun0=@(x)secal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 8)
+        emat=blkproc(im,[8 8] ,fun0); 
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+操作在以下过程中被用户终止 nanmean (line 29)
+
+
+位置 skewness (line 41)
+m3 = nanmean(x0.^3,dim);
+
+位置 feature_extract (line 27)
+        ske=skewness(sort_t);
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+操作在以下过程中被用户终止 dct (line 73)
+
+
+位置 dct2 (line 49)
+    b = dct(dct(arg1).').';
+
+位置 fecal (line 2)
+    rf=dct2(im);
+
+位置 feature_extract>@(x)fecal(x) (line 19)
+        fun1=@(x)fecal(x);
+
+位置 blkproc (line 162)
+  c = feval(fun,x,params{:});
+
+位置 feature_extract (line 21)
+        femat=blkproc(im,[8 8],fun1);
+
+位置 SSEQ (line 3)
+    feature=feature_extract(imdist,3);
+
+位置 OUTPUT>(parfor body) (line 21)
+            qualityscore(i-2) = SSEQ(image)
+
+位置 parallel_function>make_general_channel/channel_general (line 914)
+                    O = F(C{:});
+
+位置 remoteParallelFunction (line 38)
+        out = parallel.internal.pool.serialize(feval(channel, channelArgs{:}));
+
+{操作在以下过程中被用户终止 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distcomp.remoteparfor/getCompleteIntervals', 'D:\matlab\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m', 119)" style="font-weight:bold">distcomp.remoteparfor/getCompleteIntervals</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m',119,0)">line 119</a>)
+
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function>distributed_execution', 'D:\matlab\toolbox\matlab\lang\parallel_function.m', 820)" style="font-weight:bold">parallel_function>distributed_execution</a> (<a href="matlab: opentoline('D:\matlab\toolbox\matlab\lang\parallel_function.m',820,0)">line 820</a>)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function', 'D:\matlab\toolbox\matlab\lang\parallel_function.m', 587)" style="font-weight:bold">parallel_function</a> (<a href="matlab: opentoline('D:\matlab\toolbox\matlab\lang\parallel_function.m',587,0)">line 587</a>)
+        R = distributed_execution(...
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OUTPUT', 'F:\SSEQ\OUTPUT.m', 15)" style="font-weight:bold">OUTPUT</a> (<a href="matlab: opentoline('F:\SSEQ\OUTPUT.m',15,0)">line 15</a>)
+        parfor i =  3 : len
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'F:\SSEQ\test.m', 9)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('F:\SSEQ\test.m',9,0)">line 9</a>)
+    OUTPUT(image_paths{i},'F:\')
+} 
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+whos
+  Name             Size            Bytes  Class            Attributes
+
+  ME               1x1              1693  MException                 
+  ans              1x1               112  parallel.Pool              
+  i                1x1                 8  double                     
+  image_paths      5x1               846  cell                       
+  name             1x15               30  char                       
+  poolobj          1x1               104  parallel.Pool              
+
+test
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    '..'
+    'douyu_lol_01_CQ'
+    'douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'douyu_lol_01_CQ'
+    'douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'F:\douyu_lol_02_CQ\douyu_lol_01_CQ'
+    'douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'F:\douyu_lol_02_CQ\douyu_lol_01_CQ'
+    'F:\douyu_lol_02_CQ\douyu_lol_02_CQ'
+    'douyu_lol_03_CQ'
+
+
+image_rootpaths = 
+
+    'F:\douyu_lol_02_CQ\.'
+    'F:\douyu_lol_02_CQ\..'
+    'F:\douyu_lol_02_CQ\douyu_lol_01_CQ'
+    'F:\douyu_lol_02_CQ\douyu_lol_02_CQ'
+    'F:\douyu_lol_02_CQ\douyu_lol_03_CQ'
+
+Starting parallel pool (parpool) using the 'LocalProfile1' profile ... connected to 4 workers.
+F:\douyu_lol_02_CQ\douyu_lol_01_CQ
+
+ans =
+
+F:\douyu_lol_02_CQ.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+F:\douyu_lol_02_CQ\douyu_lol_02_CQ
+
+ans =
+
+F:\douyu_lol_02_CQ.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.
+F:\douyu_lol_02_CQ\douyu_lol_03_CQ
+
+ans =
+
+F:\douyu_lol_02_CQ.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (具有属性): 
+
+            Connected: true
+           NumWorkers: 4
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE5E4FEBDB339A3F8FF9FE4FE677415F50AE2FFF9DAFF7AFE81DE8A0D9F9E94C08B377409F93BFBC03605F3FC2D07948050000')">LocalProfile1</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'LocalProfile1' profile is shutting down.

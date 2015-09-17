@@ -1,0 +1,2024 @@
+Starting parallel pool (parpool) using the 'local' profile ... connected to 4 workers.
+
+ans =
+
+E:\\douyu_lol_02_CQ
+
+
+csv_rootpath =
+
+C:\
+
+Reading the bmp list
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00038.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00038.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00016.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00016.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00069.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00069.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00057.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00057.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1642.94 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5985.07 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1868.78 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 166.274 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1317.41 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.3854
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00055.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00055.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1685.22 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6111.09 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1871.9 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 164.766 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1312.53 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   61.0837
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00035.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00035.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1773.17 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6225.59 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1873.58 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.18 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1375.81 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   60.1010
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00068.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00068.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1517.05 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5403.38 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1852.59 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 180.4 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1290.73 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   48.7776
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00015.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00015.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1648.51 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5986.75 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1867.72 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.341 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1320.65 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   56.5781
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00054.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00054.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1772.55 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6160.6 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1873.87 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 161.317 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1319.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   62.7333
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00034.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00034.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1722.3 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6114.69 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1872.29 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 166.735 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1360.31 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   59.4331
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00066.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00066.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1517.05 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5403.38 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1852.59 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 180.4 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1290.73 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   48.7776
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00013.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00013.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1772.55 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6160.6 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1873.87 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 161.317 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1319.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   62.7333
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00033.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00033.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1435.63 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5140.31 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1844.59 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 184.462 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1279.91 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   46.3777
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00008.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00008.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1648.51 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5986.75 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1867.72 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.341 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1320.65 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   56.5781
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00049.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00049.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1722.3 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6114.69 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1872.29 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 166.735 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1360.31 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   59.4331
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00065.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00065.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+Mean squared error = 1772.55 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6160.6 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1873.87 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 161.317 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1319.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   62.7333
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00032.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00032.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1377.28 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 4862.68 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1816.05 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 190.085 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1252.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   45.1247
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00007.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00007.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1625.16 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5975.02 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1866.65 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 167.048 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1303.37 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   56.7698
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00048.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00048.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1722.3 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6114.69 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1872.29 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 166.735 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1360.31 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   59.4331
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00064.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00064.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1772.55 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6160.6 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1873.87 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 161.317 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1319.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   62.7333
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00029.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00029.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1377.28 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 4862.68 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1816.05 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 190.085 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1252.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   45.1247
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00006.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00006.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1625.16 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5975.02 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1866.65 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 167.048 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1303.37 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   56.7698
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00047.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00047.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1668.02 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6036.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1870.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.32 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1335.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.6161
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00063.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00063.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1685.26 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5964.42 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1872.34 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 165.828 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1316.37 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   58.1378
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00025.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00025.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1377.28 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 4862.68 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1816.05 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 190.085 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1252.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   45.1247
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00005.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00005.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1625.16 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5975.02 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1866.65 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 167.048 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1303.37 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   56.7698
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00043.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00043.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1668.02 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6036.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1870.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.32 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1335.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.6161
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00062.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00062.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1615.69 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5727.06 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1863.97 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 170.559 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1281.76 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   54.1154
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00024.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00024.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1377.28 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 4862.68 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1816.05 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 190.085 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1252.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   45.1247
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00003.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00003.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1638.29 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5975.89 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1866.74 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.397 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1308.26 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.0074
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00042.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00042.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1668.02 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6036.54 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1870.85 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.32 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1335.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.6161
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00078.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00078.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1615.69 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5727.06 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1863.97 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 170.559 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1281.76 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   54.1154
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00022.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00022.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+Mean squared error = 1319.73 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 4645.89 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1782.09 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 199.37 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1241.82 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   44.0656
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00002.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00002.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1634.8 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5951.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1868.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.084 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1304.5 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.5767
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00041.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00041.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1866.43 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6307.56 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1874.62 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.69 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1417.81 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   62.2819
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00073.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00073.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1571.44 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5572.75 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1859.96 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 176.445 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1287.28 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   51.2547
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00021.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00021.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 100% (1/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1319.73 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 4645.89 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1782.09 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 199.37 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1241.82 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   44.0656
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00001.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00001.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Mean squared error = 1634.8 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 5951.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1868.79 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 168.084 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1304.5 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   57.5767
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00040.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00040.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+Accuracy = 0% (0/1) (classification)
+Mean squared error = 1796.61 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 6272.25 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1874.1 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 167.405 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+Mean squared error = 1387.73 (regression)
+Squared correlation coefficient = -1.#IND (regression)
+
+ans =
+
+   61.0794
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00072.bmp
+
+
+ans =
+
+E:\\douyu_lol_02_CQ\douyu_lol_02_CQ00072.bmp
+
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+WARNING: You should compile the MEX version of "innerProd.c",
+         found in the MEX subdirectory of matlabPyrTools, and put it in your matlab path. It is MUCH faster and requires less memory.
+{操作在以下过程中被用户终止 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('distcomp.remoteparfor/getCompleteIntervals', 'D:\matlab\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m', 119)" style="font-weight:bold">distcomp.remoteparfor/getCompleteIntervals</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\distcomp\+distcomp\remoteparfor.m',119,0)">line 119</a>)
+
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function>distributed_execution', 'D:\matlab\toolbox\matlab\lang\parallel_function.m', 820)" style="font-weight:bold">parallel_function>distributed_execution</a> (<a href="matlab: opentoline('D:\matlab\toolbox\matlab\lang\parallel_function.m',820,0)">line 820</a>)
+        [tags, out] = P.getCompleteIntervals(chunkSize);
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel_function', 'D:\matlab\toolbox\matlab\lang\parallel_function.m', 587)" style="font-weight:bold">parallel_function</a> (<a href="matlab: opentoline('D:\matlab\toolbox\matlab\lang\parallel_function.m',587,0)">line 587</a>)
+        R = distributed_execution(...
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OUTPUT', 'E:\DIIVINE_release\DIIVINE_release\OUTPUT.m', 15)" style="font-weight:bold">OUTPUT</a> (<a href="matlab: opentoline('E:\DIIVINE_release\DIIVINE_release\OUTPUT.m',15,0)">line 15</a>)
+        parfor i =  3 : len
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\DIIVINE_release\DIIVINE_release\run.m', 15)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\DIIVINE_release\DIIVINE_release\run.m',15,0)">line 15</a>)
+    OUTPUT(image_paths{i},csv_rootpath)
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\DIIVINE_release\DIIVINE_release\test.m', 1)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\DIIVINE_release\DIIVINE_release\test.m',1,0)">line 1</a>)
+run('E:',4,'C:\')
+} 
+clear
+Parallel pool using the 'local' profile is shutting down.
+Starting parallel pool (parpool) using the 'local' profile ... {操作在以下过程中被用户终止 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel.internal.getJavaFutureResult', 'D:\matlab\toolbox\distcomp\cluster\+parallel\+internal\getJavaFutureResult.m', 15)" style="font-weight:bold">parallel.internal.getJavaFutureResult</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\cluster\+parallel\+internal\getJavaFutureResult.m',15,0)">line 15</a>)
+
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel.internal.pool.InteractiveClient/waitForSessionCreation', 'D:\matlab\toolbox\distcomp\cluster\+parallel\+internal\+pool\InteractiveClient.m', 611)" style="font-weight:bold">parallel.internal.pool.InteractiveClient/waitForSessionCreation</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\cluster\+parallel\+internal\+pool\InteractiveClient.m',611,0)">line 611</a>)
+                [gotSession, session] = parallel.internal.getJavaFutureResult(...
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel.internal.pool.InteractiveClient/start', 'D:\matlab\toolbox\distcomp\cluster\+parallel\+internal\+pool\InteractiveClient.m', 342)" style="font-weight:bold">parallel.internal.pool.InteractiveClient/start</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\cluster\+parallel\+internal\+pool\InteractiveClient.m',342,0)">line 342</a>)
+                    obj.Session = obj.waitForSessionCreation(sessionFuture, connectionCounter);
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel.Pool>iStartClient', 'D:\matlab\toolbox\distcomp\cluster\+parallel\@Pool\Pool.m', 537)" style="font-weight:bold">parallel.Pool>iStartClient</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\cluster\+parallel\@Pool\Pool.m',537,0)">line 537</a>)
+client.start(poolType , numWorkers, cluster,...
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel.Pool.hBuildPool', 'D:\matlab\toolbox\distcomp\cluster\+parallel\@Pool\Pool.m', 434)" style="font-weight:bold">parallel.Pool.hBuildPool</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\cluster\+parallel\@Pool\Pool.m',434,0)">line 434</a>)
+            iStartClient(client, 'pool', cluster, guiMode, supportRestart, argsList);
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('parallel.Cluster/parpool', 'D:\matlab\toolbox\distcomp\cluster\+parallel\@Cluster\parpool.m', 82)" style="font-weight:bold">parallel.Cluster/parpool</a> (<a href="matlab: opentoline('D:\matlab\toolbox\distcomp\cluster\+parallel\@Cluster\parpool.m',82,0)">line 82</a>)
+    pool = parallel.Pool.hBuildPool(constructorArgs{:});
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('run', 'E:\DIIVINE_release\DIIVINE_release\run.m', 13)" style="font-weight:bold">run</a> (<a href="matlab: opentoline('E:\DIIVINE_release\DIIVINE_release\run.m',13,0)">line 13</a>)
+    parpool(c, c.NumWorkers);
+
+位置 <a href="matlab:matlab.internal.language.introspective.errorDocCallback('test', 'E:\DIIVINE_release\DIIVINE_release\test.m', 1)" style="font-weight:bold">test</a> (<a href="matlab: opentoline('E:\DIIVINE_release\DIIVINE_release\test.m',1,0)">line 1</a>)
+run('E:\',4,'C:\')
+} 
+test
+Reading image_rootpath
+
+rootpath =
+
+E:\
+
+
+image_paths = 
+
+    'E:\\$RECYCLE.BIN'
+    'E:\\BLIINDS2_release'
+    'E:\\BLIINDS2_release.zip'
+    'E:\\BaiduYunDownload'
+    'E:\\DIIVINE_release'
+    'E:\\DIIVINE_release.zip'
+    'E:\\KingsoftData'
+    'E:\\SSEQ'
+    'E:\\System Volume Information'
+    'E:\\douyu_lol_02_CQ'
+    'E:\\githubdestop'
+    'E:\\index'
+    'E:\\index2'
+    'E:\\niqe_release'
+    'E:\\niqe_release.zip'
+    'E:\\python'
+    'E:\\sepspyr-master.zip'
+    'E:\\wheel'
+
+
+ans =
+
+E:\\douyu_lol_02_CQ
+
+
+name = 
+
+    'E:'    ''    'douyu_lol_02_CQ'
+
+
+logfile =
+
+log\douyu_lol_02_CQ.log
+

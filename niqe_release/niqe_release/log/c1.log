@@ -1,0 +1,132 @@
+
+ans =
+
+D:\c1
+
+
+csv_rootpath =
+
+D:\
+
+Reading the bmp list
+
+ans =
+
+D:\c1\c1.bmp
+
+
+id =
+
+\c1
+
+error occur
+
+ans =
+
+D:\c1\c1_l-30.bmp
+
+
+id =
+
+-30
+
+
+ans =
+
+D:\c1\c1_l-20.bmp
+
+
+id =
+
+-20
+
+
+ans =
+
+D:\c1\c1_l+90.bmp
+
+
+id =
+
++90
+
+
+ans =
+
+D:\c1\c1_l+50.bmp
+
+
+id =
+
++50
+
+
+ans =
+
+D:\c1\c1_l+10.bmp
+
+
+id =
+
++10
+
+
+ans =
+
+D:\c1\c1_l-10.bmp
+
+
+id =
+
+-10
+
+
+ans =
+
+D:\c1\c1_l+30.bmp
+
+
+id =
+
++30
+
+
+ans =
+
+D:\c1\c1_l+20.bmp
+
+
+id =
+
++20
+
+
+ans =
+
+D:\c1\c1_l-50.bmp
+
+
+id =
+
+-50
+
+
+ans =
+
+D:\c1\c1_l-90.bmp
+
+
+id =
+
+-90
+
+
+outpath =
+
+D:\c1.csv
+
+
+ans =
+
+D:\c1.csv
+

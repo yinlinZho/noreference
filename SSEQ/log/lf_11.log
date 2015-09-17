@@ -1,0 +1,17660 @@
+Starting parallel pool (parpool) using the 'local' profile ... connected to 20 workers.
+
+ans =
+
+F:\lf_11
+
+
+csv_rootpath =
+
+C:\
+
+Reading the bmp list
+
+ans =
+
+F:\lf_11\lf_1104171.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104170.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103592.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103591.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104046.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104044.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101536.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101535.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100184.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100182.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102747.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102746.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101877.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101876.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103793.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103792.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101050.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101045.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103006.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102474.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102473.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103915.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103913.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104472.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104471.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102211.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102209.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102745.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104168.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100180.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103305.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103303.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104383.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104381.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100465.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100462.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103588.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101044.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102472.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103000.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104470.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101875.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103912.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104166.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100178.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101292.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101287.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100461.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103302.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104380.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102995.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104286.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104285.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102204.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103791.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103911.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100765.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100762.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102744.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101530.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104165.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102465.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104284.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100460.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104469.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100176.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103301.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103790.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104379.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104164.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102992.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101286.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104283.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104468.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100459.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102739.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103910.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100174.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101043.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104043.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104377.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104163.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100457.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103585.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103789.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100757.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101042.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100172.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102203.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101285.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102990.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104282.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104375.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101529.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104161.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102459.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104042.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101041.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102736.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100456.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101527.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102200.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104281.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100751.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100170.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101871.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104041.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104159.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104373.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100455.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101284.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103300.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104280.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101526.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103584.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102983.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101040.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104467.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104039.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104157.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100168.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103787.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101522.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102457.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101283.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101039.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104371.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100749.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104155.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103786.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102199.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101521.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103299.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104466.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104037.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102981.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101870.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100166.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104370.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101282.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102456.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103909.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104465.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104154.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103785.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102731.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101520.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103583.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100744.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101034.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100164.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101281.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101869.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103908.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104369.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101518.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104035.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102195.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100743.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104153.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102455.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101867.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101033.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102730.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103293.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104279.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102193.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103784.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104034.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100162.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102449.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100741.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101276.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101865.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101031.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103291.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104278.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104152.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103783.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104033.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103907.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101517.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102447.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102975.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100160.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101030.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104368.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100454.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103290.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101864.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104032.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102190.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101275.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104277.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103906.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104464.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101516.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103782.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103580.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101863.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104367.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100451.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101029.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101274.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101511.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103905.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100158.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103284.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104151.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103577.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102187.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104031.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104276.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100449.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101028.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104462.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102727.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101273.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104366.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101510.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102973.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103903.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100739.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104275.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100156.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102725.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101860.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103781.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102185.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101270.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103576.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101023.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103283.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104365.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101509.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100448.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104150.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101859.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103902.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104030.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102179.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103575.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104363.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103282.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101507.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102967.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101269.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101858.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104028.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100447.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100154.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102724.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104274.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103901.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102446.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104460.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103276.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101268.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104149.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100732.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101502.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103569.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104360.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104027.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102965.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104273.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100446.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101267.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104459.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104148.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102723.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103779.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101499.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100730.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102962.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104358.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104025.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102443.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104271.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102722.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103274.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104147.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103778.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103568.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100729.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104458.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102178.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103899.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104356.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102956.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101496.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101857.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101022.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103567.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104457.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100152.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103270.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102176.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101492.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100725.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102721.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102954.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103777.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103563.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100443.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102173.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100150.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104270.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104023.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104355.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101266.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104144.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103776.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103898.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101856.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103269.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102439.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102172.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103557.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104022.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104269.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100721.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102947.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102720.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101491.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101018.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104143.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102438.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104268.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103897.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104354.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100719.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100441.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102945.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101850.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101486.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103267.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101017.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101265.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104456.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104352.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102168.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103555.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100712.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101849.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102717.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102436.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104267.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101263.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102942.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103775.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101014.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104020.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101485.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100148.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102714.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104454.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102435.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102167.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103896.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102937.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104019.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100710.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104350.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101848.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100440.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102713.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103774.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103266.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101011.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102933.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103895.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102164.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102711.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104349.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104265.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103773.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104018.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101847.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103264.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102159.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100438.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101009.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102928.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104016.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104141.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104348.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104452.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103549.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100704.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103771.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101845.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100437.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101483.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104347.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102925.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102158.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104451.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100144.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101006.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100703.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104015.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104264.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100433.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102709.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103894.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104450.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102156.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103263.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104140.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103548.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101841.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101482.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101262.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102429.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102924.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104346.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101005.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100702.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104013.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102151.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103893.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104449.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103262.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101480.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104138.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100700.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104345.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103770.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102923.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102427.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101004.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104448.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101840.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103547.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101257.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102708.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100432.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100140.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104137.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103768.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104263.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103892.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101256.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100699.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101003.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102707.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103257.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104447.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101839.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100430.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104012.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100138.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102422.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103766.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101255.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103255.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100698.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104136.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104011.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101479.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100429.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101837.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102149.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103891.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102919.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103544.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102421.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101001.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104344.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104135.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100426.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104446.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102705.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101254.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101474.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100695.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104262.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103254.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102418.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103890.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101000.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104009.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104444.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104133.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101833.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100425.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101253.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103542.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101473.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100694.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104343.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104261.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104443.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102704.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102417.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101249.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100999.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100136.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103253.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102140.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103541.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102702.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103889.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104442.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103765.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104342.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101248.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100693.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104259.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103539.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100424.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102413.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102138.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103763.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102701.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101832.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103252.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101247.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104258.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104441.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103888.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100134.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103536.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100692.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104007.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102916.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104257.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102133.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100420.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101246.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100131.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100994.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103246.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104341.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101831.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102410.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103531.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102700.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104256.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100691.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101242.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102914.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104006.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102132.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103887.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100419.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103530.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101472.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101827.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100129.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102406.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100418.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104005.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102699.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104254.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102128.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100991.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100690.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101471.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104440.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104340.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102908.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100415.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103527.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100688.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101241.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103758.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104439.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103886.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102698.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100127.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104339.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100687.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101467.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101825.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104252.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103757.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103245.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103525.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104131.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101240.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103884.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100413.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102697.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100125.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100986.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104338.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103755.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102403.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102126.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104004.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104438.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101818.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104130.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100412.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103524.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103244.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100985.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101239.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100685.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103754.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102402.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104003.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104436.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102691.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101466.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101816.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100123.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100409.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102399.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100684.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102119.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101238.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104002.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104129.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103882.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104435.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100403.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103240.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103518.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102117.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100121.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100683.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101810.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104127.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101237.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103753.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102398.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103239.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103517.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104337.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104251.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100682.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102111.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103880.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100119.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103752.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101808.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101465.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102396.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100401.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101235.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103510.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100984.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102690.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100676.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104250.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100117.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102109.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100396.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101805.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103878.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103237.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100983.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101464.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104126.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101234.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102907.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104249.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103748.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100674.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100395.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104336.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102689.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100115.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104001.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104125.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101229.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101803.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101463.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102391.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103877.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104434.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103747.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103509.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100979.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101228.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100393.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102906.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102105.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101461.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104247.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104000.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101802.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102390.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100673.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104124.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100113.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100978.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101227.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104246.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101801.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103508.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103998.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102903.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103236.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100672.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102685.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104122.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100977.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104335.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103876.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100389.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100111.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104432.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101226.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103745.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102684.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100669.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103996.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100109.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104245.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101460.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100975.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103875.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101225.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103507.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102901.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104121.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100387.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103235.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101800.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104334.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103995.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104431.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102388.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103744.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104244.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102900.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103874.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100386.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103505.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104333.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104120.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100107.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101796.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101223.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100667.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104430.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103232.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103743.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102387.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103500.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103872.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100666.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103994.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102101.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104332.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101222.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102898.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100105.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104118.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102382.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104242.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101795.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100972.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104331.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103871.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100385.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100664.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103231.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103993.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101456.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104429.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103738.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100970.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103496.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101794.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100383.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104330.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102093.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101455.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100969.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103870.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103229.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100661.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102895.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102683.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103494.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102380.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104428.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103737.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101792.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101454.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104116.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100103.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104240.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104328.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102682.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100382.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100659.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102890.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103227.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102375.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104115.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100968.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102681.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101452.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100658.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102887.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104326.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104238.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104114.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103731.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103493.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104427.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102089.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101451.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101221.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102680.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103226.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102374.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104236.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104113.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104324.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101448.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100101.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100967.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102880.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100381.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103991.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102679.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103222.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104234.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103730.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103492.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103869.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100377.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101220.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104323.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101447.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100653.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102879.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103221.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102370.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103868.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100099.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103488.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103989.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103726.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101784.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102087.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104233.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100652.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103219.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103987.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102878.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101446.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104111.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100376.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103482.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104426.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101218.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103725.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104322.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104110.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103218.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101217.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103867.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102876.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102678.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100375.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101443.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103481.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103985.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104321.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104232.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101215.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102677.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100373.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103480.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104108.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103721.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104320.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102368.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104231.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102875.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103984.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103479.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100965.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100645.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100093.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101783.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102079.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104425.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104106.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101214.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103215.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103982.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104230.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100964.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102869.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100091.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104319.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101442.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102674.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104104.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102367.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102073.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103212.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102867.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104229.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101440.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104102.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103866.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100089.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100643.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100959.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102861.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102673.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103478.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104317.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100371.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103211.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102366.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102071.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104424.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103720.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103980.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104101.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100640.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102672.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100087.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104228.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101779.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101213.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102859.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103209.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103979.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103472.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104100.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100365.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102671.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100085.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100958.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101212.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102858.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101778.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103865.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103719.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103471.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104099.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104423.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100083.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102064.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101438.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104316.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103978.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102669.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100638.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102363.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103716.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101777.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101211.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102856.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103976.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102666.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104226.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102062.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103469.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102357.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103864.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100637.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103715.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101775.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104315.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102855.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101437.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101210.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102665.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100363.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100956.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104096.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104225.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100636.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104422.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101772.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101435.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103863.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102356.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100356.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100079.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100955.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100635.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104421.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102052.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103714.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103207.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103861.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102851.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102664.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101434.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104314.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104224.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100077.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101209.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103709.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100951.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102850.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102658.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103463.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101765.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102050.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100353.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103974.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104222.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102355.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101203.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100950.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100630.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104093.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103708.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101432.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100348.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103973.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102044.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103461.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100076.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102656.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104313.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101763.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101202.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104221.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103707.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100629.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104420.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101429.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104091.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103460.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102847.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100075.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103203.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100949.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102655.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104220.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100344.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104419.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101201.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103705.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104312.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104090.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100074.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102845.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102654.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101427.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103455.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101199.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100627.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104311.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100073.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104418.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103860.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103451.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102653.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102353.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102844.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102042.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103704.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104219.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100343.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104088.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100625.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100071.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104309.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101198.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103972.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102843.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103859.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103200.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102351.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104417.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100342.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100624.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104086.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100947.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101193.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103449.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104217.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103857.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104308.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103199.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100623.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104416.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103703.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101426.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103971.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100339.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101755.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102350.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102649.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104215.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104413.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100946.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101190.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103698.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103446.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102349.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103194.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104084.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101425.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100336.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100945.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102842.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103697.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104412.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104213.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103444.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102648.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101424.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103856.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104082.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100943.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104307.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100621.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102036.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101184.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103969.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102841.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100070.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102647.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104211.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104306.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100335.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100942.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103695.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103967.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104411.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100069.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103443.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102840.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101751.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104079.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103854.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103694.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102346.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104409.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100938.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104305.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102034.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102645.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100620.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101747.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100068.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103690.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100936.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100332.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104304.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104407.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103965.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100066.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103442.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103852.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104209.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102345.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100930.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103689.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102833.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101181.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101418.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100064.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104303.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104406.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104208.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103850.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104078.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102344.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102028.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102641.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101417.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101178.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103849.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100063.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104405.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100619.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104302.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103686.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102831.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104077.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102636.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101175.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100331.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101744.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102026.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104404.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102343.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102828.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100616.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101172.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103685.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101739.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103964.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104207.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104075.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100062.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103193.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102022.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100928.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102827.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100328.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102339.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100615.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101170.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103441.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103848.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104301.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103192.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102826.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104206.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103962.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100061.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100613.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101735.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101165.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103847.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100924.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104300.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102017.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100326.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102825.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100060.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103435.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102338.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104403.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103846.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104299.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102632.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100919.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101164.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103191.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100611.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104073.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102337.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103845.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103433.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104204.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102014.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101416.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100916.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103961.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103684.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104298.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102630.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101161.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103429.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104402.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101733.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104202.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100911.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104297.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102009.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103960.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104070.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101157.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103844.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100610.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102824.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104401.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103187.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101415.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103682.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102335.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101727.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104201.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100609.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104399.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100320.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100908.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102629.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103185.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101725.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103843.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101156.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103681.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100608.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102823.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104068.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101413.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100318.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103425.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104398.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102628.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102007.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101153.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103183.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103958.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101719.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100906.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102822.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100317.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103678.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103421.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104397.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100607.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102006.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103181.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101151.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104199.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100314.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101717.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104066.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100900.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104395.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100058.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104296.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102000.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103842.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100605.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103677.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101714.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101150.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102332.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100897.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103957.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101412.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104394.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102627.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100056.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104197.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102821.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104295.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100603.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103180.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101406.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103840.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104064.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103675.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104393.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102624.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100892.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101707.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104195.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101145.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101404.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102330.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103669.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103417.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103956.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104392.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102622.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103839.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103179.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100310.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101401.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100888.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102820.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100602.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103838.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104193.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104294.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101705.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103173.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103954.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102819.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103413.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104063.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100601.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103668.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104391.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104191.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100883.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103836.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100307.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100055.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103407.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101699.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103667.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101398.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102329.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100879.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104293.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104190.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101999.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103170.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101696.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102621.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100054.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101138.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102815.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104189.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100306.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103952.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101397.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104062.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103662.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102620.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100600.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100052.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102814.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104188.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103169.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102328.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103835.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102619.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103661.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101395.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103404.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101137.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103168.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102813.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100599.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103834.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102327.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104291.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100877.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102618.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101135.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104390.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104061.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103402.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102812.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100050.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103162.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100871.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102617.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103951.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101393.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101134.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101998.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104389.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104186.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104290.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103659.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102325.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103160.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100049.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102616.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101997.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100595.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102811.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101694.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101390.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104184.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102324.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103159.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100594.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102810.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104289.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103654.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101129.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103396.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101389.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103949.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104182.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100869.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100048.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101996.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104288.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102808.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101128.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100593.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101688.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100301.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103832.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103653.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103390.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100047.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100863.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102323.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103947.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101387.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102615.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103156.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101686.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103831.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101126.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104057.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100592.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100046.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100300.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103154.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102807.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104388.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101386.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100861.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103650.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101125.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103388.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103830.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103946.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103152.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100591.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101680.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101995.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104056.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100298.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103151.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102614.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104180.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100044.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100855.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102806.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101124.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104055.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104387.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103829.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103944.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100297.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103148.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104562.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104561.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100587.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101123.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102805.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104178.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100853.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104560.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103943.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101677.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104385.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103827.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100585.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102804.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100849.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100042.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101385.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104054.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100295.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101674.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103385.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102803.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101119.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101990.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103645.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100844.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103825.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101381.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102800.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104559.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100290.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104177.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100041.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103380.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102321.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102611.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100841.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101118.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101669.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101379.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100584.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103942.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103823.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103140.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102320.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102799.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103642.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102610.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100040.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101117.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101377.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103940.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104636.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104635.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100289.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101666.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102609.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104053.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102798.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101989.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103639.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103822.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103377.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104175.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101116.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103134.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104558.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100836.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101660.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102608.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100582.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104633.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101988.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103821.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103636.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104051.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103132.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102797.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102319.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104173.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100039.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101115.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101658.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103939.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103372.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104632.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104050.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103820.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100288.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102795.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102317.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101109.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101376.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103369.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100578.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103938.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103819.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103127.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103633.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102794.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102316.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100833.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104556.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101655.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104631.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103936.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100038.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101108.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103368.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103818.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104555.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101652.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100287.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100831.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102315.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103123.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102792.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104707.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104706.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104049.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103632.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103366.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104554.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100037.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100574.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101987.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102605.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101372.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100281.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103630.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104553.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100570.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103360.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104630.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100036.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103934.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101371.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103120.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102600.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103816.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102312.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100825.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100278.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103359.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103932.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101981.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101369.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100035.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104705.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103815.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103117.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100823.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104552.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102310.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104629.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103357.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100273.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101651.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101978.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104704.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100034.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102597.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100568.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101368.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101105.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103930.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100270.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104550.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104702.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103813.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101366.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100562.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102787.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101977.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101104.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102309.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100033.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103629.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101650.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104701.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103811.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103352.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104548.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103116.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104628.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102308.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100822.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101365.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103929.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100560.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100269.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101103.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103113.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104700.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100818.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104627.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102307.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100554.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101973.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101361.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100266.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104546.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104048.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103628.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102593.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100032.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102301.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104626.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101642.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103927.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102784.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100552.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101360.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103112.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103351.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103810.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100817.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104699.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104778.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102783.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102300.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101358.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100031.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100546.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101972.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103106.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104776.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101102.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102589.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100265.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100816.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103925.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104625.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104698.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101357.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103103.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104774.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100544.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100262.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104545.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102585.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100815.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104696.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100030.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103350.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101352.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103923.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102299.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103809.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100261.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100814.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102781.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102579.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101641.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104695.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103346.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104544.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100540.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104773.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100029.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103623.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102298.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104694.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103341.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104624.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103922.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101639.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104772.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103807.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101091.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100260.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102577.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103093.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103622.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102297.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104771.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101638.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103806.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104542.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101969.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103921.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102571.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103338.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102292.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100259.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101089.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100810.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103805.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103919.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104623.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101632.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101967.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100535.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104541.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103618.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104693.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103090.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102568.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100028.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101351.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103803.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101086.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102291.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102779.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103337.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104770.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104622.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102566.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100027.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103918.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101348.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104692.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103801.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100256.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103616.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100532.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104540.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102290.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101631.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103917.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101964.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101084.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102561.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104691.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104768.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100254.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100026.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104538.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103087.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101629.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101961.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102557.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101343.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104767.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103333.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103614.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103916.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102288.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104536.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103799.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102553.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101625.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101960.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100809.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100025.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100526.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103332.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104621.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104766.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103611.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102778.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102549.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104535.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104690.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100024.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100252.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101624.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100523.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101959.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101342.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103086.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102285.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103606.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103331.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100023.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102777.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100251.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102544.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104620.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102284.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104689.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103083.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103798.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103602.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104534.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100022.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101622.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102541.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101079.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100807.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101341.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100517.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103797.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103600.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103329.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104533.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101621.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104764.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100515.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102534.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102279.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104688.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101954.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104619.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100806.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104845.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104844.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103796.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103594.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100512.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102532.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101615.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101340.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104687.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100021.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102278.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100247.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104617.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101072.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103795.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104532.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102776.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102530.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100507.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100020.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100245.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101070.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103076.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104616.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101613.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103328.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101338.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101953.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104763.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104531.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100019.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101067.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103073.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104615.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102775.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100805.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103794.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100243.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100018.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100503.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104530.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101607.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103067.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104762.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100804.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104843.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101952.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101062.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101336.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103593.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100498.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104529.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104842.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104614.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100242.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102524.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100017.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101331.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102772.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100495.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101605.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101060.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104940.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104938.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104760.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104613.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104686.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104527.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102276.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101951.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103065.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103327.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102521.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101601.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104936.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104684.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100016.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101329.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101949.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100240.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104612.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101596.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102518.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104934.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100803.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100493.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101326.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102274.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101948.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105058.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105053.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103057.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100239.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100014.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102771.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101593.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101323.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103323.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100487.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101943.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101058.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102273.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100802.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100234.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101588.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101322.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100012.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105052.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104526.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104683.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104841.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104932.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100485.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102513.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100798.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101585.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101942.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103053.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102770.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100010.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104839.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101057.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103321.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100479.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101582.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104759.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103048.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102510.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102270.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104525.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104611.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100009.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100797.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102769.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105051.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101576.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101941.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100476.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101056.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103045.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104524.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101320.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104930.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102504.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102268.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104837.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101938.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100472.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101053.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105049.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104610.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101574.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100230.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103319.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100796.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104758.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104682.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103040.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102267.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100468.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101568.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105045.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104928.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102502.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101935.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101316.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102768.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104756.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104836.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104926.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100007.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104609.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105042.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103315.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101315.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102262.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104523.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102496.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104681.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102767.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104607.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101566.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104755.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100006.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100795.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103036.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105041.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102261.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104680.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101314.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104606.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102766.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100005.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101052.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100794.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104754.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105040.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105136.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105135.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103031.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102765.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101933.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100003.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101562.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100225.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103314.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104522.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104753.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100791.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105038.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104835.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102494.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103029.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102764.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104679.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104605.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100223.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101313.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104521.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101557.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100002.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105037.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104834.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102492.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104678.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104924.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100221.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104603.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101932.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103313.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105134.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101555.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103026.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102760.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102488.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105031.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104520.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104833.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100214.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104677.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105238.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105235.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101931.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104602.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102485.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103020.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101310.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100001.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104519.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104676.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101549.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105230.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105029.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104601.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104922.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104832.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101927.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101304.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103018.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100212.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104751.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105229.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104600.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103310.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101546.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104675.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102260.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102759.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104518.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101300.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103012.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102482.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104599.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105354.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105353.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105025.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103307.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104831.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104674.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104750.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102257.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104517.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101924.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105226.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105133.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104598.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101541.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104673.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102758.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100206.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105024.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104830.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104920.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105447.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105446.bmp
+
+
+ans =
+
+F:\lf_11\lf_1103306.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100786.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104597.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101298.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104516.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105130.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105023.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102256.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102480.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105445.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104829.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101538.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104749.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105222.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100203.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102253.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104596.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104918.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102478.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101922.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105352.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105511.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105509.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105021.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101537.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105129.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104672.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102755.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104595.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101297.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100777.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100201.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105444.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101921.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102252.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104671.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102751.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104594.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101296.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105128.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105017.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104828.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100773.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105508.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105218.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104515.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105584.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105581.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100197.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105443.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105350.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104916.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105126.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101920.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104747.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104826.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104593.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105015.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100771.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104670.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101294.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102750.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105442.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104514.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104746.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100195.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102477.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105349.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104825.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104592.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104914.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105014.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100770.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102749.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104669.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105125.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105348.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104591.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102475.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104513.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100193.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105013.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105438.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101915.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101293.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104912.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105122.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105346.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102249.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104824.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105216.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105011.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105579.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105437.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104668.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105342.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102248.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100191.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105643.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105642.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100769.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104511.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105010.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102748.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105504.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105121.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105210.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104910.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105714.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105709.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104745.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105641.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105436.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102244.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104590.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104908.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105009.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104667.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101914.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100189.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105433.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105120.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104823.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105209.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105503.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105578.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104743.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105341.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105708.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104509.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104589.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100766.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101912.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105792.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105790.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105640.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104822.bmp
+
+
+ans =
+
+F:\lf_11\lf_1100187.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105340.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105577.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104666.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105118.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102243.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104588.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104741.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105576.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105338.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105208.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105502.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105116.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105888.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105887.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105639.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104906.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105429.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104587.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101906.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104665.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105336.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102239.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104820.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105575.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105115.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105501.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105707.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105885.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105635.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104904.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105203.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104508.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105960.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105957.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104664.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104586.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104740.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104819.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105783.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101902.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105880.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105007.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102233.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105706.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105330.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105500.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105634.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105202.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104902.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104739.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105952.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105574.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105006.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105879.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102232.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105428.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105704.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105633.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105112.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105781.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105005.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104900.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105201.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104507.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104663.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105327.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105499.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105949.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102231.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105573.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105699.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104738.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105111.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105200.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105632.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104505.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104662.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104898.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105876.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105002.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105572.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105427.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105942.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104818.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105697.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105110.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105197.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105779.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102229.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104737.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105498.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105569.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104896.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105875.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104584.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104661.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105694.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101900.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105105.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105325.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104997.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105425.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102228.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104582.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104736.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105631.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104660.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104894.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105423.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102225.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105776.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105104.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105196.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104992.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101894.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105940.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104658.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104817.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105497.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104735.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105099.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105873.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104504.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105627.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105774.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105322.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105568.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105693.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104581.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104734.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105937.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105868.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104816.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105422.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104990.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105626.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104657.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104892.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102223.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101893.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105098.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105867.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105191.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105933.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105419.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104815.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105691.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104656.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104733.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105772.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105625.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105864.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105418.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105318.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105190.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105494.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104987.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104814.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105770.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104890.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105624.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102221.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104580.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105860.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105096.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105189.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105493.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104654.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104503.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105767.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105623.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102215.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105416.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105317.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105932.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104813.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104578.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101892.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104731.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105567.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105622.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105690.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105188.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105314.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105492.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104501.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104653.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104888.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105620.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105566.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105686.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105414.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105094.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105930.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104577.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105310.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104812.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104730.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104886.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104985.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104499.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105684.bmp
+
+
+ans =
+
+F:\lf_11\lf_1102212.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105859.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105491.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105092.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104884.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105308.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104576.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105565.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104979.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105619.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101887.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105857.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105680.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104652.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105413.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105490.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104977.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105757.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105564.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105616.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105185.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104811.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104575.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105302.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105854.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104498.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104882.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105183.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104975.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105679.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105489.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104810.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105299.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106063.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106062.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105089.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104880.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105929.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105409.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104574.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104651.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105756.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105615.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105678.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105848.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104729.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104973.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105926.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105088.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104573.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105406.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104650.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105486.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105845.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105298.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104971.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105087.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105614.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104809.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104572.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105675.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105563.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105924.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104648.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106057.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104728.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105295.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104969.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105611.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105754.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105182.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105399.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104878.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105923.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106055.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105086.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105753.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104571.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105609.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101886.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105840.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104727.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104497.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104808.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105485.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104876.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105607.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105921.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104967.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105294.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105838.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104495.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105397.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105484.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104726.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105180.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104647.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101884.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105606.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104965.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104493.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104874.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104806.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104570.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105920.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105752.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105558.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104725.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106054.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105837.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101883.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104491.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104804.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105670.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105483.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105084.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105919.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105291.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105833.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104569.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104724.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104872.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104963.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104489.bmp
+
+
+ans =
+
+F:\lf_11\lf_1101878.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104644.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105918.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105481.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104568.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105669.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105555.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104961.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105605.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104643.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105285.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105393.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105832.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105179.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104488.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105668.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105750.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106051.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104959.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104723.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105283.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105080.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105388.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105913.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104487.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105477.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104871.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105553.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105746.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104642.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105828.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105278.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104803.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104957.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104722.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105178.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106114.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106112.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105663.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105079.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105745.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104567.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104802.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104870.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105827.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105912.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105604.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105548.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105662.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105177.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104641.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105385.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105078.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105476.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104801.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105544.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104486.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105820.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105742.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104566.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106111.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105077.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105661.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104721.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105277.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105603.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106046.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105475.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105737.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104955.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105909.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105076.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104640.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104800.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104565.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105601.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106110.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105172.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105660.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105274.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104485.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104720.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106043.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104799.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104639.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105383.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105075.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105734.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105818.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104483.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104869.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105600.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106108.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105659.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104798.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104564.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105074.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104638.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105907.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105540.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105732.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105474.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106037.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104482.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104952.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104563.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104868.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105905.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105377.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104719.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105273.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105167.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105597.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105811.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105731.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105539.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106035.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104637.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106107.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105271.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105375.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104481.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104718.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105473.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105809.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105904.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105165.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105728.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104796.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105596.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104480.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105657.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104950.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105469.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106032.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104866.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106160.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106159.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105903.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105806.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105538.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105164.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105595.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105656.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105071.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104948.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106027.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105726.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104795.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104717.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106158.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105374.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105593.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105653.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105902.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106024.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104479.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104794.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104716.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104865.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105371.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105801.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105724.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106018.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105070.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105537.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106103.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105163.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105592.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105370.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106221.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106219.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105897.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105468.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104793.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106016.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104715.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105723.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105536.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106102.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105266.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105160.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105797.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104946.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104792.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105369.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104478.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106010.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104864.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105467.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105068.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105718.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105652.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105265.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106217.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105158.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104477.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106100.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106155.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105717.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105534.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104714.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104944.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105368.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104474.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106099.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105466.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105715.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105533.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104863.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106216.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106150.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104942.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105896.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104713.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105157.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106269.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106265.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105263.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106149.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104790.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104862.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105367.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105894.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105067.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105257.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106263.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105528.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106094.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106213.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106306.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106303.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105586.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106004.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104860.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104473.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105066.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105363.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104789.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106145.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105893.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105464.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105999.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104712.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104859.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105255.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105362.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106262.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105651.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105063.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106212.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105527.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105154.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104857.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106144.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105361.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105463.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106211.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105647.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105524.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104787.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105061.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106093.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106411.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106409.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105249.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105360.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105995.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106301.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104786.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105523.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106140.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104856.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106382.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106381.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106408.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106261.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105060.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106341.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106340.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105359.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105462.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106139.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104711.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106091.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104855.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105645.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105247.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106406.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106377.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105993.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106468.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106467.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104853.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106258.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106090.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106337.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106137.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105152.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106404.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105461.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105987.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106300.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105520.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106256.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104784.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104710.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106336.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106210.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106557.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106556.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106517.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106515.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106299.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105985.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106133.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104852.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106087.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104783.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106208.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106465.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106335.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106255.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106597.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106596.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105519.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105460.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106372.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104782.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106297.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106513.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106086.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106554.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106333.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105151.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105457.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106296.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105243.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106371.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106403.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106254.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105518.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106511.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105979.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104708.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106595.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106132.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106464.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106293.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106253.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106550.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106400.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105241.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106505.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105456.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106590.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105150.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104779.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106332.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106206.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104851.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106460.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106085.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106250.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106589.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106205.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105239.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106399.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106370.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105149.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106544.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106503.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104849.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106459.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106637.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106635.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106398.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106588.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105517.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106244.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106292.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106369.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106673.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106672.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106543.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106331.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106131.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106083.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106458.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105512.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106670.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106366.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106634.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105452.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106329.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105976.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106291.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106499.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105144.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106243.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106664.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106542.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106328.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106709.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106705.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106497.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106202.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105143.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106456.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105971.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105448.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106587.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106747.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106745.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106082.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106130.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106450.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106660.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106196.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106704.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106365.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106397.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105968.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106582.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106080.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104848.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106659.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106364.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106128.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106541.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106700.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106289.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106741.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105965.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106495.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106581.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106447.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106363.bmp
+
+
+ans =
+
+F:\lf_11\lf_1104847.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106393.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106658.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106194.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106580.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106740.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106127.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106327.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106633.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106493.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106242.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106442.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106191.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106578.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106739.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106823.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106821.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106656.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106122.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106699.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106362.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106540.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105141.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106786.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106785.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106631.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106820.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106237.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106121.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106491.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106361.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106325.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106784.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106537.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106074.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106438.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106392.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106236.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106120.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106630.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106489.bmp
+
+
+ans =
+
+F:\lf_11\lf_1105138.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106288.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106324.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106815.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106572.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106072.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106391.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106487.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106436.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106186.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106235.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106629.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106698.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106854.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106852.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106321.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106535.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106390.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106737.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106889.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106888.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106780.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106119.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106071.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106183.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106851.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106287.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106356.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106534.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106625.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106389.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106814.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106570.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106177.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106320.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106118.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106779.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106355.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106850.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106233.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106883.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106483.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106693.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106431.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106777.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106812.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106070.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106386.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106174.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106655.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106353.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106849.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106731.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106481.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106319.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106622.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106567.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106692.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106428.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106776.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106230.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106654.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106116.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106846.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106479.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106069.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106347.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106730.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106532.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106422.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106385.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106227.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106115.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106317.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106346.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106065.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106845.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106775.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106531.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106882.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106808.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106691.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106384.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106621.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106774.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106345.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106729.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106286.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106170.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106315.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106652.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106881.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106475.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106344.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106934.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106931.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106383.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106768.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106564.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106525.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106690.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106225.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106973.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106969.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106420.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106469.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106651.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106727.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106807.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106843.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106880.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106285.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106930.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106967.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106687.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106767.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106648.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106563.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106620.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106877.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106806.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106224.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106686.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107069.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107068.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106281.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106169.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106926.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106314.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106523.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107030.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107027.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106618.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106684.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106765.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107104.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107102.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106804.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106562.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106726.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106222.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106646.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106965.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106683.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106871.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106761.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106308.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106168.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106612.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106280.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107100.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107022.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107064.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106803.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106924.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106416.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106645.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106522.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106870.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106558.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106721.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107063.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107021.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106918.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106307.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106760.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106801.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106868.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107129.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107128.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106719.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106519.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107060.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106759.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107098.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106611.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106917.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106682.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106641.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106964.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106867.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106797.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106839.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107059.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107097.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106718.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106610.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106757.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106166.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106639.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106279.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106864.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107018.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106609.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106679.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106796.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107095.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107127.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107151.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107149.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106916.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106277.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106678.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107013.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106638.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106607.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107093.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107056.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106863.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106963.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106163.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107010.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106273.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106838.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106912.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107054.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107148.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107092.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106753.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106272.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107126.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106603.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106910.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106793.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107050.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107146.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106675.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106715.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107125.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106271.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106959.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106837.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107008.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107048.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107091.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107145.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106748.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107123.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106957.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106835.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106714.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107047.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107090.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106862.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107144.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106908.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106956.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106792.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106713.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106860.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106834.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107003.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107087.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107041.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107143.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106710.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106955.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107122.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106903.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106789.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106833.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107142.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107040.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106859.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107002.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106952.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107121.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106902.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107086.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106788.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106829.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107140.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107039.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106948.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106999.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106856.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106898.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107119.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107084.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106827.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107038.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106994.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107139.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106947.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106897.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106855.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107118.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106826.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107033.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107083.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107137.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106896.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106991.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106944.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107116.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106824.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107032.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107136.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107081.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106987.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106943.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106893.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107114.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107031.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107135.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107079.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106984.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106939.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106890.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107113.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107074.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107134.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106983.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106938.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107111.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107070.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107133.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106935.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106981.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107110.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107132.bmp
+
+
+ans =
+
+F:\lf_11\lf_1106979.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107109.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107131.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107107.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107130.bmp
+
+
+ans =
+
+F:\lf_11\lf_1107106.bmp
+
+
+outpath =
+
+C:\lf_11.csv
+
+
+ans =
+
+C:\lf_11.csv
+
+
+poolobj = 
+
+ <a href="matlab: help parallel.Pool">Pool</a> (´øÊôĞÔ): 
+
+            Connected: true
+           NumWorkers: 20
+              Cluster: <a href="matlab: parallel.internal.display.Displayer.displayObject('1F8B0800000000000000AD54C14AC34010DDA4A9E8C1A208D24FF014543C88B758119506B1ADB4878574DB2E35BACD864D047BF3E8D14FF0E8D14FF033BC081EFD0C779A4DB38D29557460D8BCC9CE9B7DB3C322E3D445D22AD29FA42F495F96BE8E1233A6AB85DCDA7913F096F49008C21865B61FC4540484D9033F0A1919DB35761BC9904B47348839F09E68BCAB8AAFACF092AA91D6015C4D3EDF4DED5FEAC0F768657C2B393ED8D3B5323E5361A4E97C2D65F96641BE7E9EB2D45D561856E841CA7357FA59BF40F3B1CF685B9030A4C2F354FEBE969FD54B705A338DC3FEAA315FF7676EBFA962B082FCAEF47BE52FD2DFD4FFD45AE390A2231213347B7FF32F1A151AD42A15FF9A31A300EB31137DD793DFA35B455BF579B3545CBFDF4D8D674DE1A9CC7E22DFAEF33E6109DF07FADDBC6C280CEB19EF35632EC8900261ECF3203BE7C382735EE4CE09B876802F232A22EC0C467EE047B120921E3B610897871B9CC8F010BB24BE6A73711361D769D59D43CC408EA7C479D7BC17E1C6EEF6CE1ED1FAF68CE6CF63BEFF93F95DD01794EBCB7FE7EBFD2B7A073A68767E3A13C2EC1DD0E7E42FEF00D817B2A8755D48050000')">local</a>
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+Parallel pool using the 'local' profile is shutting down.

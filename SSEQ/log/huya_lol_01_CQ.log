@@ -1,0 +1,1645 @@
+2015-06-18 13:13:23,150 video_quality        INFO       video_quality huya_lol_01_CQ 
+2015-06-18 13:13:23,447 duplication          INFO       duplication huya_lol_01_CQ 
+2015-06-18 13:14:40,098 duplication          INFO       duplication huya_lol_01_CQ spent 76s
+2015-06-18 13:14:40,098 quality              INFO       quality huya_lol_01_CQ 
+2015-06-18 13:14:55,052 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01011.bmp
+2015-06-18 13:14:59,275 quality              INFO       sseq score huya_lol_01_CQ01011.bmp is 26.1549275865
+2015-06-18 13:14:59,301 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05320.bmp
+2015-06-18 13:15:02,628 quality              INFO       sseq score huya_lol_01_CQ05320.bmp is 27.3414802894
+2015-06-18 13:15:02,641 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03346.bmp
+2015-06-18 13:15:05,918 quality              INFO       sseq score huya_lol_01_CQ03346.bmp is 22.472185447
+2015-06-18 13:15:05,933 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04403.bmp
+2015-06-18 13:15:09,210 quality              INFO       sseq score huya_lol_01_CQ04403.bmp is 22.562173025
+2015-06-18 13:15:09,223 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03758.bmp
+2015-06-18 13:15:12,509 quality              INFO       sseq score huya_lol_01_CQ03758.bmp is 23.2804582307
+2015-06-18 13:15:12,532 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02048.bmp
+2015-06-18 13:15:15,805 quality              INFO       sseq score huya_lol_01_CQ02048.bmp is 22.3039304446
+2015-06-18 13:15:15,825 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01349.bmp
+2015-06-18 13:15:19,098 quality              INFO       sseq score huya_lol_01_CQ01349.bmp is 23.7675122322
+2015-06-18 13:15:19,111 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04499.bmp
+2015-06-18 13:15:22,395 quality              INFO       sseq score huya_lol_01_CQ04499.bmp is 23.0981471819
+2015-06-18 13:15:22,417 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00996.bmp
+2015-06-18 13:15:25,674 quality              INFO       sseq score huya_lol_01_CQ00996.bmp is 26.2790147045
+2015-06-18 13:15:25,696 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01659.bmp
+2015-06-18 13:15:28,967 quality              INFO       sseq score huya_lol_01_CQ01659.bmp is 21.7487117137
+2015-06-18 13:15:28,989 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01306.bmp
+2015-06-18 13:15:32,263 quality              INFO       sseq score huya_lol_01_CQ01306.bmp is 23.6968479956
+2015-06-18 13:15:32,276 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02760.bmp
+2015-06-18 13:15:35,546 quality              INFO       sseq score huya_lol_01_CQ02760.bmp is 22.0382074388
+2015-06-18 13:15:35,559 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07207.bmp
+2015-06-18 13:15:38,828 quality              INFO       sseq score huya_lol_01_CQ07207.bmp is 22.5380862434
+2015-06-18 13:15:38,841 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05165.bmp
+2015-06-18 13:15:42,108 quality              INFO       sseq score huya_lol_01_CQ05165.bmp is 22.8773679699
+2015-06-18 13:15:42,130 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00904.bmp
+2015-06-18 13:15:45,395 quality              INFO       sseq score huya_lol_01_CQ00904.bmp is 27.5309606942
+2015-06-18 13:15:45,408 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05857.bmp
+2015-06-18 13:15:48,673 quality              INFO       sseq score huya_lol_01_CQ05857.bmp is 24.3883546631
+2015-06-18 13:15:48,694 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00467.bmp
+2015-06-18 13:15:51,964 quality              INFO       sseq score huya_lol_01_CQ00467.bmp is 25.3282136989
+2015-06-18 13:15:51,986 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01882.bmp
+2015-06-18 13:15:55,259 quality              INFO       sseq score huya_lol_01_CQ01882.bmp is 21.4876243027
+2015-06-18 13:15:55,279 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00523.bmp
+2015-06-18 13:15:58,546 quality              INFO       sseq score huya_lol_01_CQ00523.bmp is 28.3361548981
+2015-06-18 13:15:58,566 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00052.bmp
+2015-06-18 13:16:01,828 quality              INFO       sseq score huya_lol_01_CQ00052.bmp is 21.6648504367
+2015-06-18 13:16:01,842 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05730.bmp
+2015-06-18 13:16:05,101 quality              INFO       sseq score huya_lol_01_CQ05730.bmp is 23.2373882975
+2015-06-18 13:16:05,114 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04372.bmp
+2015-06-18 13:16:08,381 quality              INFO       sseq score huya_lol_01_CQ04372.bmp is 22.897481197
+2015-06-18 13:16:08,403 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01678.bmp
+2015-06-18 13:16:11,671 quality              INFO       sseq score huya_lol_01_CQ01678.bmp is 21.46383762
+2015-06-18 13:16:11,691 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00943.bmp
+2015-06-18 13:16:14,944 quality              INFO       sseq score huya_lol_01_CQ00943.bmp is 26.5689062982
+2015-06-18 13:16:14,964 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00813.bmp
+2015-06-18 13:16:18,227 quality              INFO       sseq score huya_lol_01_CQ00813.bmp is 25.1750689644
+2015-06-18 13:16:18,240 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03725.bmp
+2015-06-18 13:16:21,528 quality              INFO       sseq score huya_lol_01_CQ03725.bmp is 23.2276693937
+2015-06-18 13:16:21,540 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05828.bmp
+2015-06-18 13:16:24,832 quality              INFO       sseq score huya_lol_01_CQ05828.bmp is 24.2161562419
+2015-06-18 13:16:24,852 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00417.bmp
+2015-06-18 13:16:28,119 quality              INFO       sseq score huya_lol_01_CQ00417.bmp is 25.67807015
+2015-06-18 13:16:28,132 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03864.bmp
+2015-06-18 13:16:31,424 quality              INFO       sseq score huya_lol_01_CQ03864.bmp is 24.1210741465
+2015-06-18 13:16:31,446 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00398.bmp
+2015-06-18 13:16:34,726 quality              INFO       sseq score huya_lol_01_CQ00398.bmp is 25.6055600861
+2015-06-18 13:16:34,740 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05939.bmp
+2015-06-18 13:16:38,026 quality              INFO       sseq score huya_lol_01_CQ05939.bmp is 24.4424383949
+2015-06-18 13:16:38,039 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02807.bmp
+2015-06-18 13:16:41,318 quality              INFO       sseq score huya_lol_01_CQ02807.bmp is 21.8749071401
+2015-06-18 13:16:41,331 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05916.bmp
+2015-06-18 13:16:44,605 quality              INFO       sseq score huya_lol_01_CQ05916.bmp is 24.5330809952
+2015-06-18 13:16:44,618 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03581.bmp
+2015-06-18 13:16:47,895 quality              INFO       sseq score huya_lol_01_CQ03581.bmp is 23.0385996953
+2015-06-18 13:16:47,908 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06773.bmp
+2015-06-18 13:16:51,178 quality              INFO       sseq score huya_lol_01_CQ06773.bmp is 22.6440148886
+2015-06-18 13:16:51,200 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02321.bmp
+2015-06-18 13:16:54,473 quality              INFO       sseq score huya_lol_01_CQ02321.bmp is 22.2102124141
+2015-06-18 13:16:54,486 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03251.bmp
+2015-06-18 13:16:57,750 quality              INFO       sseq score huya_lol_01_CQ03251.bmp is 22.4950019904
+2015-06-18 13:16:57,765 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06059.bmp
+2015-06-18 13:17:01,042 quality              INFO       sseq score huya_lol_01_CQ06059.bmp is 24.4037121739
+2015-06-18 13:17:01,063 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01022.bmp
+2015-06-18 13:17:04,331 quality              INFO       sseq score huya_lol_01_CQ01022.bmp is 26.1812275652
+2015-06-18 13:17:04,344 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04582.bmp
+2015-06-18 13:17:07,622 quality              INFO       sseq score huya_lol_01_CQ04582.bmp is 23.0939744038
+2015-06-18 13:17:07,637 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03445.bmp
+2015-06-18 13:17:10,910 quality              INFO       sseq score huya_lol_01_CQ03445.bmp is 22.689178775
+2015-06-18 13:17:10,930 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00405.bmp
+2015-06-18 13:17:14,190 quality              INFO       sseq score huya_lol_01_CQ00405.bmp is 25.6743747685
+2015-06-18 13:17:14,203 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02951.bmp
+2015-06-18 13:17:17,467 quality              INFO       sseq score huya_lol_01_CQ02951.bmp is 22.4303135935
+2015-06-18 13:17:17,489 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01062.bmp
+2015-06-18 13:17:20,759 quality              INFO       sseq score huya_lol_01_CQ01062.bmp is 25.7017946134
+2015-06-18 13:17:20,779 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01533.bmp
+2015-06-18 13:17:24,052 quality              INFO       sseq score huya_lol_01_CQ01533.bmp is 21.5192826108
+2015-06-18 13:17:24,075 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00718.bmp
+2015-06-18 13:17:27,351 quality              INFO       sseq score huya_lol_01_CQ00718.bmp is 27.0890957941
+2015-06-18 13:17:27,372 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01677.bmp
+2015-06-18 13:17:30,650 quality              INFO       sseq score huya_lol_01_CQ01677.bmp is 21.46383762
+2015-06-18 13:17:30,663 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04058.bmp
+2015-06-18 13:17:33,914 quality              INFO       sseq score huya_lol_01_CQ04058.bmp is 24.1605501713
+2015-06-18 13:17:33,934 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02447.bmp
+2015-06-18 13:17:37,201 quality              INFO       sseq score huya_lol_01_CQ02447.bmp is 21.419983613
+2015-06-18 13:17:37,216 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05517.bmp
+2015-06-18 13:17:40,482 quality              INFO       sseq score huya_lol_01_CQ05517.bmp is 23.3582908771
+2015-06-18 13:17:40,494 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05638.bmp
+2015-06-18 13:17:43,765 quality              INFO       sseq score huya_lol_01_CQ05638.bmp is 22.983955569
+2015-06-18 13:17:43,778 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04445.bmp
+2015-06-18 13:17:47,036 quality              INFO       sseq score huya_lol_01_CQ04445.bmp is 22.7640860916
+2015-06-18 13:17:47,058 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00344.bmp
+2015-06-18 13:17:50,323 quality              INFO       sseq score huya_lol_01_CQ00344.bmp is 25.7223028201
+2015-06-18 13:17:50,336 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05597.bmp
+2015-06-18 13:17:53,615 quality              INFO       sseq score huya_lol_01_CQ05597.bmp is 23.307007837
+2015-06-18 13:17:53,628 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05625.bmp
+2015-06-18 13:17:56,897 quality              INFO       sseq score huya_lol_01_CQ05625.bmp is 22.9782493514
+2015-06-18 13:17:56,918 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01507.bmp
+2015-06-18 13:18:00,184 quality              INFO       sseq score huya_lol_01_CQ01507.bmp is 21.6787246299
+2015-06-18 13:18:00,197 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02910.bmp
+2015-06-18 13:18:03,476 quality              INFO       sseq score huya_lol_01_CQ02910.bmp is 22.4492166908
+2015-06-18 13:18:03,490 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06098.bmp
+2015-06-18 13:18:06,760 quality              INFO       sseq score huya_lol_01_CQ06098.bmp is 24.5731608892
+2015-06-18 13:18:06,775 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03433.bmp
+2015-06-18 13:18:10,038 quality              INFO       sseq score huya_lol_01_CQ03433.bmp is 22.6148787434
+2015-06-18 13:18:10,059 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00468.bmp
+2015-06-18 13:18:13,308 quality              INFO       sseq score huya_lol_01_CQ00468.bmp is 25.3282141825
+2015-06-18 13:18:13,321 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03987.bmp
+2015-06-18 13:18:16,589 quality              INFO       sseq score huya_lol_01_CQ03987.bmp is 23.9322895533
+2015-06-18 13:18:16,602 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03834.bmp
+2015-06-18 13:18:19,867 quality              INFO       sseq score huya_lol_01_CQ03834.bmp is 24.0363260301
+2015-06-18 13:18:19,885 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02565.bmp
+2015-06-18 13:18:23,154 quality              INFO       sseq score huya_lol_01_CQ02565.bmp is 21.5965410442
+2015-06-18 13:18:23,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00883.bmp
+2015-06-18 13:18:26,437 quality              INFO       sseq score huya_lol_01_CQ00883.bmp is 27.4276688383
+2015-06-18 13:18:26,451 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06215.bmp
+2015-06-18 13:18:29,723 quality              INFO       sseq score huya_lol_01_CQ06215.bmp is 22.9103922175
+2015-06-18 13:18:29,746 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01622.bmp
+2015-06-18 13:18:33,000 quality              INFO       sseq score huya_lol_01_CQ01622.bmp is 21.6905152576
+2015-06-18 13:18:33,013 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03059.bmp
+2015-06-18 13:18:36,279 quality              INFO       sseq score huya_lol_01_CQ03059.bmp is 22.5164357809
+2015-06-18 13:18:36,299 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02503.bmp
+2015-06-18 13:18:39,566 quality              INFO       sseq score huya_lol_01_CQ02503.bmp is 21.734360549
+2015-06-18 13:18:39,579 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04454.bmp
+2015-06-18 13:18:42,855 quality              INFO       sseq score huya_lol_01_CQ04454.bmp is 22.7130225744
+2015-06-18 13:18:42,868 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03328.bmp
+2015-06-18 13:18:46,132 quality              INFO       sseq score huya_lol_01_CQ03328.bmp is 22.5643339735
+2015-06-18 13:18:46,154 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00223.bmp
+2015-06-18 13:18:49,427 quality              INFO       sseq score huya_lol_01_CQ00223.bmp is 26.6711624143
+2015-06-18 13:18:49,448 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02123.bmp
+2015-06-18 13:18:52,706 quality              INFO       sseq score huya_lol_01_CQ02123.bmp is 21.9967557331
+2015-06-18 13:18:52,726 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00774.bmp
+2015-06-18 13:18:55,990 quality              INFO       sseq score huya_lol_01_CQ00774.bmp is 26.8998883589
+2015-06-18 13:18:56,003 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04602.bmp
+2015-06-18 13:18:59,270 quality              INFO       sseq score huya_lol_01_CQ04602.bmp is 23.0050049482
+2015-06-18 13:18:59,283 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06697.bmp
+2015-06-18 13:19:02,552 quality              INFO       sseq score huya_lol_01_CQ06697.bmp is 22.0377285021
+2015-06-18 13:19:02,566 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03083.bmp
+2015-06-18 13:19:05,823 quality              INFO       sseq score huya_lol_01_CQ03083.bmp is 22.5459390166
+2015-06-18 13:19:05,836 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06866.bmp
+2015-06-18 13:19:09,117 quality              INFO       sseq score huya_lol_01_CQ06866.bmp is 22.3058898992
+2015-06-18 13:19:09,130 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06714.bmp
+2015-06-18 13:19:12,407 quality              INFO       sseq score huya_lol_01_CQ06714.bmp is 22.4785764318
+2015-06-18 13:19:12,420 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06586.bmp
+2015-06-18 13:19:15,690 quality              INFO       sseq score huya_lol_01_CQ06586.bmp is 22.2240684692
+2015-06-18 13:19:15,710 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02382.bmp
+2015-06-18 13:19:18,989 quality              INFO       sseq score huya_lol_01_CQ02382.bmp is 21.5290091357
+2015-06-18 13:19:19,009 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00963.bmp
+2015-06-18 13:19:22,278 quality              INFO       sseq score huya_lol_01_CQ00963.bmp is 26.4270276167
+2015-06-18 13:19:22,299 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02104.bmp
+2015-06-18 13:19:25,572 quality              INFO       sseq score huya_lol_01_CQ02104.bmp is 22.1159302375
+2015-06-18 13:19:25,585 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04016.bmp
+2015-06-18 13:19:28,854 quality              INFO       sseq score huya_lol_01_CQ04016.bmp is 23.9781211582
+2015-06-18 13:19:28,875 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00673.bmp
+2015-06-18 13:19:32,154 quality              INFO       sseq score huya_lol_01_CQ00673.bmp is 27.4964376179
+2015-06-18 13:19:32,167 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04313.bmp
+2015-06-18 13:19:35,424 quality              INFO       sseq score huya_lol_01_CQ04313.bmp is 23.0077418337
+2015-06-18 13:19:35,444 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02709.bmp
+2015-06-18 13:19:38,704 quality              INFO       sseq score huya_lol_01_CQ02709.bmp is 22.0571667823
+2015-06-18 13:19:38,717 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06429.bmp
+2015-06-18 13:19:41,980 quality              INFO       sseq score huya_lol_01_CQ06429.bmp is 22.5715581436
+2015-06-18 13:19:42,002 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01439.bmp
+2015-06-18 13:19:45,263 quality              INFO       sseq score huya_lol_01_CQ01439.bmp is 21.6984112644
+2015-06-18 13:19:45,276 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04741.bmp
+2015-06-18 13:19:48,532 quality              INFO       sseq score huya_lol_01_CQ04741.bmp is 22.4879273815
+2015-06-18 13:19:48,545 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05806.bmp
+2015-06-18 13:19:51,815 quality              INFO       sseq score huya_lol_01_CQ05806.bmp is 24.2024256865
+2015-06-18 13:19:51,828 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03525.bmp
+2015-06-18 13:19:55,111 quality              INFO       sseq score huya_lol_01_CQ03525.bmp is 22.5988370528
+2015-06-18 13:19:55,131 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01717.bmp
+2015-06-18 13:19:58,394 quality              INFO       sseq score huya_lol_01_CQ01717.bmp is 21.1390563775
+2015-06-18 13:19:58,415 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00013.bmp
+2015-06-18 13:20:01,683 quality              INFO       sseq score huya_lol_01_CQ00013.bmp is 21.7291579708
+2015-06-18 13:20:01,696 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05205.bmp
+2015-06-18 13:20:04,966 quality              INFO       sseq score huya_lol_01_CQ05205.bmp is 23.2622869593
+2015-06-18 13:20:04,980 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07168.bmp
+2015-06-18 13:20:08,253 quality              INFO       sseq score huya_lol_01_CQ07168.bmp is 22.6569969867
+2015-06-18 13:20:08,266 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02814.bmp
+2015-06-18 13:20:11,539 quality              INFO       sseq score huya_lol_01_CQ02814.bmp is 21.7110181584
+2015-06-18 13:20:11,552 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06905.bmp
+2015-06-18 13:20:14,815 quality              INFO       sseq score huya_lol_01_CQ06905.bmp is 22.3765727262
+2015-06-18 13:20:14,828 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05795.bmp
+2015-06-18 13:20:18,092 quality              INFO       sseq score huya_lol_01_CQ05795.bmp is 24.4373912452
+2015-06-18 13:20:18,112 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02455.bmp
+2015-06-18 13:20:21,384 quality              INFO       sseq score huya_lol_01_CQ02455.bmp is 21.5383283701
+2015-06-18 13:20:21,405 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01376.bmp
+2015-06-18 13:20:24,687 quality              INFO       sseq score huya_lol_01_CQ01376.bmp is 23.7480556122
+2015-06-18 13:20:24,700 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03630.bmp
+2015-06-18 13:20:27,976 quality              INFO       sseq score huya_lol_01_CQ03630.bmp is 23.0325643016
+2015-06-18 13:20:27,990 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06860.bmp
+2015-06-18 13:20:31,262 quality              INFO       sseq score huya_lol_01_CQ06860.bmp is 22.4324335032
+2015-06-18 13:20:31,282 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01589.bmp
+2015-06-18 13:20:34,553 quality              INFO       sseq score huya_lol_01_CQ01589.bmp is 21.855013909
+2015-06-18 13:20:34,575 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02424.bmp
+2015-06-18 13:20:37,858 quality              INFO       sseq score huya_lol_01_CQ02424.bmp is 21.5015723041
+2015-06-18 13:20:37,881 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01492.bmp
+2015-06-18 13:20:41,155 quality              INFO       sseq score huya_lol_01_CQ01492.bmp is 21.7310352862
+2015-06-18 13:20:41,177 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02076.bmp
+2015-06-18 13:20:44,450 quality              INFO       sseq score huya_lol_01_CQ02076.bmp is 22.0691709591
+2015-06-18 13:20:44,464 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02792.bmp
+2015-06-18 13:20:47,726 quality              INFO       sseq score huya_lol_01_CQ02792.bmp is 21.9021194879
+2015-06-18 13:20:47,739 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07079.bmp
+2015-06-18 13:20:51,013 quality              INFO       sseq score huya_lol_01_CQ07079.bmp is 22.5431887391
+2015-06-18 13:20:51,026 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06043.bmp
+2015-06-18 13:20:54,288 quality              INFO       sseq score huya_lol_01_CQ06043.bmp is 24.5224114792
+2015-06-18 13:20:54,309 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02377.bmp
+2015-06-18 13:20:57,586 quality              INFO       sseq score huya_lol_01_CQ02377.bmp is 21.8690477875
+2015-06-18 13:20:57,608 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00619.bmp
+2015-06-18 13:21:00,859 quality              INFO       sseq score huya_lol_01_CQ00619.bmp is 27.7569187294
+2015-06-18 13:21:00,872 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05363.bmp
+2015-06-18 13:21:04,154 quality              INFO       sseq score huya_lol_01_CQ05363.bmp is 27.1642737143
+2015-06-18 13:21:04,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00264.bmp
+2015-06-18 13:21:07,443 quality              INFO       sseq score huya_lol_01_CQ00264.bmp is 27.0093711406
+2015-06-18 13:21:07,456 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03270.bmp
+2015-06-18 13:21:10,713 quality              INFO       sseq score huya_lol_01_CQ03270.bmp is 22.3149604703
+2015-06-18 13:21:10,726 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03284.bmp
+2015-06-18 13:21:13,990 quality              INFO       sseq score huya_lol_01_CQ03284.bmp is 22.5318899461
+2015-06-18 13:21:14,012 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01665.bmp
+2015-06-18 13:21:17,273 quality              INFO       sseq score huya_lol_01_CQ01665.bmp is 21.5535874366
+2015-06-18 13:21:17,293 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00069.bmp
+2015-06-18 13:21:20,556 quality              INFO       sseq score huya_lol_01_CQ00069.bmp is 21.6428684819
+2015-06-18 13:21:20,578 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00225.bmp
+2015-06-18 13:21:23,849 quality              INFO       sseq score huya_lol_01_CQ00225.bmp is 26.6711624143
+2015-06-18 13:21:23,871 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02044.bmp
+2015-06-18 13:21:27,134 quality              INFO       sseq score huya_lol_01_CQ02044.bmp is 22.2395521202
+2015-06-18 13:21:27,154 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02257.bmp
+2015-06-18 13:21:30,426 quality              INFO       sseq score huya_lol_01_CQ02257.bmp is 22.2014627101
+2015-06-18 13:21:30,438 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05996.bmp
+2015-06-18 13:21:33,710 quality              INFO       sseq score huya_lol_01_CQ05996.bmp is 24.512435957
+2015-06-18 13:21:33,732 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00291.bmp
+2015-06-18 13:21:37,005 quality              INFO       sseq score huya_lol_01_CQ00291.bmp is 26.1602695693
+2015-06-18 13:21:37,026 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00470.bmp
+2015-06-18 13:21:40,302 quality              INFO       sseq score huya_lol_01_CQ00470.bmp is 25.3282141825
+2015-06-18 13:21:40,322 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00729.bmp
+2015-06-18 13:21:43,579 quality              INFO       sseq score huya_lol_01_CQ00729.bmp is 27.005680046
+2015-06-18 13:21:43,592 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04878.bmp
+2015-06-18 13:21:46,848 quality              INFO       sseq score huya_lol_01_CQ04878.bmp is 22.4357309102
+2015-06-18 13:21:46,869 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01291.bmp
+2015-06-18 13:21:50,135 quality              INFO       sseq score huya_lol_01_CQ01291.bmp is 23.6959836308
+2015-06-18 13:21:50,148 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05458.bmp
+2015-06-18 13:21:53,401 quality              INFO       sseq score huya_lol_01_CQ05458.bmp is 23.521084145
+2015-06-18 13:21:53,414 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03646.bmp
+2015-06-18 13:21:56,678 quality              INFO       sseq score huya_lol_01_CQ03646.bmp is 23.0838151396
+2015-06-18 13:21:56,700 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01446.bmp
+2015-06-18 13:21:59,970 quality              INFO       sseq score huya_lol_01_CQ01446.bmp is 21.6961150134
+2015-06-18 13:21:59,992 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00661.bmp
+2015-06-18 13:22:03,246 quality              INFO       sseq score huya_lol_01_CQ00661.bmp is 27.5964448547
+2015-06-18 13:22:03,257 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04024.bmp
+2015-06-18 13:22:06,529 quality              INFO       sseq score huya_lol_01_CQ04024.bmp is 23.8232640037
+2015-06-18 13:22:06,542 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03978.bmp
+2015-06-18 13:22:09,816 quality              INFO       sseq score huya_lol_01_CQ03978.bmp is 23.9567421516
+2015-06-18 13:22:09,829 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05415.bmp
+2015-06-18 13:22:13,099 quality              INFO       sseq score huya_lol_01_CQ05415.bmp is 23.6551098768
+2015-06-18 13:22:13,112 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03577.bmp
+2015-06-18 13:22:16,387 quality              INFO       sseq score huya_lol_01_CQ03577.bmp is 23.0531887483
+2015-06-18 13:22:16,401 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06752.bmp
+2015-06-18 13:22:19,667 quality              INFO       sseq score huya_lol_01_CQ06752.bmp is 22.665856031
+2015-06-18 13:22:19,680 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05713.bmp
+2015-06-18 13:22:22,948 quality              INFO       sseq score huya_lol_01_CQ05713.bmp is 22.8222020692
+2015-06-18 13:22:22,970 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02631.bmp
+2015-06-18 13:22:26,219 quality              INFO       sseq score huya_lol_01_CQ02631.bmp is 22.2786140585
+2015-06-18 13:22:26,233 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04097.bmp
+2015-06-18 13:22:29,499 quality              INFO       sseq score huya_lol_01_CQ04097.bmp is 22.9541763396
+2015-06-18 13:22:29,513 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06877.bmp
+2015-06-18 13:22:32,779 quality              INFO       sseq score huya_lol_01_CQ06877.bmp is 22.2740858144
+2015-06-18 13:22:32,801 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00290.bmp
+2015-06-18 13:22:36,061 quality              INFO       sseq score huya_lol_01_CQ00290.bmp is 26.1602695693
+2015-06-18 13:22:36,082 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02042.bmp
+2015-06-18 13:22:39,336 quality              INFO       sseq score huya_lol_01_CQ02042.bmp is 22.2395527853
+2015-06-18 13:22:39,358 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00330.bmp
+2015-06-18 13:22:42,612 quality              INFO       sseq score huya_lol_01_CQ00330.bmp is 25.7421170491
+2015-06-18 13:22:42,634 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00224.bmp
+2015-06-18 13:22:45,890 quality              INFO       sseq score huya_lol_01_CQ00224.bmp is 26.6711624143
+2015-06-18 13:22:45,911 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02638.bmp
+2015-06-18 13:22:49,164 quality              INFO       sseq score huya_lol_01_CQ02638.bmp is 22.2526676828
+2015-06-18 13:22:49,177 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06329.bmp
+2015-06-18 13:22:52,446 quality              INFO       sseq score huya_lol_01_CQ06329.bmp is 22.6166796812
+2015-06-18 13:22:52,459 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03409.bmp
+2015-06-18 13:22:55,720 quality              INFO       sseq score huya_lol_01_CQ03409.bmp is 22.3980895715
+2015-06-18 13:22:55,734 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06599.bmp
+2015-06-18 13:22:58,993 quality              INFO       sseq score huya_lol_01_CQ06599.bmp is 22.2275335851
+2015-06-18 13:22:59,013 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00276.bmp
+2015-06-18 13:23:02,315 quality              INFO       sseq score huya_lol_01_CQ00276.bmp is 26.8330590702
+2015-06-18 13:23:02,329 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03929.bmp
+2015-06-18 13:23:05,648 quality              INFO       sseq score huya_lol_01_CQ03929.bmp is 24.1771837775
+2015-06-18 13:23:05,667 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00935.bmp
+2015-06-18 13:23:08,989 quality              INFO       sseq score huya_lol_01_CQ00935.bmp is 26.3719053453
+2015-06-18 13:23:09,010 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02340.bmp
+2015-06-18 13:23:12,302 quality              INFO       sseq score huya_lol_01_CQ02340.bmp is 22.0858797207
+2015-06-18 13:23:12,322 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01140.bmp
+2015-06-18 13:23:15,609 quality              INFO       sseq score huya_lol_01_CQ01140.bmp is 22.8657588147
+2015-06-18 13:23:15,631 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01556.bmp
+2015-06-18 13:23:18,898 quality              INFO       sseq score huya_lol_01_CQ01556.bmp is 21.7884929306
+2015-06-18 13:23:18,918 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01457.bmp
+2015-06-18 13:23:22,176 quality              INFO       sseq score huya_lol_01_CQ01457.bmp is 21.7260552938
+2015-06-18 13:23:22,188 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05538.bmp
+2015-06-18 13:23:25,447 quality              INFO       sseq score huya_lol_01_CQ05538.bmp is 23.5922567522
+2015-06-18 13:23:25,467 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00872.bmp
+2015-06-18 13:23:28,723 quality              INFO       sseq score huya_lol_01_CQ00872.bmp is 27.707979831
+2015-06-18 13:23:28,737 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05855.bmp
+2015-06-18 13:23:32,000 quality              INFO       sseq score huya_lol_01_CQ05855.bmp is 24.3883546631
+2015-06-18 13:23:32,013 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04423.bmp
+2015-06-18 13:23:35,283 quality              INFO       sseq score huya_lol_01_CQ04423.bmp is 22.4777888012
+2015-06-18 13:23:35,296 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06184.bmp
+2015-06-18 13:23:38,556 quality              INFO       sseq score huya_lol_01_CQ06184.bmp is 22.7871982629
+2015-06-18 13:23:38,578 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01755.bmp
+2015-06-18 13:23:41,846 quality              INFO       sseq score huya_lol_01_CQ01755.bmp is 21.5978611715
+2015-06-18 13:23:41,861 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04357.bmp
+2015-06-18 13:23:45,111 quality              INFO       sseq score huya_lol_01_CQ04357.bmp is 22.9560613166
+2015-06-18 13:23:45,125 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06914.bmp
+2015-06-18 13:23:48,391 quality              INFO       sseq score huya_lol_01_CQ06914.bmp is 22.5511040419
+2015-06-18 13:23:48,405 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03658.bmp
+2015-06-18 13:23:51,644 quality              INFO       sseq score huya_lol_01_CQ03658.bmp is 23.0457043163
+2015-06-18 13:23:51,664 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00556.bmp
+2015-06-18 13:23:54,923 quality              INFO       sseq score huya_lol_01_CQ00556.bmp is 28.4287943821
+2015-06-18 13:23:54,944 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02410.bmp
+2015-06-18 13:23:58,207 quality              INFO       sseq score huya_lol_01_CQ02410.bmp is 21.5934889059
+2015-06-18 13:23:58,220 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05817.bmp
+2015-06-18 13:24:01,486 quality              INFO       sseq score huya_lol_01_CQ05817.bmp is 24.214315503
+2015-06-18 13:24:01,506 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01658.bmp
+2015-06-18 13:24:04,766 quality              INFO       sseq score huya_lol_01_CQ01658.bmp is 21.7487117137
+2015-06-18 13:24:04,788 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00603.bmp
+2015-06-18 13:24:08,046 quality              INFO       sseq score huya_lol_01_CQ00603.bmp is 27.9942508222
+2015-06-18 13:24:08,068 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02223.bmp
+2015-06-18 13:24:11,315 quality              INFO       sseq score huya_lol_01_CQ02223.bmp is 21.9729012201
+2015-06-18 13:24:11,328 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03034.bmp
+2015-06-18 13:24:14,588 quality              INFO       sseq score huya_lol_01_CQ03034.bmp is 22.5464479492
+2015-06-18 13:24:14,609 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01465.bmp
+2015-06-18 13:24:17,864 quality              INFO       sseq score huya_lol_01_CQ01465.bmp is 21.5759382307
+2015-06-18 13:24:17,885 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00738.bmp
+2015-06-18 13:24:21,151 quality              INFO       sseq score huya_lol_01_CQ00738.bmp is 27.1578724855
+2015-06-18 13:24:21,173 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00717.bmp
+2015-06-18 13:24:24,438 quality              INFO       sseq score huya_lol_01_CQ00717.bmp is 27.089079289
+2015-06-18 13:24:24,453 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03546.bmp
+2015-06-18 13:24:27,703 quality              INFO       sseq score huya_lol_01_CQ03546.bmp is 22.9561148023
+2015-06-18 13:24:27,717 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06708.bmp
+2015-06-18 13:24:30,986 quality              INFO       sseq score huya_lol_01_CQ06708.bmp is 22.3756100625
+2015-06-18 13:24:31,000 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06687.bmp
+2015-06-18 13:24:34,266 quality              INFO       sseq score huya_lol_01_CQ06687.bmp is 22.1725080347
+2015-06-18 13:24:34,279 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06484.bmp
+2015-06-18 13:24:37,539 quality              INFO       sseq score huya_lol_01_CQ06484.bmp is 22.523182019
+2015-06-18 13:24:37,552 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05877.bmp
+2015-06-18 13:24:40,801 quality              INFO       sseq score huya_lol_01_CQ05877.bmp is 24.8282871099
+2015-06-18 13:24:40,813 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06032.bmp
+2015-06-18 13:24:44,066 quality              INFO       sseq score huya_lol_01_CQ06032.bmp is 24.543217044
+2015-06-18 13:24:44,081 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03727.bmp
+2015-06-18 13:24:47,341 quality              INFO       sseq score huya_lol_01_CQ03727.bmp is 23.2276693937
+2015-06-18 13:24:47,361 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00430.bmp
+2015-06-18 13:24:50,628 quality              INFO       sseq score huya_lol_01_CQ00430.bmp is 25.687916809
+2015-06-18 13:24:50,641 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04973.bmp
+2015-06-18 13:24:53,914 quality              INFO       sseq score huya_lol_01_CQ04973.bmp is 22.66232981
+2015-06-18 13:24:53,927 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06383.bmp
+2015-06-18 13:24:57,184 quality              INFO       sseq score huya_lol_01_CQ06383.bmp is 22.9736998344
+2015-06-18 13:24:57,204 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02117.bmp
+2015-06-18 13:25:00,476 quality              INFO       sseq score huya_lol_01_CQ02117.bmp is 22.0279487373
+2015-06-18 13:25:00,497 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01928.bmp
+2015-06-18 13:25:03,779 quality              INFO       sseq score huya_lol_01_CQ01928.bmp is 21.5025782512
+2015-06-18 13:25:03,792 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04299.bmp
+2015-06-18 13:25:07,051 quality              INFO       sseq score huya_lol_01_CQ04299.bmp is 23.0580370146
+2015-06-18 13:25:07,065 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03952.bmp
+2015-06-18 13:25:10,331 quality              INFO       sseq score huya_lol_01_CQ03952.bmp is 23.9678948962
+2015-06-18 13:25:10,344 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05988.bmp
+2015-06-18 13:25:13,601 quality              INFO       sseq score huya_lol_01_CQ05988.bmp is 24.5063255869
+2015-06-18 13:25:13,621 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01427.bmp
+2015-06-18 13:25:16,888 quality              INFO       sseq score huya_lol_01_CQ01427.bmp is 21.6455603695
+2015-06-18 13:25:16,903 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06747.bmp
+2015-06-18 13:25:20,164 quality              INFO       sseq score huya_lol_01_CQ06747.bmp is 22.3630749122
+2015-06-18 13:25:20,187 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00643.bmp
+2015-06-18 13:25:23,470 quality              INFO       sseq score huya_lol_01_CQ00643.bmp is 27.695034455
+2015-06-18 13:25:23,484 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06166.bmp
+2015-06-18 13:25:26,750 quality              INFO       sseq score huya_lol_01_CQ06166.bmp is 22.8270497752
+2015-06-18 13:25:26,763 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04926.bmp
+2015-06-18 13:25:30,019 quality              INFO       sseq score huya_lol_01_CQ04926.bmp is 22.4671509154
+2015-06-18 13:25:30,032 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06867.bmp
+2015-06-18 13:25:33,315 quality              INFO       sseq score huya_lol_01_CQ06867.bmp is 22.3058898992
+2015-06-18 13:25:33,336 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01892.bmp
+2015-06-18 13:25:36,617 quality              INFO       sseq score huya_lol_01_CQ01892.bmp is 21.4562777596
+2015-06-18 13:25:36,638 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00431.bmp
+2015-06-18 13:25:39,917 quality              INFO       sseq score huya_lol_01_CQ00431.bmp is 25.6879168225
+2015-06-18 13:25:39,930 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05927.bmp
+2015-06-18 13:25:43,203 quality              INFO       sseq score huya_lol_01_CQ05927.bmp is 24.6167738105
+2015-06-18 13:25:43,226 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00356.bmp
+2015-06-18 13:25:46,483 quality              INFO       sseq score huya_lol_01_CQ00356.bmp is 25.7128237348
+2015-06-18 13:25:46,496 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04677.bmp
+2015-06-18 13:25:49,756 quality              INFO       sseq score huya_lol_01_CQ04677.bmp is 22.7803583348
+2015-06-18 13:25:49,776 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03488.bmp
+2015-06-18 13:25:53,036 quality              INFO       sseq score huya_lol_01_CQ03488.bmp is 22.6491769851
+2015-06-18 13:25:53,058 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01335.bmp
+2015-06-18 13:25:56,328 quality              INFO       sseq score huya_lol_01_CQ01335.bmp is 23.9534422798
+2015-06-18 13:25:56,339 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03024.bmp
+2015-06-18 13:25:59,608 quality              INFO       sseq score huya_lol_01_CQ03024.bmp is 22.4825414231
+2015-06-18 13:25:59,621 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03078.bmp
+2015-06-18 13:26:02,888 quality              INFO       sseq score huya_lol_01_CQ03078.bmp is 22.5130116873
+2015-06-18 13:26:02,901 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06340.bmp
+2015-06-18 13:26:06,161 quality              INFO       sseq score huya_lol_01_CQ06340.bmp is 22.5249323815
+2015-06-18 13:26:06,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06828.bmp
+2015-06-18 13:26:09,450 quality              INFO       sseq score huya_lol_01_CQ06828.bmp is 22.3381484117
+2015-06-18 13:26:09,463 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06895.bmp
+2015-06-18 13:26:12,733 quality              INFO       sseq score huya_lol_01_CQ06895.bmp is 22.385811387
+2015-06-18 13:26:12,753 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01732.bmp
+2015-06-18 13:26:16,016 quality              INFO       sseq score huya_lol_01_CQ01732.bmp is 21.5030195102
+2015-06-18 13:26:16,029 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03420.bmp
+2015-06-18 13:26:19,306 quality              INFO       sseq score huya_lol_01_CQ03420.bmp is 22.5990673263
+2015-06-18 13:26:19,328 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01040.bmp
+2015-06-18 13:26:22,640 quality              INFO       sseq score huya_lol_01_CQ01040.bmp is 26.2500365335
+2015-06-18 13:26:22,653 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03874.bmp
+2015-06-18 13:26:25,937 quality              INFO       sseq score huya_lol_01_CQ03874.bmp is 24.1441475384
+2015-06-18 13:26:25,950 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05102.bmp
+2015-06-18 13:26:29,226 quality              INFO       sseq score huya_lol_01_CQ05102.bmp is 23.1242521132
+2015-06-18 13:26:29,239 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03178.bmp
+2015-06-18 13:26:32,526 quality              INFO       sseq score huya_lol_01_CQ03178.bmp is 22.4069116578
+2015-06-18 13:26:32,539 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03696.bmp
+2015-06-18 13:26:35,868 quality              INFO       sseq score huya_lol_01_CQ03696.bmp is 23.2731105909
+2015-06-18 13:26:35,881 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05307.bmp
+2015-06-18 13:26:39,201 quality              INFO       sseq score huya_lol_01_CQ05307.bmp is 29.2022727746
+2015-06-18 13:26:39,221 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02612.bmp
+2015-06-18 13:26:42,526 quality              INFO       sseq score huya_lol_01_CQ02612.bmp is 21.5970964819
+2015-06-18 13:26:42,546 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01598.bmp
+2015-06-18 13:26:45,880 quality              INFO       sseq score huya_lol_01_CQ01598.bmp is 21.8018515924
+2015-06-18 13:26:45,901 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01437.bmp
+2015-06-18 13:26:49,210 quality              INFO       sseq score huya_lol_01_CQ01437.bmp is 21.6984112644
+2015-06-18 13:26:49,230 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01113.bmp
+2015-06-18 13:26:52,503 quality              INFO       sseq score huya_lol_01_CQ01113.bmp is 22.6250874333
+2015-06-18 13:26:52,523 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00852.bmp
+2015-06-18 13:26:55,795 quality              INFO       sseq score huya_lol_01_CQ00852.bmp is 27.0275992381
+2015-06-18 13:26:55,809 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04813.bmp
+2015-06-18 13:26:59,068 quality              INFO       sseq score huya_lol_01_CQ04813.bmp is 22.6424552196
+2015-06-18 13:26:59,081 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04869.bmp
+2015-06-18 13:27:02,351 quality              INFO       sseq score huya_lol_01_CQ04869.bmp is 22.5155694064
+2015-06-18 13:27:02,365 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03791.bmp
+2015-06-18 13:27:05,635 quality              INFO       sseq score huya_lol_01_CQ03791.bmp is 23.0567175383
+2015-06-18 13:27:05,657 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01357.bmp
+2015-06-18 13:27:08,917 quality              INFO       sseq score huya_lol_01_CQ01357.bmp is 23.8426089847
+2015-06-18 13:27:08,938 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00952.bmp
+2015-06-18 13:27:12,227 quality              INFO       sseq score huya_lol_01_CQ00952.bmp is 26.5724894487
+2015-06-18 13:27:12,240 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05609.bmp
+2015-06-18 13:27:15,526 quality              INFO       sseq score huya_lol_01_CQ05609.bmp is 22.9918082932
+2015-06-18 13:27:15,548 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00122.bmp
+2015-06-18 13:27:18,828 quality              INFO       sseq score huya_lol_01_CQ00122.bmp is 21.756738256
+2015-06-18 13:27:18,848 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00794.bmp
+2015-06-18 13:27:22,125 quality              INFO       sseq score huya_lol_01_CQ00794.bmp is 25.1911519586
+2015-06-18 13:27:22,141 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05878.bmp
+2015-06-18 13:27:25,417 quality              INFO       sseq score huya_lol_01_CQ05878.bmp is 24.8282871099
+2015-06-18 13:27:25,434 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03647.bmp
+2015-06-18 13:27:28,723 quality              INFO       sseq score huya_lol_01_CQ03647.bmp is 23.0838151396
+2015-06-18 13:27:28,744 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00355.bmp
+2015-06-18 13:27:32,029 quality              INFO       sseq score huya_lol_01_CQ00355.bmp is 25.7128205156
+2015-06-18 13:27:32,049 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05431.bmp
+2015-06-18 13:27:35,361 quality              INFO       sseq score huya_lol_01_CQ05431.bmp is 23.5941600334
+2015-06-18 13:27:35,381 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02191.bmp
+2015-06-18 13:27:38,668 quality              INFO       sseq score huya_lol_01_CQ02191.bmp is 22.0210555425
+2015-06-18 13:27:38,686 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05378.bmp
+2015-06-18 13:27:41,973 quality              INFO       sseq score huya_lol_01_CQ05378.bmp is 23.6418781538
+2015-06-18 13:27:41,993 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02487.bmp
+2015-06-18 13:27:45,276 quality              INFO       sseq score huya_lol_01_CQ02487.bmp is 21.6304984557
+2015-06-18 13:27:45,296 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00299.bmp
+2015-06-18 13:27:48,578 quality              INFO       sseq score huya_lol_01_CQ00299.bmp is 25.9229518549
+2015-06-18 13:27:48,595 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03576.bmp
+2015-06-18 13:27:51,875 quality              INFO       sseq score huya_lol_01_CQ03576.bmp is 23.0531887483
+2015-06-18 13:27:51,891 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04444.bmp
+2015-06-18 13:27:55,184 quality              INFO       sseq score huya_lol_01_CQ04444.bmp is 22.7639968593
+2015-06-18 13:27:55,203 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02967.bmp
+2015-06-18 13:27:58,473 quality              INFO       sseq score huya_lol_01_CQ02967.bmp is 22.4327366393
+2015-06-18 13:27:58,493 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00816.bmp
+2015-06-18 13:28:01,789 quality              INFO       sseq score huya_lol_01_CQ00816.bmp is 25.1750689644
+2015-06-18 13:28:01,808 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06829.bmp
+2015-06-18 13:28:05,104 quality              INFO       sseq score huya_lol_01_CQ06829.bmp is 22.3381484117
+2015-06-18 13:28:05,125 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02277.bmp
+2015-06-18 13:28:08,426 quality              INFO       sseq score huya_lol_01_CQ02277.bmp is 22.1223401046
+2015-06-18 13:28:08,443 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07132.bmp
+2015-06-18 13:28:11,740 quality              INFO       sseq score huya_lol_01_CQ07132.bmp is 22.7961369196
+2015-06-18 13:28:11,756 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05399.bmp
+2015-06-18 13:28:15,038 quality              INFO       sseq score huya_lol_01_CQ05399.bmp is 23.7377615171
+2015-06-18 13:28:15,053 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05965.bmp
+2015-06-18 13:28:18,339 quality              INFO       sseq score huya_lol_01_CQ05965.bmp is 24.3904964402
+2015-06-18 13:28:18,357 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05027.bmp
+2015-06-18 13:28:21,644 quality              INFO       sseq score huya_lol_01_CQ05027.bmp is 23.1542820622
+2015-06-18 13:28:21,661 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05198.bmp
+2015-06-18 13:28:24,940 quality              INFO       sseq score huya_lol_01_CQ05198.bmp is 23.3571645248
+2015-06-18 13:28:24,960 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05524.bmp
+2015-06-18 13:28:28,243 quality              INFO       sseq score huya_lol_01_CQ05524.bmp is 23.4529473032
+2015-06-18 13:28:28,266 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01411.bmp
+2015-06-18 13:28:31,536 quality              INFO       sseq score huya_lol_01_CQ01411.bmp is 23.806575282
+2015-06-18 13:28:31,555 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05840.bmp
+2015-06-18 13:28:34,829 quality              INFO       sseq score huya_lol_01_CQ05840.bmp is 24.4643465999
+2015-06-18 13:28:34,851 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00310.bmp
+2015-06-18 13:28:38,132 quality              INFO       sseq score huya_lol_01_CQ00310.bmp is 25.782991516
+2015-06-18 13:28:38,148 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04272.bmp
+2015-06-18 13:28:41,421 quality              INFO       sseq score huya_lol_01_CQ04272.bmp is 22.9622079855
+2015-06-18 13:28:41,443 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00327.bmp
+2015-06-18 13:28:44,710 quality              INFO       sseq score huya_lol_01_CQ00327.bmp is 25.6261954195
+2015-06-18 13:28:44,732 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02212.bmp
+2015-06-18 13:28:47,997 quality              INFO       sseq score huya_lol_01_CQ02212.bmp is 21.9712679485
+2015-06-18 13:28:48,015 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05889.bmp
+2015-06-18 13:28:51,270 quality              INFO       sseq score huya_lol_01_CQ05889.bmp is 24.7166750634
+2015-06-18 13:28:51,290 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00762.bmp
+2015-06-18 13:28:54,565 quality              INFO       sseq score huya_lol_01_CQ00762.bmp is 26.8140712397
+2015-06-18 13:28:54,586 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01341.bmp
+2015-06-18 13:28:57,867 quality              INFO       sseq score huya_lol_01_CQ01341.bmp is 23.7189368015
+2015-06-18 13:28:57,888 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00640.bmp
+2015-06-18 13:29:01,153 quality              INFO       sseq score huya_lol_01_CQ00640.bmp is 27.695034455
+2015-06-18 13:29:01,168 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06988.bmp
+2015-06-18 13:29:04,434 quality              INFO       sseq score huya_lol_01_CQ06988.bmp is 22.2007667442
+2015-06-18 13:29:04,457 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00909.bmp
+2015-06-18 13:29:07,727 quality              INFO       sseq score huya_lol_01_CQ00909.bmp is 25.831324989
+2015-06-18 13:29:07,743 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06540.bmp
+2015-06-18 13:29:11,023 quality              INFO       sseq score huya_lol_01_CQ06540.bmp is 22.3517602395
+2015-06-18 13:29:11,043 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01496.bmp
+2015-06-18 13:29:14,302 quality              INFO       sseq score huya_lol_01_CQ01496.bmp is 21.5679637915
+2015-06-18 13:29:14,323 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00378.bmp
+2015-06-18 13:29:17,591 quality              INFO       sseq score huya_lol_01_CQ00378.bmp is 25.612249097
+2015-06-18 13:29:17,611 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00814.bmp
+2015-06-18 13:29:20,882 quality              INFO       sseq score huya_lol_01_CQ00814.bmp is 25.1750689644
+2015-06-18 13:29:20,904 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01484.bmp
+2015-06-18 13:29:24,178 quality              INFO       sseq score huya_lol_01_CQ01484.bmp is 21.6843447845
+2015-06-18 13:29:24,197 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03339.bmp
+2015-06-18 13:29:27,469 quality              INFO       sseq score huya_lol_01_CQ03339.bmp is 22.5587339489
+2015-06-18 13:29:27,490 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00607.bmp
+2015-06-18 13:29:30,769 quality              INFO       sseq score huya_lol_01_CQ00607.bmp is 27.556607095
+2015-06-18 13:29:30,786 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04942.bmp
+2015-06-18 13:29:34,055 quality              INFO       sseq score huya_lol_01_CQ04942.bmp is 22.4705732083
+2015-06-18 13:29:34,072 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05985.bmp
+2015-06-18 13:29:37,344 quality              INFO       sseq score huya_lol_01_CQ05985.bmp is 24.5063255869
+2015-06-18 13:29:37,365 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00131.bmp
+2015-06-18 13:29:40,638 quality              INFO       sseq score huya_lol_01_CQ00131.bmp is 21.727184704
+2015-06-18 13:29:40,660 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01725.bmp
+2015-06-18 13:29:43,930 quality              INFO       sseq score huya_lol_01_CQ01725.bmp is 21.5005514699
+2015-06-18 13:29:43,950 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06926.bmp
+2015-06-18 13:29:47,209 quality              INFO       sseq score huya_lol_01_CQ06926.bmp is 22.4514643118
+2015-06-18 13:29:47,227 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03314.bmp
+2015-06-18 13:29:50,499 quality              INFO       sseq score huya_lol_01_CQ03314.bmp is 22.4982179824
+2015-06-18 13:29:50,517 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05269.bmp
+2015-06-18 13:29:53,801 quality              INFO       sseq score huya_lol_01_CQ05269.bmp is 29.42511977
+2015-06-18 13:29:53,822 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00347.bmp
+2015-06-18 13:29:57,086 quality              INFO       sseq score huya_lol_01_CQ00347.bmp is 25.7222996075
+2015-06-18 13:29:57,105 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06153.bmp
+2015-06-18 13:30:00,382 quality              INFO       sseq score huya_lol_01_CQ06153.bmp is 22.851139359
+2015-06-18 13:30:00,404 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01317.bmp
+2015-06-18 13:30:03,678 quality              INFO       sseq score huya_lol_01_CQ01317.bmp is 23.9408644627
+2015-06-18 13:30:03,700 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01613.bmp
+2015-06-18 13:30:06,973 quality              INFO       sseq score huya_lol_01_CQ01613.bmp is 21.7739122321
+2015-06-18 13:30:06,993 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02988.bmp
+2015-06-18 13:30:10,267 quality              INFO       sseq score huya_lol_01_CQ02988.bmp is 22.5725075174
+2015-06-18 13:30:10,286 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06862.bmp
+2015-06-18 13:30:13,556 quality              INFO       sseq score huya_lol_01_CQ06862.bmp is 22.4324335032
+2015-06-18 13:30:13,575 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04086.bmp
+2015-06-18 13:30:16,855 quality              INFO       sseq score huya_lol_01_CQ04086.bmp is 22.9659187159
+2015-06-18 13:30:16,875 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03969.bmp
+2015-06-18 13:30:20,154 quality              INFO       sseq score huya_lol_01_CQ03969.bmp is 23.9114347284
+2015-06-18 13:30:20,171 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05781.bmp
+2015-06-18 13:30:23,500 quality              INFO       sseq score huya_lol_01_CQ05781.bmp is 22.5196976469
+2015-06-18 13:30:23,519 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07197.bmp
+2015-06-18 13:30:26,808 quality              INFO       sseq score huya_lol_01_CQ07197.bmp is 22.4850412319
+2015-06-18 13:30:26,825 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05127.bmp
+2015-06-18 13:30:30,115 quality              INFO       sseq score huya_lol_01_CQ05127.bmp is 23.2415943222
+2015-06-18 13:30:30,132 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05841.bmp
+2015-06-18 13:30:33,410 quality              INFO       sseq score huya_lol_01_CQ05841.bmp is 24.4643465999
+2015-06-18 13:30:33,427 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06121.bmp
+2015-06-18 13:30:36,724 quality              INFO       sseq score huya_lol_01_CQ06121.bmp is 22.7477693429
+2015-06-18 13:30:36,743 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04898.bmp
+2015-06-18 13:30:40,042 quality              INFO       sseq score huya_lol_01_CQ04898.bmp is 22.640958655
+2015-06-18 13:30:40,062 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02425.bmp
+2015-06-18 13:30:43,367 quality              INFO       sseq score huya_lol_01_CQ02425.bmp is 21.5015723041
+2015-06-18 13:30:43,388 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03535.bmp
+2015-06-18 13:30:46,665 quality              INFO       sseq score huya_lol_01_CQ03535.bmp is 22.9432123297
+2015-06-18 13:30:46,681 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05955.bmp
+2015-06-18 13:30:49,969 quality              INFO       sseq score huya_lol_01_CQ05955.bmp is 24.4157990716
+2015-06-18 13:30:49,986 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07218.bmp
+2015-06-18 13:30:53,282 quality              INFO       sseq score huya_lol_01_CQ07218.bmp is 22.5421275859
+2015-06-18 13:30:53,299 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06786.bmp
+2015-06-18 13:30:56,604 quality              INFO       sseq score huya_lol_01_CQ06786.bmp is 22.3437565811
+2015-06-18 13:30:56,625 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00495.bmp
+2015-06-18 13:30:59,918 quality              INFO       sseq score huya_lol_01_CQ00495.bmp is 25.1323108872
+2015-06-18 13:30:59,940 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01172.bmp
+2015-06-18 13:31:03,230 quality              INFO       sseq score huya_lol_01_CQ01172.bmp is 22.9270476268
+2015-06-18 13:31:03,249 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05876.bmp
+2015-06-18 13:31:06,539 quality              INFO       sseq score huya_lol_01_CQ05876.bmp is 24.8282871099
+2015-06-18 13:31:06,561 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02366.bmp
+2015-06-18 13:31:09,852 quality              INFO       sseq score huya_lol_01_CQ02366.bmp is 21.8565935929
+2015-06-18 13:31:09,874 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04694.bmp
+2015-06-18 13:31:13,158 quality              INFO       sseq score huya_lol_01_CQ04694.bmp is 22.8462483188
+2015-06-18 13:31:13,180 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00469.bmp
+2015-06-18 13:31:16,457 quality              INFO       sseq score huya_lol_01_CQ00469.bmp is 25.3282136989
+2015-06-18 13:31:16,479 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02416.bmp
+2015-06-18 13:31:19,776 quality              INFO       sseq score huya_lol_01_CQ02416.bmp is 21.5529814345
+2015-06-18 13:31:19,792 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04617.bmp
+2015-06-18 13:31:23,075 quality              INFO       sseq score huya_lol_01_CQ04617.bmp is 22.9480402393
+2015-06-18 13:31:23,095 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00686.bmp
+2015-06-18 13:31:26,387 quality              INFO       sseq score huya_lol_01_CQ00686.bmp is 27.4713723903
+2015-06-18 13:31:26,407 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00755.bmp
+2015-06-18 13:31:29,697 quality              INFO       sseq score huya_lol_01_CQ00755.bmp is 27.0466120697
+2015-06-18 13:31:29,713 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04631.bmp
+2015-06-18 13:31:33,009 quality              INFO       sseq score huya_lol_01_CQ04631.bmp is 22.9444237581
+2015-06-18 13:31:33,029 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01815.bmp
+2015-06-18 13:31:36,302 quality              INFO       sseq score huya_lol_01_CQ01815.bmp is 21.2353779279
+2015-06-18 13:31:36,322 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03381.bmp
+2015-06-18 13:31:39,588 quality              INFO       sseq score huya_lol_01_CQ03381.bmp is 22.4432163205
+2015-06-18 13:31:39,607 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05615.bmp
+2015-06-18 13:31:42,865 quality              INFO       sseq score huya_lol_01_CQ05615.bmp is 23.0628378461
+2015-06-18 13:31:42,882 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06507.bmp
+2015-06-18 13:31:46,154 quality              INFO       sseq score huya_lol_01_CQ06507.bmp is 22.463900279
+2015-06-18 13:31:46,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04160.bmp
+2015-06-18 13:31:49,440 quality              INFO       sseq score huya_lol_01_CQ04160.bmp is 22.939043809
+2015-06-18 13:31:49,460 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02417.bmp
+2015-06-18 13:31:52,724 quality              INFO       sseq score huya_lol_01_CQ02417.bmp is 21.5529814345
+2015-06-18 13:31:52,743 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06141.bmp
+2015-06-18 13:31:56,013 quality              INFO       sseq score huya_lol_01_CQ06141.bmp is 22.9094766459
+2015-06-18 13:31:56,032 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06913.bmp
+2015-06-18 13:31:59,312 quality              INFO       sseq score huya_lol_01_CQ06913.bmp is 22.5511040419
+2015-06-18 13:31:59,329 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03094.bmp
+2015-06-18 13:32:02,602 quality              INFO       sseq score huya_lol_01_CQ03094.bmp is 22.5525034338
+2015-06-18 13:32:02,621 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05744.bmp
+2015-06-18 13:32:05,892 quality              INFO       sseq score huya_lol_01_CQ05744.bmp is 23.3778122015
+2015-06-18 13:32:05,914 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01510.bmp
+2015-06-18 13:32:09,194 quality              INFO       sseq score huya_lol_01_CQ01510.bmp is 21.6787246299
+2015-06-18 13:32:09,213 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04074.bmp
+2015-06-18 13:32:12,476 quality              INFO       sseq score huya_lol_01_CQ04074.bmp is 24.2439246027
+2015-06-18 13:32:12,496 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01969.bmp
+2015-06-18 13:32:15,763 quality              INFO       sseq score huya_lol_01_CQ01969.bmp is 21.3544755345
+2015-06-18 13:32:15,782 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06763.bmp
+2015-06-18 13:32:19,051 quality              INFO       sseq score huya_lol_01_CQ06763.bmp is 22.7291258308
+2015-06-18 13:32:19,072 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01426.bmp
+2015-06-18 13:32:22,345 quality              INFO       sseq score huya_lol_01_CQ01426.bmp is 21.6455603695
+2015-06-18 13:32:22,361 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04800.bmp
+2015-06-18 13:32:25,638 quality              INFO       sseq score huya_lol_01_CQ04800.bmp is 22.4843934285
+2015-06-18 13:32:25,657 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05380.bmp
+2015-06-18 13:32:28,927 quality              INFO       sseq score huya_lol_01_CQ05380.bmp is 23.6418781538
+2015-06-18 13:32:28,940 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03852.bmp
+2015-06-18 13:32:32,216 quality              INFO       sseq score huya_lol_01_CQ03852.bmp is 24.1030612063
+2015-06-18 13:32:32,233 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05507.bmp
+2015-06-18 13:32:35,509 quality              INFO       sseq score huya_lol_01_CQ05507.bmp is 23.1203250316
+2015-06-18 13:32:35,526 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07036.bmp
+2015-06-18 13:32:38,796 quality              INFO       sseq score huya_lol_01_CQ07036.bmp is 22.6754031072
+2015-06-18 13:32:38,816 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06707.bmp
+2015-06-18 13:32:42,085 quality              INFO       sseq score huya_lol_01_CQ06707.bmp is 22.3756100625
+2015-06-18 13:32:42,105 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01635.bmp
+2015-06-18 13:32:45,362 quality              INFO       sseq score huya_lol_01_CQ01635.bmp is 21.7636962841
+2015-06-18 13:32:45,382 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05452.bmp
+2015-06-18 13:32:48,654 quality              INFO       sseq score huya_lol_01_CQ05452.bmp is 23.6046869952
+2015-06-18 13:32:48,676 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00518.bmp
+2015-06-18 13:32:51,936 quality              INFO       sseq score huya_lol_01_CQ00518.bmp is 28.1550792354
+2015-06-18 13:32:51,954 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03117.bmp
+2015-06-18 13:32:55,223 quality              INFO       sseq score huya_lol_01_CQ03117.bmp is 22.3719954195
+2015-06-18 13:32:55,242 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06898.bmp
+2015-06-18 13:32:58,506 quality              INFO       sseq score huya_lol_01_CQ06898.bmp is 22.385811387
+2015-06-18 13:32:58,529 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00039.bmp
+2015-06-18 13:33:01,799 quality              INFO       sseq score huya_lol_01_CQ00039.bmp is 21.5354852046
+2015-06-18 13:33:01,818 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05720.bmp
+2015-06-18 13:33:05,082 quality              INFO       sseq score huya_lol_01_CQ05720.bmp is 23.1829475026
+2015-06-18 13:33:05,101 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03141.bmp
+2015-06-18 13:33:08,382 quality              INFO       sseq score huya_lol_01_CQ03141.bmp is 22.4728951974
+2015-06-18 13:33:08,404 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00311.bmp
+2015-06-18 13:33:11,673 quality              INFO       sseq score huya_lol_01_CQ00311.bmp is 25.782991516
+2015-06-18 13:33:11,694 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02558.bmp
+2015-06-18 13:33:14,970 quality              INFO       sseq score huya_lol_01_CQ02558.bmp is 21.5683892487
+2015-06-18 13:33:14,990 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06906.bmp
+2015-06-18 13:33:18,259 quality              INFO       sseq score huya_lol_01_CQ06906.bmp is 22.3765727262
+2015-06-18 13:33:18,278 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06236.bmp
+2015-06-18 13:33:21,543 quality              INFO       sseq score huya_lol_01_CQ06236.bmp is 22.9155888169
+2015-06-18 13:33:21,562 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06715.bmp
+2015-06-18 13:33:24,836 quality              INFO       sseq score huya_lol_01_CQ06715.bmp is 22.4785764318
+2015-06-18 13:33:24,855 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06844.bmp
+2015-06-18 13:33:28,130 quality              INFO       sseq score huya_lol_01_CQ06844.bmp is 22.181961378
+2015-06-18 13:33:28,142 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04933.bmp
+2015-06-18 13:33:31,415 quality              INFO       sseq score huya_lol_01_CQ04933.bmp is 22.3611199522
+2015-06-18 13:33:31,436 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00230.bmp
+2015-06-18 13:33:34,706 quality              INFO       sseq score huya_lol_01_CQ00230.bmp is 26.5214034207
+2015-06-18 13:33:34,726 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00375.bmp
+2015-06-18 13:33:37,999 quality              INFO       sseq score huya_lol_01_CQ00375.bmp is 25.612249097
+2015-06-18 13:33:38,016 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06412.bmp
+2015-06-18 13:33:41,279 quality              INFO       sseq score huya_lol_01_CQ06412.bmp is 22.4777172144
+2015-06-18 13:33:41,299 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03242.bmp
+2015-06-18 13:33:44,568 quality              INFO       sseq score huya_lol_01_CQ03242.bmp is 22.5234912177
+2015-06-18 13:33:44,592 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00400.bmp
+2015-06-18 13:33:47,865 quality              INFO       sseq score huya_lol_01_CQ00400.bmp is 25.6055600861
+2015-06-18 13:33:47,882 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07088.bmp
+2015-06-18 13:33:51,158 quality              INFO       sseq score huya_lol_01_CQ07088.bmp is 22.4728112357
+2015-06-18 13:33:51,177 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04988.bmp
+2015-06-18 13:33:54,440 quality              INFO       sseq score huya_lol_01_CQ04988.bmp is 22.4279212005
+2015-06-18 13:33:54,459 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03077.bmp
+2015-06-18 13:33:57,733 quality              INFO       sseq score huya_lol_01_CQ03077.bmp is 22.5130334322
+2015-06-18 13:33:57,752 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05820.bmp
+2015-06-18 13:34:01,013 quality              INFO       sseq score huya_lol_01_CQ05820.bmp is 24.214315503
+2015-06-18 13:34:01,035 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00706.bmp
+2015-06-18 13:34:04,305 quality              INFO       sseq score huya_lol_01_CQ00706.bmp is 27.259283564
+2015-06-18 13:34:04,325 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02359.bmp
+2015-06-18 13:34:07,595 quality              INFO       sseq score huya_lol_01_CQ02359.bmp is 21.9882137676
+2015-06-18 13:34:07,614 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04888.bmp
+2015-06-18 13:34:10,897 quality              INFO       sseq score huya_lol_01_CQ04888.bmp is 22.5094995609
+2015-06-18 13:34:10,915 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06887.bmp
+2015-06-18 13:34:14,196 quality              INFO       sseq score huya_lol_01_CQ06887.bmp is 22.3906774956
+2015-06-18 13:34:14,217 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01959.bmp
+2015-06-18 13:34:17,470 quality              INFO       sseq score huya_lol_01_CQ01959.bmp is 21.4368266706
+2015-06-18 13:34:17,489 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02841.bmp
+2015-06-18 13:34:20,766 quality              INFO       sseq score huya_lol_01_CQ02841.bmp is 21.6786558716
+2015-06-18 13:34:20,786 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03989.bmp
+2015-06-18 13:34:24,058 quality              INFO       sseq score huya_lol_01_CQ03989.bmp is 23.9322900451
+2015-06-18 13:34:24,078 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01860.bmp
+2015-06-18 13:34:27,361 quality              INFO       sseq score huya_lol_01_CQ01860.bmp is 21.3512160819
+2015-06-18 13:34:27,381 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06177.bmp
+2015-06-18 13:34:30,671 quality              INFO       sseq score huya_lol_01_CQ06177.bmp is 23.0758493374
+2015-06-18 13:34:30,693 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00440.bmp
+2015-06-18 13:34:33,957 quality              INFO       sseq score huya_lol_01_CQ00440.bmp is 25.4618865521
+2015-06-18 13:34:33,977 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00951.bmp
+2015-06-18 13:34:37,260 quality              INFO       sseq score huya_lol_01_CQ00951.bmp is 26.5724826732
+2015-06-18 13:34:37,279 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06067.bmp
+2015-06-18 13:34:40,542 quality              INFO       sseq score huya_lol_01_CQ06067.bmp is 24.3716052078
+2015-06-18 13:34:40,562 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00685.bmp
+2015-06-18 13:34:43,821 quality              INFO       sseq score huya_lol_01_CQ00685.bmp is 27.4713723903
+2015-06-18 13:34:43,838 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07117.bmp
+2015-06-18 13:34:47,112 quality              INFO       sseq score huya_lol_01_CQ07117.bmp is 22.4913841649
+2015-06-18 13:34:47,134 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00418.bmp
+2015-06-18 13:34:50,400 quality              INFO       sseq score huya_lol_01_CQ00418.bmp is 25.67807015
+2015-06-18 13:34:50,421 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02648.bmp
+2015-06-18 13:34:53,697 quality              INFO       sseq score huya_lol_01_CQ02648.bmp is 22.2583885635
+2015-06-18 13:34:53,719 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00509.bmp
+2015-06-18 13:34:56,990 quality              INFO       sseq score huya_lol_01_CQ00509.bmp is 24.411708331
+2015-06-18 13:34:57,010 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00275.bmp
+2015-06-18 13:35:00,283 quality              INFO       sseq score huya_lol_01_CQ00275.bmp is 26.8330590702
+2015-06-18 13:35:00,305 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01419.bmp
+2015-06-18 13:35:03,586 quality              INFO       sseq score huya_lol_01_CQ01419.bmp is 22.8602538874
+2015-06-18 13:35:03,604 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03464.bmp
+2015-06-18 13:35:06,871 quality              INFO       sseq score huya_lol_01_CQ03464.bmp is 22.7449917503
+2015-06-18 13:35:06,891 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06798.bmp
+2015-06-18 13:35:10,168 quality              INFO       sseq score huya_lol_01_CQ06798.bmp is 22.463535559
+2015-06-18 13:35:10,190 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00213.bmp
+2015-06-18 13:35:13,463 quality              INFO       sseq score huya_lol_01_CQ00213.bmp is 21.7063329336
+2015-06-18 13:35:13,483 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07024.bmp
+2015-06-18 13:35:16,755 quality              INFO       sseq score huya_lol_01_CQ07024.bmp is 22.6598582531
+2015-06-18 13:35:16,773 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04206.bmp
+2015-06-18 13:35:20,049 quality              INFO       sseq score huya_lol_01_CQ04206.bmp is 22.7966114662
+2015-06-18 13:35:20,062 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04787.bmp
+2015-06-18 13:35:23,344 quality              INFO       sseq score huya_lol_01_CQ04787.bmp is 22.4218616078
+2015-06-18 13:35:23,365 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06753.bmp
+2015-06-18 13:35:26,634 quality              INFO       sseq score huya_lol_01_CQ06753.bmp is 22.665856031
+2015-06-18 13:35:26,651 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04636.bmp
+2015-06-18 13:35:29,917 quality              INFO       sseq score huya_lol_01_CQ04636.bmp is 22.9995069366
+2015-06-18 13:35:29,936 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03452.bmp
+2015-06-18 13:35:33,203 quality              INFO       sseq score huya_lol_01_CQ03452.bmp is 22.430408824
+2015-06-18 13:35:33,223 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03676.bmp
+2015-06-18 13:35:36,496 quality              INFO       sseq score huya_lol_01_CQ03676.bmp is 23.085012231
+2015-06-18 13:35:36,513 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04455.bmp
+2015-06-18 13:35:39,798 quality              INFO       sseq score huya_lol_01_CQ04455.bmp is 22.7129022903
+2015-06-18 13:35:39,813 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04326.bmp
+2015-06-18 13:35:43,072 quality              INFO       sseq score huya_lol_01_CQ04326.bmp is 23.0002295555
+2015-06-18 13:35:43,092 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00694.bmp
+2015-06-18 13:35:46,361 quality              INFO       sseq score huya_lol_01_CQ00694.bmp is 27.6308409549
+2015-06-18 13:35:46,381 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06018.bmp
+2015-06-18 13:35:49,641 quality              INFO       sseq score huya_lol_01_CQ06018.bmp is 24.44207323
+2015-06-18 13:35:49,661 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01773.bmp
+2015-06-18 13:35:52,943 quality              INFO       sseq score huya_lol_01_CQ01773.bmp is 21.5144786572
+2015-06-18 13:35:52,961 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03897.bmp
+2015-06-18 13:35:56,223 quality              INFO       sseq score huya_lol_01_CQ03897.bmp is 24.0925773418
+2015-06-18 13:35:56,243 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00728.bmp
+2015-06-18 13:35:59,519 quality              INFO       sseq score huya_lol_01_CQ00728.bmp is 27.0056756299
+2015-06-18 13:35:59,539 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04125.bmp
+2015-06-18 13:36:02,801 quality              INFO       sseq score huya_lol_01_CQ04125.bmp is 23.0169445496
+2015-06-18 13:36:02,816 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05956.bmp
+2015-06-18 13:36:06,091 quality              INFO       sseq score huya_lol_01_CQ05956.bmp is 24.4157990716
+2015-06-18 13:36:06,112 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01209.bmp
+2015-06-18 13:36:09,372 quality              INFO       sseq score huya_lol_01_CQ01209.bmp is 22.8665715151
+2015-06-18 13:36:09,388 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06394.bmp
+2015-06-18 13:36:12,661 quality              INFO       sseq score huya_lol_01_CQ06394.bmp is 22.6702038891
+2015-06-18 13:36:12,680 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06040.bmp
+2015-06-18 13:36:15,948 quality              INFO       sseq score huya_lol_01_CQ06040.bmp is 24.5224114792
+2015-06-18 13:36:15,967 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06321.bmp
+2015-06-18 13:36:19,239 quality              INFO       sseq score huya_lol_01_CQ06321.bmp is 22.6669526803
+2015-06-18 13:36:19,260 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00645.bmp
+2015-06-18 13:36:22,529 quality              INFO       sseq score huya_lol_01_CQ00645.bmp is 27.4198382867
+2015-06-18 13:36:22,548 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03276.bmp
+2015-06-18 13:36:25,811 quality              INFO       sseq score huya_lol_01_CQ03276.bmp is 22.5045481745
+2015-06-18 13:36:25,828 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04995.bmp
+2015-06-18 13:36:29,095 quality              INFO       sseq score huya_lol_01_CQ04995.bmp is 26.9298990549
+2015-06-18 13:36:29,115 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00004.bmp
+2015-06-18 13:36:32,384 quality              INFO       sseq score huya_lol_01_CQ00004.bmp is 21.9122434114
+2015-06-18 13:36:32,405 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03954.bmp
+2015-06-18 13:36:35,674 quality              INFO       sseq score huya_lol_01_CQ03954.bmp is 23.9678954494
+2015-06-18 13:36:35,693 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05111.bmp
+2015-06-18 13:36:38,956 quality              INFO       sseq score huya_lol_01_CQ05111.bmp is 23.1950766672
+2015-06-18 13:36:38,973 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05390.bmp
+2015-06-18 13:36:42,230 quality              INFO       sseq score huya_lol_01_CQ05390.bmp is 23.7104092968
+2015-06-18 13:36:42,250 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00399.bmp
+2015-06-18 13:36:45,516 quality              INFO       sseq score huya_lol_01_CQ00399.bmp is 25.6055600861
+2015-06-18 13:36:45,535 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06305.bmp
+2015-06-18 13:36:48,811 quality              INFO       sseq score huya_lol_01_CQ06305.bmp is 22.5515420415
+2015-06-18 13:36:48,831 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05229.bmp
+2015-06-18 13:36:52,098 quality              INFO       sseq score huya_lol_01_CQ05229.bmp is 26.6927654122
+2015-06-18 13:36:52,117 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05381.bmp
+2015-06-18 13:36:55,381 quality              INFO       sseq score huya_lol_01_CQ05381.bmp is 23.6419690828
+2015-06-18 13:36:55,403 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00181.bmp
+2015-06-18 13:36:58,664 quality              INFO       sseq score huya_lol_01_CQ00181.bmp is 21.7500567539
+2015-06-18 13:36:58,684 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04683.bmp
+2015-06-18 13:37:01,947 quality              INFO       sseq score huya_lol_01_CQ04683.bmp is 22.4239172507
+2015-06-18 13:37:01,969 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01564.bmp
+2015-06-18 13:37:05,246 quality              INFO       sseq score huya_lol_01_CQ01564.bmp is 21.6852149204
+2015-06-18 13:37:05,266 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01253.bmp
+2015-06-18 13:37:08,542 quality              INFO       sseq score huya_lol_01_CQ01253.bmp is 23.4509063295
+2015-06-18 13:37:08,561 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04322.bmp
+2015-06-18 13:37:11,829 quality              INFO       sseq score huya_lol_01_CQ04322.bmp is 23.0923893272
+2015-06-18 13:37:11,851 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02547.bmp
+2015-06-18 13:37:15,109 quality              INFO       sseq score huya_lol_01_CQ02547.bmp is 21.6905276978
+2015-06-18 13:37:15,130 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06771.bmp
+2015-06-18 13:37:18,384 quality              INFO       sseq score huya_lol_01_CQ06771.bmp is 22.6440148886
+2015-06-18 13:37:18,404 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03946.bmp
+2015-06-18 13:37:21,657 quality              INFO       sseq score huya_lol_01_CQ03946.bmp is 24.0642637937
+2015-06-18 13:37:21,677 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01764.bmp
+2015-06-18 13:37:24,938 quality              INFO       sseq score huya_lol_01_CQ01764.bmp is 21.4535413968
+2015-06-18 13:37:24,957 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03262.bmp
+2015-06-18 13:37:28,229 quality              INFO       sseq score huya_lol_01_CQ03262.bmp is 22.4555123916
+2015-06-18 13:37:28,246 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04017.bmp
+2015-06-18 13:37:31,494 quality              INFO       sseq score huya_lol_01_CQ04017.bmp is 23.9781207183
+2015-06-18 13:37:31,515 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02240.bmp
+2015-06-18 13:37:34,778 quality              INFO       sseq score huya_lol_01_CQ02240.bmp is 22.2085175097
+2015-06-18 13:37:34,798 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00300.bmp
+2015-06-18 13:37:38,051 quality              INFO       sseq score huya_lol_01_CQ00300.bmp is 25.9229518549
+2015-06-18 13:37:38,069 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06619.bmp
+2015-06-18 13:37:41,329 quality              INFO       sseq score huya_lol_01_CQ06619.bmp is 22.0764825625
+2015-06-18 13:37:41,348 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06201.bmp
+2015-06-18 13:37:44,605 quality              INFO       sseq score huya_lol_01_CQ06201.bmp is 22.7876639434
+2015-06-18 13:37:44,621 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04183.bmp
+2015-06-18 13:37:47,885 quality              INFO       sseq score huya_lol_01_CQ04183.bmp is 22.6853232433
+2015-06-18 13:37:47,903 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04389.bmp
+2015-06-18 13:37:51,177 quality              INFO       sseq score huya_lol_01_CQ04389.bmp is 22.4934369107
+2015-06-18 13:37:51,197 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02995.bmp
+2015-06-18 13:37:54,459 quality              INFO       sseq score huya_lol_01_CQ02995.bmp is 22.4873856634
+2015-06-18 13:37:54,479 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01754.bmp
+2015-06-18 13:37:57,733 quality              INFO       sseq score huya_lol_01_CQ01754.bmp is 21.5978611715
+2015-06-18 13:37:57,753 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00622.bmp
+2015-06-18 13:38:01,019 quality              INFO       sseq score huya_lol_01_CQ00622.bmp is 27.7569187294
+2015-06-18 13:38:01,039 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02367.bmp
+2015-06-18 13:38:04,302 quality              INFO       sseq score huya_lol_01_CQ02367.bmp is 21.8565932625
+2015-06-18 13:38:04,319 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06252.bmp
+2015-06-18 13:38:07,572 quality              INFO       sseq score huya_lol_01_CQ06252.bmp is 22.9325508086
+2015-06-18 13:38:07,591 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04150.bmp
+2015-06-18 13:38:10,849 quality              INFO       sseq score huya_lol_01_CQ04150.bmp is 22.9845138438
+2015-06-18 13:38:10,869 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00594.bmp
+2015-06-18 13:38:14,125 quality              INFO       sseq score huya_lol_01_CQ00594.bmp is 29.155479739
+2015-06-18 13:38:14,147 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00100.bmp
+2015-06-18 13:38:17,407 quality              INFO       sseq score huya_lol_01_CQ00100.bmp is 21.7807430438
+2015-06-18 13:38:17,426 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05285.bmp
+2015-06-18 13:38:20,680 quality              INFO       sseq score huya_lol_01_CQ05285.bmp is 29.4126257141
+2015-06-18 13:38:20,700 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01313.bmp
+2015-06-18 13:38:23,960 quality              INFO       sseq score huya_lol_01_CQ01313.bmp is 23.9484121256
+2015-06-18 13:38:23,976 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05977.bmp
+2015-06-18 13:38:27,239 quality              INFO       sseq score huya_lol_01_CQ05977.bmp is 24.4482388594
+2015-06-18 13:38:27,253 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06108.bmp
+2015-06-18 13:38:30,512 quality              INFO       sseq score huya_lol_01_CQ06108.bmp is 24.5265675522
+2015-06-18 13:38:30,528 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04753.bmp
+2015-06-18 13:38:33,801 quality              INFO       sseq score huya_lol_01_CQ04753.bmp is 22.5197766625
+2015-06-18 13:38:33,813 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03883.bmp
+2015-06-18 13:38:37,072 quality              INFO       sseq score huya_lol_01_CQ03883.bmp is 24.0973619973
+2015-06-18 13:38:37,094 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00646.bmp
+2015-06-18 13:38:40,354 quality              INFO       sseq score huya_lol_01_CQ00646.bmp is 27.4198382867
+2015-06-18 13:38:40,375 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00585.bmp
+2015-06-18 13:38:43,634 quality              INFO       sseq score huya_lol_01_CQ00585.bmp is 27.5359261478
+2015-06-18 13:38:43,654 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01255.bmp
+2015-06-18 13:38:46,907 quality              INFO       sseq score huya_lol_01_CQ01255.bmp is 23.4509060541
+2015-06-18 13:38:46,927 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07141.bmp
+2015-06-18 13:38:50,196 quality              INFO       sseq score huya_lol_01_CQ07141.bmp is 22.655634254
+2015-06-18 13:38:50,211 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06311.bmp
+2015-06-18 13:38:53,466 quality              INFO       sseq score huya_lol_01_CQ06311.bmp is 22.6491152287
+2015-06-18 13:38:53,486 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01242.bmp
+2015-06-18 13:38:56,746 quality              INFO       sseq score huya_lol_01_CQ01242.bmp is 22.9923835726
+2015-06-18 13:38:56,766 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00001.bmp
+2015-06-18 13:39:00,029 quality              INFO       sseq score huya_lol_01_CQ00001.bmp is 21.7977711435
+2015-06-18 13:39:00,049 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03372.bmp
+2015-06-18 13:39:03,309 quality              INFO       sseq score huya_lol_01_CQ03372.bmp is 22.5213978361
+2015-06-18 13:39:03,328 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03757.bmp
+2015-06-18 13:39:06,588 quality              INFO       sseq score huya_lol_01_CQ03757.bmp is 23.2804582307
+2015-06-18 13:39:06,608 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05682.bmp
+2015-06-18 13:39:09,871 quality              INFO       sseq score huya_lol_01_CQ05682.bmp is 22.9744758161
+2015-06-18 13:39:09,891 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01642.bmp
+2015-06-18 13:39:13,154 quality              INFO       sseq score huya_lol_01_CQ01642.bmp is 21.6667729728
+2015-06-18 13:39:13,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03085.bmp
+2015-06-18 13:39:16,438 quality              INFO       sseq score huya_lol_01_CQ03085.bmp is 22.5459595913
+2015-06-18 13:39:16,459 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02736.bmp
+2015-06-18 13:39:19,724 quality              INFO       sseq score huya_lol_01_CQ02736.bmp is 22.0411265317
+2015-06-18 13:39:19,743 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02788.bmp
+2015-06-18 13:39:23,012 quality              INFO       sseq score huya_lol_01_CQ02788.bmp is 22.0214987384
+2015-06-18 13:39:23,032 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03988.bmp
+2015-06-18 13:39:26,295 quality              INFO       sseq score huya_lol_01_CQ03988.bmp is 23.9322895533
+2015-06-18 13:39:26,318 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00795.bmp
+2015-06-18 13:39:29,575 quality              INFO       sseq score huya_lol_01_CQ00795.bmp is 25.1911519586
+2015-06-18 13:39:29,595 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02436.bmp
+2015-06-18 13:39:32,874 quality              INFO       sseq score huya_lol_01_CQ02436.bmp is 21.4846997234
+2015-06-18 13:39:32,894 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02166.bmp
+2015-06-18 13:39:36,158 quality              INFO       sseq score huya_lol_01_CQ02166.bmp is 21.8851019097
+2015-06-18 13:39:36,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04432.bmp
+2015-06-18 13:39:39,448 quality              INFO       sseq score huya_lol_01_CQ04432.bmp is 22.613912109
+2015-06-18 13:39:39,469 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07148.bmp
+2015-06-18 13:39:42,729 quality              INFO       sseq score huya_lol_01_CQ07148.bmp is 22.6271009785
+2015-06-18 13:39:42,746 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07003.bmp
+2015-06-18 13:39:46,002 quality              INFO       sseq score huya_lol_01_CQ07003.bmp is 22.2079749055
+2015-06-18 13:39:46,017 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05839.bmp
+2015-06-18 13:39:49,273 quality              INFO       sseq score huya_lol_01_CQ05839.bmp is 24.4643465999
+2015-06-18 13:39:49,292 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03347.bmp
+2015-06-18 13:39:52,562 quality              INFO       sseq score huya_lol_01_CQ03347.bmp is 22.472185447
+2015-06-18 13:39:52,582 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02178.bmp
+2015-06-18 13:39:55,839 quality              INFO       sseq score huya_lol_01_CQ02178.bmp is 22.0705625174
+2015-06-18 13:39:55,859 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01219.bmp
+2015-06-18 13:39:59,128 quality              INFO       sseq score huya_lol_01_CQ01219.bmp is 22.932601833
+2015-06-18 13:39:59,147 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04836.bmp
+2015-06-18 13:40:02,408 quality              INFO       sseq score huya_lol_01_CQ04836.bmp is 22.2925498016
+2015-06-18 13:40:02,430 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00357.bmp
+2015-06-18 13:40:05,691 quality              INFO       sseq score huya_lol_01_CQ00357.bmp is 25.7128205156
+2015-06-18 13:40:05,710 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03825.bmp
+2015-06-18 13:40:08,964 quality              INFO       sseq score huya_lol_01_CQ03825.bmp is 24.0187493876
+2015-06-18 13:40:08,986 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00441.bmp
+2015-06-18 13:40:12,255 quality              INFO       sseq score huya_lol_01_CQ00441.bmp is 25.4618835417
+2015-06-18 13:40:12,272 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03705.bmp
+2015-06-18 13:40:15,548 quality              INFO       sseq score huya_lol_01_CQ03705.bmp is 23.2786274181
+2015-06-18 13:40:15,565 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06563.bmp
+2015-06-18 13:40:18,825 quality              INFO       sseq score huya_lol_01_CQ06563.bmp is 22.1826352447
+2015-06-18 13:40:18,844 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05829.bmp
+2015-06-18 13:40:22,101 quality              INFO       sseq score huya_lol_01_CQ05829.bmp is 24.2161562419
+2015-06-18 13:40:22,121 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03582.bmp
+2015-06-18 13:40:25,382 quality              INFO       sseq score huya_lol_01_CQ03582.bmp is 23.0385996953
+2015-06-18 13:40:25,400 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06010.bmp
+2015-06-18 13:40:28,660 quality              INFO       sseq score huya_lol_01_CQ06010.bmp is 24.3564101922
+2015-06-18 13:40:28,680 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03217.bmp
+2015-06-18 13:40:31,938 quality              INFO       sseq score huya_lol_01_CQ03217.bmp is 22.3667006149
+2015-06-18 13:40:31,957 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03717.bmp
+2015-06-18 13:40:35,223 quality              INFO       sseq score huya_lol_01_CQ03717.bmp is 23.3137367429
+2015-06-18 13:40:35,240 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06292.bmp
+2015-06-18 13:40:38,506 quality              INFO       sseq score huya_lol_01_CQ06292.bmp is 22.9355684535
+2015-06-18 13:40:38,523 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04393.bmp
+2015-06-18 13:40:41,776 quality              INFO       sseq score huya_lol_01_CQ04393.bmp is 22.4970096293
+2015-06-18 13:40:41,792 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04547.bmp
+2015-06-18 13:40:45,055 quality              INFO       sseq score huya_lol_01_CQ04547.bmp is 23.1436979597
+2015-06-18 13:40:45,073 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05574.bmp
+2015-06-18 13:40:48,328 quality              INFO       sseq score huya_lol_01_CQ05574.bmp is 23.5162636209
+2015-06-18 13:40:48,346 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04107.bmp
+2015-06-18 13:40:51,601 quality              INFO       sseq score huya_lol_01_CQ04107.bmp is 22.9556473576
+2015-06-18 13:40:51,619 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05069.bmp
+2015-06-18 13:40:54,887 quality              INFO       sseq score huya_lol_01_CQ05069.bmp is 23.0345727611
+2015-06-18 13:40:54,907 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02049.bmp
+2015-06-18 13:40:58,180 quality              INFO       sseq score huya_lol_01_CQ02049.bmp is 22.3039311163
+2015-06-18 13:40:58,200 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00232.bmp
+2015-06-18 13:41:01,470 quality              INFO       sseq score huya_lol_01_CQ00232.bmp is 26.5214017568
+2015-06-18 13:41:01,487 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05581.bmp
+2015-06-18 13:41:04,743 quality              INFO       sseq score huya_lol_01_CQ05581.bmp is 23.358981024
+2015-06-18 13:41:04,763 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00627.bmp
+2015-06-18 13:41:08,017 quality              INFO       sseq score huya_lol_01_CQ00627.bmp is 27.6931795582
+2015-06-18 13:41:08,038 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05699.bmp
+2015-06-18 13:41:11,305 quality              INFO       sseq score huya_lol_01_CQ05699.bmp is 22.9396922619
+2015-06-18 13:41:11,323 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05153.bmp
+2015-06-18 13:41:14,581 quality              INFO       sseq score huya_lol_01_CQ05153.bmp is 23.2230710711
+2015-06-18 13:41:14,601 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01826.bmp
+2015-06-18 13:41:17,868 quality              INFO       sseq score huya_lol_01_CQ01826.bmp is 21.3778112364
+2015-06-18 13:41:17,888 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03128.bmp
+2015-06-18 13:41:21,144 quality              INFO       sseq score huya_lol_01_CQ03128.bmp is 22.4975484147
+2015-06-18 13:41:21,164 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01784.bmp
+2015-06-18 13:41:24,427 quality              INFO       sseq score huya_lol_01_CQ01784.bmp is 21.4487250751
+2015-06-18 13:41:24,446 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03006.bmp
+2015-06-18 13:41:27,706 quality              INFO       sseq score huya_lol_01_CQ03006.bmp is 22.519643838
+2015-06-18 13:41:27,726 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02394.bmp
+2015-06-18 13:41:30,993 quality              INFO       sseq score huya_lol_01_CQ02394.bmp is 21.4381287701
+2015-06-18 13:41:31,006 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03863.bmp
+2015-06-18 13:41:34,266 quality              INFO       sseq score huya_lol_01_CQ03863.bmp is 24.1210746886
+2015-06-18 13:41:34,286 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03746.bmp
+2015-06-18 13:41:37,549 quality              INFO       sseq score huya_lol_01_CQ03746.bmp is 23.2063769587
+2015-06-18 13:41:37,569 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02497.bmp
+2015-06-18 13:41:40,819 quality              INFO       sseq score huya_lol_01_CQ02497.bmp is 21.5054728827
+2015-06-18 13:41:40,841 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00391.bmp
+2015-06-18 13:41:44,101 quality              INFO       sseq score huya_lol_01_CQ00391.bmp is 25.5760527285
+2015-06-18 13:41:44,118 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06527.bmp
+2015-06-18 13:41:47,372 quality              INFO       sseq score huya_lol_01_CQ06527.bmp is 22.4298428577
+2015-06-18 13:41:47,391 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03300.bmp
+2015-06-18 13:41:50,651 quality              INFO       sseq score huya_lol_01_CQ03300.bmp is 22.5542054771
+2015-06-18 13:41:50,671 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01543.bmp
+2015-06-18 13:41:53,936 quality              INFO       sseq score huya_lol_01_CQ01543.bmp is 21.7827639967
+2015-06-18 13:41:53,957 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01134.bmp
+2015-06-18 13:41:57,219 quality              INFO       sseq score huya_lol_01_CQ01134.bmp is 22.7116167622
+2015-06-18 13:41:57,240 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00530.bmp
+2015-06-18 13:42:00,515 quality              INFO       sseq score huya_lol_01_CQ00530.bmp is 28.3891184223
+2015-06-18 13:42:00,535 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03638.bmp
+2015-06-18 13:42:03,785 quality              INFO       sseq score huya_lol_01_CQ03638.bmp is 22.9885634082
+2015-06-18 13:42:03,802 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02905.bmp
+2015-06-18 13:42:07,059 quality              INFO       sseq score huya_lol_01_CQ02905.bmp is 21.4986585706
+2015-06-18 13:42:07,078 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03167.bmp
+2015-06-18 13:42:10,344 quality              INFO       sseq score huya_lol_01_CQ03167.bmp is 22.3525703643
+2015-06-18 13:42:10,365 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01915.bmp
+2015-06-18 13:42:13,615 quality              INFO       sseq score huya_lol_01_CQ01915.bmp is 21.4930285428
+2015-06-18 13:42:13,632 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06638.bmp
+2015-06-18 13:42:16,897 quality              INFO       sseq score huya_lol_01_CQ06638.bmp is 22.2750863351
+2015-06-18 13:42:16,914 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05771.bmp
+2015-06-18 13:42:20,163 quality              INFO       sseq score huya_lol_01_CQ05771.bmp is 22.868628022
+2015-06-18 13:42:20,184 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02682.bmp
+2015-06-18 13:42:23,438 quality              INFO       sseq score huya_lol_01_CQ02682.bmp is 22.1365997812
+2015-06-18 13:42:23,457 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06723.bmp
+2015-06-18 13:42:26,724 quality              INFO       sseq score huya_lol_01_CQ06723.bmp is 22.4149853426
+2015-06-18 13:42:26,746 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00029.bmp
+2015-06-18 13:42:30,006 quality              INFO       sseq score huya_lol_01_CQ00029.bmp is 21.7056393884
+2015-06-18 13:42:30,025 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07163.bmp
+2015-06-18 13:42:33,283 quality              INFO       sseq score huya_lol_01_CQ07163.bmp is 22.6232127427
+2015-06-18 13:42:33,302 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04251.bmp
+2015-06-18 13:42:36,562 quality              INFO       sseq score huya_lol_01_CQ04251.bmp is 22.8339236848
+2015-06-18 13:42:36,579 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06570.bmp
+2015-06-18 13:42:39,841 quality              INFO       sseq score huya_lol_01_CQ06570.bmp is 22.2525906226
+2015-06-18 13:42:39,861 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05343.bmp
+2015-06-18 13:42:43,118 quality              INFO       sseq score huya_lol_01_CQ05343.bmp is 27.3946944112
+2015-06-18 13:42:43,137 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06878.bmp
+2015-06-18 13:42:46,400 quality              INFO       sseq score huya_lol_01_CQ06878.bmp is 22.2740858144
+2015-06-18 13:42:46,418 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07180.bmp
+2015-06-18 13:42:49,677 quality              INFO       sseq score huya_lol_01_CQ07180.bmp is 22.768126462
+2015-06-18 13:42:49,694 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03107.bmp
+2015-06-18 13:42:52,956 quality              INFO       sseq score huya_lol_01_CQ03107.bmp is 22.6113407416
+2015-06-18 13:42:52,976 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03160.bmp
+2015-06-18 13:42:56,237 quality              INFO       sseq score huya_lol_01_CQ03160.bmp is 22.5655250323
+2015-06-18 13:42:56,259 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00828.bmp
+2015-06-18 13:42:59,513 quality              INFO       sseq score huya_lol_01_CQ00828.bmp is 28.9119504427
+2015-06-18 13:42:59,533 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01278.bmp
+2015-06-18 13:43:02,798 quality              INFO       sseq score huya_lol_01_CQ01278.bmp is 23.7179979198
+2015-06-18 13:43:02,815 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05019.bmp
+2015-06-18 13:43:06,082 quality              INFO       sseq score huya_lol_01_CQ05019.bmp is 22.9959373984
+2015-06-18 13:43:06,102 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01122.bmp
+2015-06-18 13:43:09,364 quality              INFO       sseq score huya_lol_01_CQ01122.bmp is 22.6977432471
+2015-06-18 13:43:09,382 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05145.bmp
+2015-06-18 13:43:12,651 quality              INFO       sseq score huya_lol_01_CQ05145.bmp is 23.4664877524
+2015-06-18 13:43:12,673 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02066.bmp
+2015-06-18 13:43:15,940 quality              INFO       sseq score huya_lol_01_CQ02066.bmp is 22.2546870607
+2015-06-18 13:43:15,959 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05428.bmp
+2015-06-18 13:43:19,211 quality              INFO       sseq score huya_lol_01_CQ05428.bmp is 23.7487066804
+2015-06-18 13:43:19,232 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01939.bmp
+2015-06-18 13:43:22,486 quality              INFO       sseq score huya_lol_01_CQ01939.bmp is 21.6008822282
+2015-06-18 13:43:22,506 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00229.bmp
+2015-06-18 13:43:25,766 quality              INFO       sseq score huya_lol_01_CQ00229.bmp is 26.5214017568
+2015-06-18 13:43:25,789 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03960.bmp
+2015-06-18 13:43:29,051 quality              INFO       sseq score huya_lol_01_CQ03960.bmp is 23.8979956297
+2015-06-18 13:43:29,072 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00510.bmp
+2015-06-18 13:43:32,344 quality              INFO       sseq score huya_lol_01_CQ00510.bmp is 24.4117083469
+2015-06-18 13:43:32,362 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05061.bmp
+2015-06-18 13:43:35,622 quality              INFO       sseq score huya_lol_01_CQ05061.bmp is 23.0013291444
+2015-06-18 13:43:35,644 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00059.bmp
+2015-06-18 13:43:38,924 quality              INFO       sseq score huya_lol_01_CQ00059.bmp is 21.6878043607
+2015-06-18 13:43:38,946 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01745.bmp
+2015-06-18 13:43:42,213 quality              INFO       sseq score huya_lol_01_CQ01745.bmp is 21.5559626017
+2015-06-18 13:43:42,230 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05006.bmp
+2015-06-18 13:43:45,509 quality              INFO       sseq score huya_lol_01_CQ05006.bmp is 23.068190325
+2015-06-18 13:43:45,530 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00547.bmp
+2015-06-18 13:43:48,809 quality              INFO       sseq score huya_lol_01_CQ00547.bmp is 28.3131052154
+2015-06-18 13:43:48,831 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01806.bmp
+2015-06-18 13:43:52,078 quality              INFO       sseq score huya_lol_01_CQ01806.bmp is 21.4834456802
+2015-06-18 13:43:52,098 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05564.bmp
+2015-06-18 13:43:55,365 quality              INFO       sseq score huya_lol_01_CQ05564.bmp is 23.4112179096
+2015-06-18 13:43:55,382 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05856.bmp
+2015-06-18 13:43:58,650 quality              INFO       sseq score huya_lol_01_CQ05856.bmp is 24.3883546631
+2015-06-18 13:43:58,670 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01577.bmp
+2015-06-18 13:44:01,930 quality              INFO       sseq score huya_lol_01_CQ01577.bmp is 21.7324090126
+2015-06-18 13:44:01,948 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05794.bmp
+2015-06-18 13:44:05,219 quality              INFO       sseq score huya_lol_01_CQ05794.bmp is 24.4373912452
+2015-06-18 13:44:05,239 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00447.bmp
+2015-06-18 13:44:08,503 quality              INFO       sseq score huya_lol_01_CQ00447.bmp is 25.3832379487
+2015-06-18 13:44:08,523 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02922.bmp
+2015-06-18 13:44:11,790 quality              INFO       sseq score huya_lol_01_CQ02922.bmp is 22.4790751314
+2015-06-18 13:44:11,806 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03807.bmp
+2015-06-18 13:44:15,069 quality              INFO       sseq score huya_lol_01_CQ03807.bmp is 24.0617007443
+2015-06-18 13:44:15,088 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06550.bmp
+2015-06-18 13:44:18,352 quality              INFO       sseq score huya_lol_01_CQ06550.bmp is 22.390028824
+2015-06-18 13:44:18,371 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05230.bmp
+2015-06-18 13:44:21,627 quality              INFO       sseq score huya_lol_01_CQ05230.bmp is 26.6927654122
+2015-06-18 13:44:21,648 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03959.bmp
+2015-06-18 13:44:24,914 quality              INFO       sseq score huya_lol_01_CQ03959.bmp is 23.8979956297
+2015-06-18 13:44:24,934 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04716.bmp
+2015-06-18 13:44:28,204 quality              INFO       sseq score huya_lol_01_CQ04716.bmp is 22.6825590482
+2015-06-18 13:44:28,221 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06936.bmp
+2015-06-18 13:44:31,471 quality              INFO       sseq score huya_lol_01_CQ06936.bmp is 22.4267612604
+2015-06-18 13:44:31,490 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03559.bmp
+2015-06-18 13:44:34,755 quality              INFO       sseq score huya_lol_01_CQ03559.bmp is 22.9209151514
+2015-06-18 13:44:34,769 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04487.bmp
+2015-06-18 13:44:38,029 quality              INFO       sseq score huya_lol_01_CQ04487.bmp is 23.2503728249
+2015-06-18 13:44:38,052 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03953.bmp
+2015-06-18 13:44:41,312 quality              INFO       sseq score huya_lol_01_CQ03953.bmp is 23.9678948962
+2015-06-18 13:44:41,331 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07046.bmp
+2015-06-18 13:44:44,602 quality              INFO       sseq score huya_lol_01_CQ07046.bmp is 22.647017389
+2015-06-18 13:44:44,618 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04507.bmp
+2015-06-18 13:44:47,884 quality              INFO       sseq score huya_lol_01_CQ04507.bmp is 23.1658190654
+2015-06-18 13:44:47,904 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00921.bmp
+2015-06-18 13:44:51,170 quality              INFO       sseq score huya_lol_01_CQ00921.bmp is 25.7791141119
+2015-06-18 13:44:51,187 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05332.bmp
+2015-06-18 13:44:54,444 quality              INFO       sseq score huya_lol_01_CQ05332.bmp is 27.4100746803
+2015-06-18 13:44:54,463 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03558.bmp
+2015-06-18 13:44:57,723 quality              INFO       sseq score huya_lol_01_CQ03558.bmp is 22.9209151514
+2015-06-18 13:44:57,742 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04236.bmp
+2015-06-18 13:45:01,007 quality              INFO       sseq score huya_lol_01_CQ04236.bmp is 23.1331328411
+2015-06-18 13:45:01,025 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06066.bmp
+2015-06-18 13:45:04,283 quality              INFO       sseq score huya_lol_01_CQ06066.bmp is 24.3716052078
+2015-06-18 13:45:04,301 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05300.bmp
+2015-06-18 13:45:07,562 quality              INFO       sseq score huya_lol_01_CQ05300.bmp is 29.6565927482
+2015-06-18 13:45:07,585 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02368.bmp
+2015-06-18 13:45:10,834 quality              INFO       sseq score huya_lol_01_CQ02368.bmp is 21.8565935929
+2015-06-18 13:45:10,851 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06282.bmp
+2015-06-18 13:45:14,114 quality              INFO       sseq score huya_lol_01_CQ06282.bmp is 23.1218513053
+2015-06-18 13:45:14,132 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02894.bmp
+2015-06-18 13:45:17,400 quality              INFO       sseq score huya_lol_01_CQ02894.bmp is 21.76689697
+2015-06-18 13:45:17,418 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05372.bmp
+2015-06-18 13:45:20,683 quality              INFO       sseq score huya_lol_01_CQ05372.bmp is 27.1466568808
+2015-06-18 13:45:20,700 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03995.bmp
+2015-06-18 13:45:23,971 quality              INFO       sseq score huya_lol_01_CQ03995.bmp is 24.0216555688
+2015-06-18 13:45:23,990 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04853.bmp
+2015-06-18 13:45:27,262 quality              INFO       sseq score huya_lol_01_CQ04853.bmp is 22.3317928772
+2015-06-18 13:45:27,280 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04987.bmp
+2015-06-18 13:45:30,532 quality              INFO       sseq score huya_lol_01_CQ04987.bmp is 22.4279173566
+2015-06-18 13:45:30,552 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00390.bmp
+2015-06-18 13:45:33,821 quality              INFO       sseq score huya_lol_01_CQ00390.bmp is 25.5760527285
+2015-06-18 13:45:33,841 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05325.bmp
+2015-06-18 13:45:37,109 quality              INFO       sseq score huya_lol_01_CQ05325.bmp is 27.2702925131
+2015-06-18 13:45:37,130 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04913.bmp
+2015-06-18 13:45:40,401 quality              INFO       sseq score huya_lol_01_CQ04913.bmp is 22.5897526566
+2015-06-18 13:45:40,418 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05045.bmp
+2015-06-18 13:45:43,674 quality              INFO       sseq score huya_lol_01_CQ05045.bmp is 23.0683386795
+2015-06-18 13:45:43,696 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05344.bmp
+2015-06-18 13:45:46,954 quality              INFO       sseq score huya_lol_01_CQ05344.bmp is 27.3946944112
+2015-06-18 13:45:46,971 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05793.bmp
+2015-06-18 13:45:50,236 quality              INFO       sseq score huya_lol_01_CQ05793.bmp is 24.4373912452
+2015-06-18 13:45:50,256 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05370.bmp
+2015-06-18 13:45:53,522 quality              INFO       sseq score huya_lol_01_CQ05370.bmp is 27.1466568808
+2015-06-18 13:45:53,542 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00298.bmp
+2015-06-18 13:45:56,803 quality              INFO       sseq score huya_lol_01_CQ00298.bmp is 25.9229518549
+2015-06-18 13:45:56,825 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00446.bmp
+2015-06-18 13:46:00,091 quality              INFO       sseq score huya_lol_01_CQ00446.bmp is 25.3832325388
+2015-06-18 13:46:00,111 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03594.bmp
+2015-06-18 13:46:03,371 quality              INFO       sseq score huya_lol_01_CQ03594.bmp is 23.088368393
+2015-06-18 13:46:03,392 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05270.bmp
+2015-06-18 13:46:06,660 quality              INFO       sseq score huya_lol_01_CQ05270.bmp is 29.42511977
+2015-06-18 13:46:06,680 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02345.bmp
+2015-06-18 13:46:09,947 quality              INFO       sseq score huya_lol_01_CQ02345.bmp is 22.0368351586
+2015-06-18 13:46:09,967 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01232.bmp
+2015-06-18 13:46:13,239 quality              INFO       sseq score huya_lol_01_CQ01232.bmp is 23.0023423113
+2015-06-18 13:46:13,256 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03688.bmp
+2015-06-18 13:46:16,503 quality              INFO       sseq score huya_lol_01_CQ03688.bmp is 23.1435515709
+2015-06-18 13:46:16,523 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04772.bmp
+2015-06-18 13:46:19,798 quality              INFO       sseq score huya_lol_01_CQ04772.bmp is 22.5668056813
+2015-06-18 13:46:19,816 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04985.bmp
+2015-06-18 13:46:23,086 quality              INFO       sseq score huya_lol_01_CQ04985.bmp is 22.4279173566
+2015-06-18 13:46:23,107 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00255.bmp
+2015-06-18 13:46:26,372 quality              INFO       sseq score huya_lol_01_CQ00255.bmp is 26.3048565971
+2015-06-18 13:46:26,391 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06463.bmp
+2015-06-18 13:46:29,637 quality              INFO       sseq score huya_lol_01_CQ06463.bmp is 22.3885797562
+2015-06-18 13:46:29,657 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00660.bmp
+2015-06-18 13:46:32,923 quality              INFO       sseq score huya_lol_01_CQ00660.bmp is 27.5964448547
+2015-06-18 13:46:32,938 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05212.bmp
+2015-06-18 13:46:36,203 quality              INFO       sseq score huya_lol_01_CQ05212.bmp is 26.5818096837
+2015-06-18 13:46:36,221 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06946.bmp
+2015-06-18 13:46:39,477 quality              INFO       sseq score huya_lol_01_CQ06946.bmp is 22.0380126555
+2015-06-18 13:46:39,496 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03945.bmp
+2015-06-18 13:46:42,767 quality              INFO       sseq score huya_lol_01_CQ03945.bmp is 24.0642632219
+2015-06-18 13:46:42,786 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06438.bmp
+2015-06-18 13:46:46,045 quality              INFO       sseq score huya_lol_01_CQ06438.bmp is 22.3740497711
+2015-06-18 13:46:46,065 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03798.bmp
+2015-06-18 13:46:49,326 quality              INFO       sseq score huya_lol_01_CQ03798.bmp is 22.9117631898
+2015-06-18 13:46:49,346 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06809.bmp
+2015-06-18 13:46:52,611 quality              INFO       sseq score huya_lol_01_CQ06809.bmp is 22.3783731847
+2015-06-18 13:46:52,628 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05245.bmp
+2015-06-18 13:46:55,891 quality              INFO       sseq score huya_lol_01_CQ05245.bmp is 26.7667800588
+2015-06-18 13:46:55,908 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03695.bmp
+2015-06-18 13:46:59,187 quality              INFO       sseq score huya_lol_01_CQ03695.bmp is 23.2731105909
+2015-06-18 13:46:59,207 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02933.bmp
+2015-06-18 13:47:02,474 quality              INFO       sseq score huya_lol_01_CQ02933.bmp is 22.4189478051
+2015-06-18 13:47:02,494 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00226.bmp
+2015-06-18 13:47:05,756 quality              INFO       sseq score huya_lol_01_CQ00226.bmp is 26.6710302174
+2015-06-18 13:47:05,775 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05362.bmp
+2015-06-18 13:47:09,046 quality              INFO       sseq score huya_lol_01_CQ05362.bmp is 27.1642737143
+2015-06-18 13:47:09,066 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06735.bmp
+2015-06-18 13:47:12,338 quality              INFO       sseq score huya_lol_01_CQ06735.bmp is 22.4203287014
+2015-06-18 13:47:12,358 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01982.bmp
+2015-06-18 13:47:15,631 quality              INFO       sseq score huya_lol_01_CQ01982.bmp is 21.2794394605
+2015-06-18 13:47:15,648 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05905.bmp
+2015-06-18 13:47:18,911 quality              INFO       sseq score huya_lol_01_CQ05905.bmp is 24.4812084786
+2015-06-18 13:47:18,930 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03373.bmp
+2015-06-18 13:47:22,184 quality              INFO       sseq score huya_lol_01_CQ03373.bmp is 22.5213978361
+2015-06-18 13:47:22,203 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03223.bmp
+2015-06-18 13:47:25,467 quality              INFO       sseq score huya_lol_01_CQ03223.bmp is 22.2558646494
+2015-06-18 13:47:25,487 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00496.bmp
+2015-06-18 13:47:28,732 quality              INFO       sseq score huya_lol_01_CQ00496.bmp is 25.1326034697
+2015-06-18 13:47:28,753 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02437.bmp
+2015-06-18 13:47:32,013 quality              INFO       sseq score huya_lol_01_CQ02437.bmp is 21.4846997234
+2015-06-18 13:47:32,035 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00796.bmp
+2015-06-18 13:47:35,299 quality              INFO       sseq score huya_lol_01_CQ00796.bmp is 25.1911519586
+2015-06-18 13:47:35,316 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06276.bmp
+2015-06-18 13:47:38,572 quality              INFO       sseq score huya_lol_01_CQ06276.bmp is 22.9563410012
+2015-06-18 13:47:38,589 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02830.bmp
+2015-06-18 13:47:41,839 quality              INFO       sseq score huya_lol_01_CQ02830.bmp is 21.7096453219
+2015-06-18 13:47:41,861 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00610.bmp
+2015-06-18 13:47:45,125 quality              INFO       sseq score huya_lol_01_CQ00610.bmp is 27.556607095
+2015-06-18 13:47:45,144 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03970.bmp
+2015-06-18 13:47:48,404 quality              INFO       sseq score huya_lol_01_CQ03970.bmp is 23.9114352581
+2015-06-18 13:47:48,426 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00453.bmp
+2015-06-18 13:47:51,690 quality              INFO       sseq score huya_lol_01_CQ00453.bmp is 25.397043095
+2015-06-18 13:47:51,713 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00704.bmp
+2015-06-18 13:47:54,967 quality              INFO       sseq score huya_lol_01_CQ00704.bmp is 27.259283564
+2015-06-18 13:47:54,987 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06033.bmp
+2015-06-18 13:47:58,255 quality              INFO       sseq score huya_lol_01_CQ06033.bmp is 24.543217044
+2015-06-18 13:47:58,273 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06785.bmp
+2015-06-18 13:48:01,520 quality              INFO       sseq score huya_lol_01_CQ06785.bmp is 22.3437565811
+2015-06-18 13:48:01,539 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04260.bmp
+2015-06-18 13:48:04,802 quality              INFO       sseq score huya_lol_01_CQ04260.bmp is 22.9728780341
+2015-06-18 13:48:04,823 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00109.bmp
+2015-06-18 13:48:08,082 quality              INFO       sseq score huya_lol_01_CQ00109.bmp is 21.758158094
+2015-06-18 13:48:08,102 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00254.bmp
+2015-06-18 13:48:11,368 quality              INFO       sseq score huya_lol_01_CQ00254.bmp is 26.3048580444
+2015-06-18 13:48:11,390 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02470.bmp
+2015-06-18 13:48:14,653 quality              INFO       sseq score huya_lol_01_CQ02470.bmp is 21.5727751713
+2015-06-18 13:48:14,670 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07002.bmp
+2015-06-18 13:48:17,934 quality              INFO       sseq score huya_lol_01_CQ07002.bmp is 22.2079749055
+2015-06-18 13:48:17,956 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01524.bmp
+2015-06-18 13:48:21,214 quality              INFO       sseq score huya_lol_01_CQ01524.bmp is 21.6556698601
+2015-06-18 13:48:21,234 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00820.bmp
+2015-06-18 13:48:24,487 quality              INFO       sseq score huya_lol_01_CQ00820.bmp is 25.1218336967
+2015-06-18 13:48:24,507 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04668.bmp
+2015-06-18 13:48:27,766 quality              INFO       sseq score huya_lol_01_CQ04668.bmp is 22.8751683274
+2015-06-18 13:48:27,783 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04059.bmp
+2015-06-18 13:48:31,048 quality              INFO       sseq score huya_lol_01_CQ04059.bmp is 24.1605507185
+2015-06-18 13:48:31,068 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03404.bmp
+2015-06-18 13:48:34,328 quality              INFO       sseq score huya_lol_01_CQ03404.bmp is 22.4587289005
+2015-06-18 13:48:34,348 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02138.bmp
+2015-06-18 13:48:37,611 quality              INFO       sseq score huya_lol_01_CQ02138.bmp is 22.126286091
+2015-06-18 13:48:37,631 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06925.bmp
+2015-06-18 13:48:40,895 quality              INFO       sseq score huya_lol_01_CQ06925.bmp is 22.4514643118
+2015-06-18 13:48:40,917 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02623.bmp
+2015-06-18 13:48:44,180 quality              INFO       sseq score huya_lol_01_CQ02623.bmp is 21.3856526129
+2015-06-18 13:48:44,200 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06111.bmp
+2015-06-18 13:48:47,463 quality              INFO       sseq score huya_lol_01_CQ06111.bmp is 24.5265675522
+2015-06-18 13:48:47,479 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04614.bmp
+2015-06-18 13:48:50,740 quality              INFO       sseq score huya_lol_01_CQ04614.bmp is 23.0302202969
+2015-06-18 13:48:50,759 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04212.bmp
+2015-06-18 13:48:54,017 quality              INFO       sseq score huya_lol_01_CQ04212.bmp is 22.8027671209
+2015-06-18 13:48:54,038 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03356.bmp
+2015-06-18 13:48:57,309 quality              INFO       sseq score huya_lol_01_CQ03356.bmp is 22.4629533265
+2015-06-18 13:48:57,323 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04532.bmp
+2015-06-18 13:49:00,582 quality              INFO       sseq score huya_lol_01_CQ04532.bmp is 23.1834519095
+2015-06-18 13:49:00,604 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01718.bmp
+2015-06-18 13:49:03,875 quality              INFO       sseq score huya_lol_01_CQ01718.bmp is 21.1390563775
+2015-06-18 13:49:03,895 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00326.bmp
+2015-06-18 13:49:07,147 quality              INFO       sseq score huya_lol_01_CQ00326.bmp is 25.6261954195
+2015-06-18 13:49:07,167 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00675.bmp
+2015-06-18 13:49:10,440 quality              INFO       sseq score huya_lol_01_CQ00675.bmp is 27.4964376179
+2015-06-18 13:49:10,457 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03719.bmp
+2015-06-18 13:49:13,711 quality              INFO       sseq score huya_lol_01_CQ03719.bmp is 23.3137367429
+2015-06-18 13:49:13,729 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03911.bmp
+2015-06-18 13:49:16,990 quality              INFO       sseq score huya_lol_01_CQ03911.bmp is 23.9846969987
+2015-06-18 13:49:17,009 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03233.bmp
+2015-06-18 13:49:20,282 quality              INFO       sseq score huya_lol_01_CQ03233.bmp is 22.5628501594
+2015-06-18 13:49:20,303 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02670.bmp
+2015-06-18 13:49:23,559 quality              INFO       sseq score huya_lol_01_CQ02670.bmp is 22.1173120697
+2015-06-18 13:49:23,578 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05907.bmp
+2015-06-18 13:49:26,839 quality              INFO       sseq score huya_lol_01_CQ05907.bmp is 24.4812084786
+2015-06-18 13:49:26,858 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05222.bmp
+2015-06-18 13:49:30,119 quality              INFO       sseq score huya_lol_01_CQ05222.bmp is 26.6948885587
+2015-06-18 13:49:30,140 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04199.bmp
+2015-06-18 13:49:33,403 quality              INFO       sseq score huya_lol_01_CQ04199.bmp is 22.7481859595
+2015-06-18 13:49:33,424 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02331.bmp
+2015-06-18 13:49:36,678 quality              INFO       sseq score huya_lol_01_CQ02331.bmp is 22.0118544638
+2015-06-18 13:49:36,698 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05349.bmp
+2015-06-18 13:49:39,959 quality              INFO       sseq score huya_lol_01_CQ05349.bmp is 27.2231155498
+2015-06-18 13:49:39,980 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02055.bmp
+2015-06-18 13:49:43,236 quality              INFO       sseq score huya_lol_01_CQ02055.bmp is 22.2558749631
+2015-06-18 13:49:43,257 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00705.bmp
+2015-06-18 13:49:46,509 quality              INFO       sseq score huya_lol_01_CQ00705.bmp is 27.259283564
+2015-06-18 13:49:46,529 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00840.bmp
+2015-06-18 13:49:49,790 quality              INFO       sseq score huya_lol_01_CQ00840.bmp is 28.5596907297
+2015-06-18 13:49:49,809 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02821.bmp
+2015-06-18 13:49:53,069 quality              INFO       sseq score huya_lol_01_CQ02821.bmp is 21.7317422041
+2015-06-18 13:49:53,091 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03790.bmp
+2015-06-18 13:49:56,354 quality              INFO       sseq score huya_lol_01_CQ03790.bmp is 23.0567177016
+2015-06-18 13:49:56,374 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03797.bmp
+2015-06-18 13:49:59,635 quality              INFO       sseq score huya_lol_01_CQ03797.bmp is 22.911767234
+2015-06-18 13:49:59,657 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00406.bmp
+2015-06-18 13:50:02,926 quality              INFO       sseq score huya_lol_01_CQ00406.bmp is 25.6743747463
+2015-06-18 13:50:02,947 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00741.bmp
+2015-06-18 13:50:06,200 quality              INFO       sseq score huya_lol_01_CQ00741.bmp is 27.1578724855
+2015-06-18 13:50:06,219 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03972.bmp
+2015-06-18 13:50:09,492 quality              INFO       sseq score huya_lol_01_CQ03972.bmp is 23.9114347284
+2015-06-18 13:50:09,512 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05940.bmp
+2015-06-18 13:50:12,779 quality              INFO       sseq score huya_lol_01_CQ05940.bmp is 24.4424383949
+2015-06-18 13:50:12,799 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00602.bmp
+2015-06-18 13:50:16,062 quality              INFO       sseq score huya_lol_01_CQ00602.bmp is 27.9942508222
+2015-06-18 13:50:16,079 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05668.bmp
+2015-06-18 13:50:19,341 quality              INFO       sseq score huya_lol_01_CQ05668.bmp is 22.9580454138
+2015-06-18 13:50:19,359 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05549.bmp
+2015-06-18 13:50:22,627 quality              INFO       sseq score huya_lol_01_CQ05549.bmp is 23.4616247403
+2015-06-18 13:50:22,648 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00758.bmp
+2015-06-18 13:50:25,898 quality              INFO       sseq score huya_lol_01_CQ00758.bmp is 27.0466120697
+2015-06-18 13:50:25,914 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04057.bmp
+2015-06-18 13:50:29,183 quality              INFO       sseq score huya_lol_01_CQ04057.bmp is 24.1605501713
+2015-06-18 13:50:29,203 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02395.bmp
+2015-06-18 13:50:32,480 quality              INFO       sseq score huya_lol_01_CQ02395.bmp is 21.4381287701
+2015-06-18 13:50:32,500 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04025.bmp
+2015-06-18 13:50:35,766 quality              INFO       sseq score huya_lol_01_CQ04025.bmp is 23.8232635214
+2015-06-18 13:50:35,786 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04684.bmp
+2015-06-18 13:50:39,062 quality              INFO       sseq score huya_lol_01_CQ04684.bmp is 22.4239187138
+2015-06-18 13:50:39,082 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03796.bmp
+2015-06-18 13:50:42,355 quality              INFO       sseq score huya_lol_01_CQ03796.bmp is 22.9117631898
+2015-06-18 13:50:42,375 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04859.bmp
+2015-06-18 13:50:45,650 quality              INFO       sseq score huya_lol_01_CQ04859.bmp is 22.5205841385
+2015-06-18 13:50:45,671 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05810.bmp
+2015-06-18 13:50:48,928 quality              INFO       sseq score huya_lol_01_CQ05810.bmp is 24.1793209351
+2015-06-18 13:50:48,947 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05811.bmp
+2015-06-18 13:50:52,221 quality              INFO       sseq score huya_lol_01_CQ05811.bmp is 24.1793209351
+2015-06-18 13:50:52,243 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02746.bmp
+2015-06-18 13:50:55,523 quality              INFO       sseq score huya_lol_01_CQ02746.bmp is 22.0194340375
+2015-06-18 13:50:55,543 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03047.bmp
+2015-06-18 13:50:58,821 quality              INFO       sseq score huya_lol_01_CQ03047.bmp is 22.6269493873
+2015-06-18 13:50:58,842 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00763.bmp
+2015-06-18 13:51:02,101 quality              INFO       sseq score huya_lol_01_CQ00763.bmp is 26.8140712397
+2015-06-18 13:51:02,118 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06225.bmp
+2015-06-18 13:51:05,394 quality              INFO       sseq score huya_lol_01_CQ06225.bmp is 22.8244799332
+2015-06-18 13:51:05,414 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01908.bmp
+2015-06-18 13:51:08,673 quality              INFO       sseq score huya_lol_01_CQ01908.bmp is 21.3026316349
+2015-06-18 13:51:08,694 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01160.bmp
+2015-06-18 13:51:11,967 quality              INFO       sseq score huya_lol_01_CQ01160.bmp is 22.7700053131
+2015-06-18 13:51:11,983 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06470.bmp
+2015-06-18 13:51:15,255 quality              INFO       sseq score huya_lol_01_CQ06470.bmp is 22.2747208388
+2015-06-18 13:51:15,276 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02859.bmp
+2015-06-18 13:51:18,540 quality              INFO       sseq score huya_lol_01_CQ02859.bmp is 21.7537765337
+2015-06-18 13:51:18,559 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06517.bmp
+2015-06-18 13:51:21,822 quality              INFO       sseq score huya_lol_01_CQ06517.bmp is 22.3366600846
+2015-06-18 13:51:21,844 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03475.bmp
+2015-06-18 13:51:25,108 quality              INFO       sseq score huya_lol_01_CQ03475.bmp is 22.6750798458
+2015-06-18 13:51:25,130 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00201.bmp
+2015-06-18 13:51:28,401 quality              INFO       sseq score huya_lol_01_CQ00201.bmp is 21.6871266668
+2015-06-18 13:51:28,417 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05313.bmp
+2015-06-18 13:51:31,684 quality              INFO       sseq score huya_lol_01_CQ05313.bmp is 27.3411605904
+2015-06-18 13:51:31,706 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02448.bmp
+2015-06-18 13:51:34,986 quality              INFO       sseq score huya_lol_01_CQ02448.bmp is 21.419983613
+2015-06-18 13:51:35,009 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01102.bmp
+2015-06-18 13:51:38,276 quality              INFO       sseq score huya_lol_01_CQ01102.bmp is 24.3086807384
+2015-06-18 13:51:38,298 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01165.bmp
+2015-06-18 13:51:41,572 quality              INFO       sseq score huya_lol_01_CQ01165.bmp is 22.8456173633
+2015-06-18 13:51:41,594 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00165.bmp
+2015-06-18 13:51:44,878 quality              INFO       sseq score huya_lol_01_CQ00165.bmp is 22.0796847805
+2015-06-18 13:51:44,898 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03545.bmp
+2015-06-18 13:51:48,183 quality              INFO       sseq score huya_lol_01_CQ03545.bmp is 22.9561148023
+2015-06-18 13:51:48,200 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03908.bmp
+2015-06-18 13:51:51,476 quality              INFO       sseq score huya_lol_01_CQ03908.bmp is 23.9846964288
+2015-06-18 13:51:51,499 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01707.bmp
+2015-06-18 13:51:54,767 quality              INFO       sseq score huya_lol_01_CQ01707.bmp is 21.4181645698
+2015-06-18 13:51:54,783 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04003.bmp
+2015-06-18 13:51:58,068 quality              INFO       sseq score huya_lol_01_CQ04003.bmp is 23.9575338274
+2015-06-18 13:51:58,088 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06406.bmp
+2015-06-18 13:52:01,378 quality              INFO       sseq score huya_lol_01_CQ06406.bmp is 22.1223540382
+2015-06-18 13:52:01,398 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05082.bmp
+2015-06-18 13:52:04,878 quality              INFO       sseq score huya_lol_01_CQ05082.bmp is 23.0738220943
+2015-06-18 13:52:04,900 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00452.bmp
+2015-06-18 13:52:09,451 quality              INFO       sseq score huya_lol_01_CQ00452.bmp is 25.3970391406
+2015-06-18 13:52:09,467 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04520.bmp
+2015-06-18 13:52:13,762 quality              INFO       sseq score huya_lol_01_CQ04520.bmp is 23.0489242694
+2015-06-18 13:52:13,782 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01870.bmp
+2015-06-18 13:52:17,516 quality              INFO       sseq score huya_lol_01_CQ01870.bmp is 21.4390869432
+2015-06-18 13:52:17,536 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02378.bmp
+2015-06-18 13:52:20,980 quality              INFO       sseq score huya_lol_01_CQ02378.bmp is 21.8690477875
+2015-06-18 13:52:20,997 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06495.bmp
+2015-06-18 13:52:24,440 quality              INFO       sseq score huya_lol_01_CQ06495.bmp is 22.5460013532
+2015-06-18 13:52:24,460 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02589.bmp
+2015-06-18 13:52:27,796 quality              INFO       sseq score huya_lol_01_CQ02589.bmp is 21.6674552647
+2015-06-18 13:52:27,812 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05819.bmp
+2015-06-18 13:52:31,081 quality              INFO       sseq score huya_lol_01_CQ05819.bmp is 24.214315503
+2015-06-18 13:52:31,101 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03536.bmp
+2015-06-18 13:52:34,354 quality              INFO       sseq score huya_lol_01_CQ03536.bmp is 22.9432123297
+2015-06-18 13:52:34,375 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02517.bmp
+2015-06-18 13:52:37,647 quality              INFO       sseq score huya_lol_01_CQ02517.bmp is 21.7694983414
+2015-06-18 13:52:37,668 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00345.bmp
+2015-06-18 13:52:40,938 quality              INFO       sseq score huya_lol_01_CQ00345.bmp is 25.7222996075
+2015-06-18 13:52:40,960 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00420.bmp
+2015-06-18 13:52:44,217 quality              INFO       sseq score huya_lol_01_CQ00420.bmp is 25.67807015
+2015-06-18 13:52:44,237 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02145.bmp
+2015-06-18 13:52:47,506 quality              INFO       sseq score huya_lol_01_CQ02145.bmp is 21.9699763069
+2015-06-18 13:52:47,526 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02945.bmp
+2015-06-18 13:52:50,789 quality              INFO       sseq score huya_lol_01_CQ02945.bmp is 22.358229749
+2015-06-18 13:52:50,809 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03918.bmp
+2015-06-18 13:52:54,078 quality              INFO       sseq score huya_lol_01_CQ03918.bmp is 24.1298482183
+2015-06-18 13:52:54,098 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05550.bmp
+2015-06-18 13:52:57,365 quality              INFO       sseq score huya_lol_01_CQ05550.bmp is 23.4616256433
+2015-06-18 13:52:57,384 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05535.bmp
+2015-06-18 13:53:00,638 quality              INFO       sseq score huya_lol_01_CQ05535.bmp is 23.5981841227
+2015-06-18 13:53:00,658 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06659.bmp
+2015-06-18 13:53:03,931 quality              INFO       sseq score huya_lol_01_CQ06659.bmp is 22.3359447802
+2015-06-18 13:53:03,953 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02031.bmp
+2015-06-18 13:53:07,213 quality              INFO       sseq score huya_lol_01_CQ02031.bmp is 21.0515347544
+2015-06-18 13:53:07,236 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00152.bmp
+2015-06-18 13:53:10,510 quality              INFO       sseq score huya_lol_01_CQ00152.bmp is 21.8670607611
+2015-06-18 13:53:10,532 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04557.bmp
+2015-06-18 13:53:13,801 quality              INFO       sseq score huya_lol_01_CQ04557.bmp is 23.2393775222
+2015-06-18 13:53:13,822 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02659.bmp
+2015-06-18 13:53:17,089 quality              INFO       sseq score huya_lol_01_CQ02659.bmp is 22.2265202107
+2015-06-18 13:53:17,109 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03745.bmp
+2015-06-18 13:53:20,394 quality              INFO       sseq score huya_lol_01_CQ03745.bmp is 23.2063769587
+2015-06-18 13:53:20,413 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05651.bmp
+2015-06-18 13:53:23,683 quality              INFO       sseq score huya_lol_01_CQ05651.bmp is 22.8921468932
+2015-06-18 13:53:23,703 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06810.bmp
+2015-06-18 13:53:26,979 quality              INFO       sseq score huya_lol_01_CQ06810.bmp is 22.3783731847
+2015-06-18 13:53:27,000 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00821.bmp
+2015-06-18 13:53:30,265 quality              INFO       sseq score huya_lol_01_CQ00821.bmp is 25.1218336967
+2015-06-18 13:53:30,285 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04474.bmp
+2015-06-18 13:53:33,573 quality              INFO       sseq score huya_lol_01_CQ04474.bmp is 23.1940952153
+2015-06-18 13:53:33,594 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06947.bmp
+2015-06-18 13:53:36,861 quality              INFO       sseq score huya_lol_01_CQ06947.bmp is 22.0380126555
+2015-06-18 13:53:36,882 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03707.bmp
+2015-06-18 13:53:40,168 quality              INFO       sseq score huya_lol_01_CQ03707.bmp is 23.2786274181
+2015-06-18 13:53:40,187 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06347.bmp
+2015-06-18 13:53:43,463 quality              INFO       sseq score huya_lol_01_CQ06347.bmp is 22.8013555265
+2015-06-18 13:53:43,483 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03899.bmp
+2015-06-18 13:53:46,759 quality              INFO       sseq score huya_lol_01_CQ03899.bmp is 24.0925778964
+2015-06-18 13:53:46,780 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02244.bmp
+2015-06-18 13:53:50,052 quality              INFO       sseq score huya_lol_01_CQ02244.bmp is 22.2787127694
+2015-06-18 13:53:50,069 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04703.bmp
+2015-06-18 13:53:53,371 quality              INFO       sseq score huya_lol_01_CQ04703.bmp is 22.7719652962
+2015-06-18 13:53:53,391 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04413.bmp
+2015-06-18 13:53:56,657 quality              INFO       sseq score huya_lol_01_CQ04413.bmp is 22.3592548432
+2015-06-18 13:53:56,678 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00775.bmp
+2015-06-18 13:53:59,953 quality              INFO       sseq score huya_lol_01_CQ00775.bmp is 26.8998883589
+2015-06-18 13:53:59,970 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07065.bmp
+2015-06-18 13:54:03,263 quality              INFO       sseq score huya_lol_01_CQ07065.bmp is 22.4304739528
+2015-06-18 13:54:03,282 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05831.bmp
+2015-06-18 13:54:06,552 quality              INFO       sseq score huya_lol_01_CQ05831.bmp is 24.2161562419
+2015-06-18 13:54:06,573 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03516.bmp
+2015-06-18 13:54:09,842 quality              INFO       sseq score huya_lol_01_CQ03516.bmp is 22.4334543563
+2015-06-18 13:54:09,864 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02409.bmp
+2015-06-18 13:54:13,157 quality              INFO       sseq score huya_lol_01_CQ02409.bmp is 21.5934889059
+2015-06-18 13:54:13,174 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05919.bmp
+2015-06-18 13:54:16,467 quality              INFO       sseq score huya_lol_01_CQ05919.bmp is 24.5330809952
+2015-06-18 13:54:16,487 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06109.bmp
+2015-06-18 13:54:19,763 quality              INFO       sseq score huya_lol_01_CQ06109.bmp is 24.5265675522
+2015-06-18 13:54:19,776 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03855.bmp
+2015-06-18 13:54:23,084 quality              INFO       sseq score huya_lol_01_CQ03855.bmp is 24.1030617884
+2015-06-18 13:54:23,104 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06886.bmp
+2015-06-18 13:54:26,382 quality              INFO       sseq score huya_lol_01_CQ06886.bmp is 22.3906774956
+2015-06-18 13:54:26,404 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01992.bmp
+2015-06-18 13:54:29,723 quality              INFO       sseq score huya_lol_01_CQ01992.bmp is 21.209392003
+2015-06-18 13:54:29,746 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02098.bmp
+2015-06-18 13:54:33,032 quality              INFO       sseq score huya_lol_01_CQ02098.bmp is 21.9969779364
+2015-06-18 13:54:33,053 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03639.bmp
+2015-06-18 13:54:36,355 quality              INFO       sseq score huya_lol_01_CQ03639.bmp is 22.9885634082
+2015-06-18 13:54:36,375 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03058.bmp
+2015-06-18 13:54:39,648 quality              INFO       sseq score huya_lol_01_CQ03058.bmp is 22.5164357809
+2015-06-18 13:54:39,671 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00145.bmp
+2015-06-18 13:54:42,977 quality              INFO       sseq score huya_lol_01_CQ00145.bmp is 21.952004573
+2015-06-18 13:54:42,996 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07015.bmp
+2015-06-18 13:54:46,311 quality              INFO       sseq score huya_lol_01_CQ07015.bmp is 22.578938992
+2015-06-18 13:54:46,329 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05253.bmp
+2015-06-18 13:54:49,611 quality              INFO       sseq score huya_lol_01_CQ05253.bmp is 26.6535113719
+2015-06-18 13:54:49,631 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00289.bmp
+2015-06-18 13:54:52,890 quality              INFO       sseq score huya_lol_01_CQ00289.bmp is 26.1602695693
+2015-06-18 13:54:52,904 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03884.bmp
+2015-06-18 13:54:56,184 quality              INFO       sseq score huya_lol_01_CQ03884.bmp is 24.0973614586
+2015-06-18 13:54:56,203 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03818.bmp
+2015-06-18 13:54:59,503 quality              INFO       sseq score huya_lol_01_CQ03818.bmp is 24.0662771026
+2015-06-18 13:54:59,520 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05409.bmp
+2015-06-18 13:55:02,803 quality              INFO       sseq score huya_lol_01_CQ05409.bmp is 23.6700697269
+2015-06-18 13:55:02,822 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05311.bmp
+2015-06-18 13:55:06,121 quality              INFO       sseq score huya_lol_01_CQ05311.bmp is 27.3411605904
+2015-06-18 13:55:06,141 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03595.bmp
+2015-06-18 13:55:09,426 quality              INFO       sseq score huya_lol_01_CQ03595.bmp is 23.088368393
+2015-06-18 13:55:09,447 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01098.bmp
+2015-06-18 13:55:12,770 quality              INFO       sseq score huya_lol_01_CQ01098.bmp is 27.0297123444
+2015-06-18 13:55:12,792 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00084.bmp
+2015-06-18 13:55:16,089 quality              INFO       sseq score huya_lol_01_CQ00084.bmp is 21.8035196246
+2015-06-18 13:55:16,111 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00976.bmp
+2015-06-18 13:55:19,398 quality              INFO       sseq score huya_lol_01_CQ00976.bmp is 26.2491406143
+2015-06-18 13:55:19,420 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06957.bmp
+2015-06-18 13:55:22,750 quality              INFO       sseq score huya_lol_01_CQ06957.bmp is 22.2092535219
+2015-06-18 13:55:22,770 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02957.bmp
+2015-06-18 13:55:26,078 quality              INFO       sseq score huya_lol_01_CQ02957.bmp is 22.4486940093
+2015-06-18 13:55:26,098 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05032.bmp
+2015-06-18 13:55:29,392 quality              INFO       sseq score huya_lol_01_CQ05032.bmp is 23.2566230944
+2015-06-18 13:55:29,413 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02850.bmp
+2015-06-18 13:55:32,717 quality              INFO       sseq score huya_lol_01_CQ02850.bmp is 21.6686045668
+2015-06-18 13:55:32,737 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01636.bmp
+2015-06-18 13:55:36,072 quality              INFO       sseq score huya_lol_01_CQ01636.bmp is 21.7636962841
+2015-06-18 13:55:36,088 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06266.bmp
+2015-06-18 13:55:39,410 quality              INFO       sseq score huya_lol_01_CQ06266.bmp is 22.8865998445
+2015-06-18 13:55:39,430 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03629.bmp
+2015-06-18 13:55:42,765 quality              INFO       sseq score huya_lol_01_CQ03629.bmp is 23.0325643016
+2015-06-18 13:55:42,786 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00693.bmp
+2015-06-18 13:55:46,130 quality              INFO       sseq score huya_lol_01_CQ00693.bmp is 27.6308409549
+2015-06-18 13:55:46,151 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01951.bmp
+2015-06-18 13:55:49,421 quality              INFO       sseq score huya_lol_01_CQ01951.bmp is 21.3989537414
+2015-06-18 13:55:49,440 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06958.bmp
+2015-06-18 13:55:52,739 quality              INFO       sseq score huya_lol_01_CQ06958.bmp is 22.2092535219
+2015-06-18 13:55:52,759 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05563.bmp
+2015-06-18 13:55:56,078 quality              INFO       sseq score huya_lol_01_CQ05563.bmp is 23.4112032889
+2015-06-18 13:55:56,092 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03875.bmp
+2015-06-18 13:55:59,398 quality              INFO       sseq score huya_lol_01_CQ03875.bmp is 24.1441480634
+2015-06-18 13:55:59,420 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03962.bmp
+2015-06-18 13:56:02,726 quality              INFO       sseq score huya_lol_01_CQ03962.bmp is 23.8979961552
+2015-06-18 13:56:02,747 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00674.bmp
+2015-06-18 13:56:06,049 quality              INFO       sseq score huya_lol_01_CQ00674.bmp is 27.4964376179
+2015-06-18 13:56:06,071 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02087.bmp
+2015-06-18 13:56:09,400 quality              INFO       sseq score huya_lol_01_CQ02087.bmp is 21.8812675745
+2015-06-18 13:56:09,420 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04289.bmp
+2015-06-18 13:56:12,752 quality              INFO       sseq score huya_lol_01_CQ04289.bmp is 23.1371346855
+2015-06-18 13:56:12,772 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03734.bmp
+2015-06-18 13:56:16,091 quality              INFO       sseq score huya_lol_01_CQ03734.bmp is 23.2311860063
+2015-06-18 13:56:16,111 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05997.bmp
+2015-06-18 13:56:19,424 quality              INFO       sseq score huya_lol_01_CQ05997.bmp is 24.512435957
+2015-06-18 13:56:19,444 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07105.bmp
+2015-06-18 13:56:22,747 quality              INFO       sseq score huya_lol_01_CQ07105.bmp is 22.4739395903
+2015-06-18 13:56:22,766 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05812.bmp
+2015-06-18 13:56:26,084 quality              INFO       sseq score huya_lol_01_CQ05812.bmp is 24.1793209351
+2015-06-18 13:56:26,105 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01197.bmp
+2015-06-18 13:56:29,408 quality              INFO       sseq score huya_lol_01_CQ01197.bmp is 22.9432196522
+2015-06-18 13:56:29,430 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01847.bmp
+2015-06-18 13:56:32,769 quality              INFO       sseq score huya_lol_01_CQ01847.bmp is 21.5094557096
+2015-06-18 13:56:32,786 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06445.bmp
+2015-06-18 13:56:36,107 quality              INFO       sseq score huya_lol_01_CQ06445.bmp is 22.4976337874
+2015-06-18 13:56:36,125 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05926.bmp
+2015-06-18 13:56:39,420 quality              INFO       sseq score huya_lol_01_CQ05926.bmp is 24.6167738105
+2015-06-18 13:56:39,438 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06989.bmp
+2015-06-18 13:56:42,733 quality              INFO       sseq score huya_lol_01_CQ06989.bmp is 22.2007667442
+2015-06-18 13:56:42,753 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03792.bmp
+2015-06-18 13:56:46,085 quality              INFO       sseq score huya_lol_01_CQ03792.bmp is 23.0567177016
+2015-06-18 13:56:46,107 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04461.bmp
+2015-06-18 13:56:49,430 quality              INFO       sseq score huya_lol_01_CQ04461.bmp is 22.8719958887
+2015-06-18 13:56:49,453 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01515.bmp
+2015-06-18 13:56:52,779 quality              INFO       sseq score huya_lol_01_CQ01515.bmp is 21.6136617186
+2015-06-18 13:56:52,799 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04379.bmp
+2015-06-18 13:56:56,125 quality              INFO       sseq score huya_lol_01_CQ04379.bmp is 22.6896946593
+2015-06-18 13:56:56,145 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02695.bmp
+2015-06-18 13:56:59,460 quality              INFO       sseq score huya_lol_01_CQ02695.bmp is 22.0795021642
+2015-06-18 13:56:59,476 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04793.bmp
+2015-06-18 13:57:02,812 quality              INFO       sseq score huya_lol_01_CQ04793.bmp is 22.4374606281
+2015-06-18 13:57:02,832 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05397.bmp
+2015-06-18 13:57:06,138 quality              INFO       sseq score huya_lol_01_CQ05397.bmp is 23.7377615171
+2015-06-18 13:57:06,157 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06133.bmp
+2015-06-18 13:57:09,467 quality              INFO       sseq score huya_lol_01_CQ06133.bmp is 22.873226494
+2015-06-18 13:57:09,489 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00567.bmp
+2015-06-18 13:57:12,825 quality              INFO       sseq score huya_lol_01_CQ00567.bmp is 27.5339235721
+2015-06-18 13:57:12,845 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04425.bmp
+2015-06-18 13:57:16,173 quality              INFO       sseq score huya_lol_01_CQ04425.bmp is 22.4777888012
+2015-06-18 13:57:16,194 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02024.bmp
+2015-06-18 13:57:19,507 quality              INFO       sseq score huya_lol_01_CQ02024.bmp is 21.295372537
+2015-06-18 13:57:19,528 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02928.bmp
+2015-06-18 13:57:22,854 quality              INFO       sseq score huya_lol_01_CQ02928.bmp is 22.5090660859
+2015-06-18 13:57:22,874 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06057.bmp
+2015-06-18 13:57:26,198 quality              INFO       sseq score huya_lol_01_CQ06057.bmp is 24.4037121739
+2015-06-18 13:57:26,217 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06846.bmp
+2015-06-18 13:57:29,532 quality              INFO       sseq score huya_lol_01_CQ06846.bmp is 22.181961378
+2015-06-18 13:57:29,552 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03976.bmp
+2015-06-18 13:57:32,871 quality              INFO       sseq score huya_lol_01_CQ03976.bmp is 23.956741622
+2015-06-18 13:57:32,891 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01706.bmp
+2015-06-18 13:57:36,217 quality              INFO       sseq score huya_lol_01_CQ01706.bmp is 21.4181645698
+2015-06-18 13:57:36,236 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03609.bmp
+2015-06-18 13:57:39,542 quality              INFO       sseq score huya_lol_01_CQ03609.bmp is 23.0879664678
+2015-06-18 13:57:39,563 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01839.bmp
+2015-06-18 13:57:42,846 quality              INFO       sseq score huya_lol_01_CQ01839.bmp is 21.4758646478
+2015-06-18 13:57:42,865 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06801.bmp
+2015-06-18 13:57:46,171 quality              INFO       sseq score huya_lol_01_CQ06801.bmp is 22.463535559
+2015-06-18 13:57:46,190 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07056.bmp
+2015-06-18 13:57:49,519 quality              INFO       sseq score huya_lol_01_CQ07056.bmp is 22.4427725154
+2015-06-18 13:57:49,538 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05890.bmp
+2015-06-18 13:57:52,823 quality              INFO       sseq score huya_lol_01_CQ05890.bmp is 24.7166750634
+2015-06-18 13:57:52,844 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05465.bmp
+2015-06-18 13:57:56,137 quality              INFO       sseq score huya_lol_01_CQ05465.bmp is 23.4932084653
+2015-06-18 13:57:56,158 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02152.bmp
+2015-06-18 13:57:59,471 quality              INFO       sseq score huya_lol_01_CQ02152.bmp is 22.0211534643
+2015-06-18 13:57:59,490 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06631.bmp
+2015-06-18 13:58:02,803 quality              INFO       sseq score huya_lol_01_CQ06631.bmp is 22.2615547214
+2015-06-18 13:58:02,823 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04002.bmp
+2015-06-18 13:58:06,140 quality              INFO       sseq score huya_lol_01_CQ04002.bmp is 23.9575342742
+2015-06-18 13:58:06,161 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02313.bmp
+2015-06-18 13:58:09,492 quality              INFO       sseq score huya_lol_01_CQ02313.bmp is 22.2683172152
+2015-06-18 13:58:09,512 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04225.bmp
+2015-06-18 13:58:12,811 quality              INFO       sseq score huya_lol_01_CQ04225.bmp is 22.8517250696
+2015-06-18 13:58:12,829 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05494.bmp
+2015-06-18 13:58:16,148 quality              INFO       sseq score huya_lol_01_CQ05494.bmp is 23.3954821359
+2015-06-18 13:58:16,167 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03920.bmp
+2015-06-18 13:58:19,502 quality              INFO       sseq score huya_lol_01_CQ03920.bmp is 24.1298487763
+2015-06-18 13:58:19,522 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03357.bmp
+2015-06-18 13:58:22,825 quality              INFO       sseq score huya_lol_01_CQ03357.bmp is 22.4629533265
+2015-06-18 13:58:22,846 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02722.bmp
+2015-06-18 13:58:26,161 quality              INFO       sseq score huya_lol_01_CQ02722.bmp is 21.8903614446
+2015-06-18 13:58:26,181 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04571.bmp
+2015-06-18 13:58:29,535 quality              INFO       sseq score huya_lol_01_CQ04571.bmp is 23.155478949
+2015-06-18 13:58:29,551 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05213.bmp
+2015-06-18 13:58:32,892 quality              INFO       sseq score huya_lol_01_CQ05213.bmp is 26.5818096837
+2015-06-18 13:58:32,914 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03977.bmp
+2015-06-18 13:58:36,250 quality              INFO       sseq score huya_lol_01_CQ03977.bmp is 23.956741622
+2015-06-18 13:58:36,270 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00987.bmp
+2015-06-18 13:58:39,596 quality              INFO       sseq score huya_lol_01_CQ00987.bmp is 26.3487050238
+2015-06-18 13:58:39,615 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04734.bmp
+2015-06-18 13:58:42,950 quality              INFO       sseq score huya_lol_01_CQ04734.bmp is 22.5375891978
+2015-06-18 13:58:42,971 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04278.bmp
+2015-06-18 13:58:46,285 quality              INFO       sseq score huya_lol_01_CQ04278.bmp is 23.2619853056
+2015-06-18 13:58:46,305 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03737.bmp
+2015-06-18 13:58:49,641 quality              INFO       sseq score huya_lol_01_CQ03737.bmp is 23.2311860063
+2015-06-18 13:58:49,660 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05321.bmp
+2015-06-18 13:58:53,015 quality              INFO       sseq score huya_lol_01_CQ05321.bmp is 27.3414802894
+2015-06-18 13:58:53,032 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03996.bmp
+2015-06-18 13:58:56,365 quality              INFO       sseq score huya_lol_01_CQ03996.bmp is 24.0216560662
+2015-06-18 13:58:56,385 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04172.bmp
+2015-06-18 13:58:59,736 quality              INFO       sseq score huya_lol_01_CQ04172.bmp is 22.8064084273
+2015-06-18 13:58:59,759 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00934.bmp
+2015-06-18 13:59:03,124 quality              INFO       sseq score huya_lol_01_CQ00934.bmp is 26.3719053453
+2015-06-18 13:59:03,141 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06937.bmp
+2015-06-18 13:59:06,470 quality              INFO       sseq score huya_lol_01_CQ06937.bmp is 22.4267612604
+2015-06-18 13:59:06,486 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06419.bmp
+2015-06-18 13:59:09,819 quality              INFO       sseq score huya_lol_01_CQ06419.bmp is 22.4421719141
+2015-06-18 13:59:09,836 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ07188.bmp
+2015-06-18 13:59:13,158 quality              INFO       sseq score huya_lol_01_CQ07188.bmp is 22.6906940422
+2015-06-18 13:59:13,180 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ05223.bmp
+2015-06-18 13:59:16,506 quality              INFO       sseq score huya_lol_01_CQ05223.bmp is 26.6948885587
+2015-06-18 13:59:16,526 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00626.bmp
+2015-06-18 13:59:19,869 quality              INFO       sseq score huya_lol_01_CQ00626.bmp is 27.6931795582
+2015-06-18 13:59:19,891 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02528.bmp
+2015-06-18 13:59:23,255 quality              INFO       sseq score huya_lol_01_CQ02528.bmp is 21.8357355071
+2015-06-18 13:59:23,275 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02980.bmp
+2015-06-18 13:59:26,611 quality              INFO       sseq score huya_lol_01_CQ02980.bmp is 22.3486782479
+2015-06-18 13:59:26,631 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02775.bmp
+2015-06-18 13:59:29,959 quality              INFO       sseq score huya_lol_01_CQ02775.bmp is 21.9517970743
+2015-06-18 13:59:29,977 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ06455.bmp
+2015-06-18 13:59:33,328 quality              INFO       sseq score huya_lol_01_CQ06455.bmp is 22.4016806819
+2015-06-18 13:59:33,349 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00370.bmp
+2015-06-18 13:59:36,697 quality              INFO       sseq score huya_lol_01_CQ00370.bmp is 25.5520997008
+2015-06-18 13:59:36,719 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ02381.bmp
+2015-06-18 13:59:40,203 quality              INFO       sseq score huya_lol_01_CQ02381.bmp is 21.5290091357
+2015-06-18 13:59:40,223 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01472.bmp
+2015-06-18 13:59:43,622 quality              INFO       sseq score huya_lol_01_CQ01472.bmp is 21.5910389749
+2015-06-18 13:59:43,644 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ00376.bmp
+2015-06-18 13:59:47,023 quality              INFO       sseq score huya_lol_01_CQ00376.bmp is 25.612249097
+2015-06-18 13:59:47,046 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ01263.bmp
+2015-06-18 13:59:50,515 quality              INFO       sseq score huya_lol_01_CQ01263.bmp is 23.6770909475
+2015-06-18 13:59:50,535 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ04134.bmp
+2015-06-18 13:59:54,299 quality              INFO       sseq score huya_lol_01_CQ04134.bmp is 22.8768608302
+2015-06-18 13:59:54,319 quality              DEBUG      call matlab to run sseq on G:\\huya_lol_01_CQ\huya_lol_01_CQ03608.bmp
+2015-06-18 13:59:58,224 quality              INFO       sseq score huya_lol_01_CQ03608.bmp is 23.0879664678
+2015-06-18 13:59:58,226 quality              INFO       write score to G:\\huya_lol_01_CQ.csv
+2015-06-18 13:59:58,233 quality              INFO       quality huya_lol_01_CQ spent 2718s
+2015-06-18 13:59:58,233 video_quality        INFO       video_quality huya_lol_01_CQ spent 2795s
