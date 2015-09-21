@@ -31,10 +31,14 @@ def config_logging(video_file_path, log_dir=default_log_dir):
                 filename=log_file_path,
                 filemode='a')
 
-def extract(video_file_path, image_dir, ffmpeg_path=default_ffmpeg_path):
+def extract(video_file_path, image_dir,framerate, ffmpeg_path=default_ffmpeg_path):
     '''
     解帧
     '''
+    try:  
+        int(framerate)
+    except ValueError:
+        framerate = '30'
     start_time = time.time()
     video_name = get_video_name(video_file_path)
     image_file_pattern = os.path.join(image_dir, video_name + '%5d.bmp')
@@ -47,7 +51,7 @@ def extract(video_file_path, image_dir, ffmpeg_path=default_ffmpeg_path):
             logger.info('make dir %s' % (image_dir, ))
             os.makedirs(image_dir)
         
-        cmd = [os.path.join(ffmpeg_path, 'ffmpeg'), '-i', video_file_path, '-r', '60', '-f', 'image2', image_file_pattern]
+        cmd = [os.path.join(ffmpeg_path, 'ffmpeg'), '-i', video_file_path, '-r', framerate, '-f', 'image2', image_file_pattern]
         logger.debug('run ffmpeg cmd %s' % (' '.join(cmd), ))
         child = subprocess.Popen(cmd, cwd=ffmpeg_path)
         child.wait()
@@ -199,7 +203,7 @@ def quality(video_name, image_file_paths, csv_basedir):
         end_time = time.time()
         logger.info('quality %s spent %ds' % (video_name, (end_time-start_time) ))
 
-def video_quality(video_file_path, image_basedir, csv_basedir):
+def video_quality(video_file_path, image_basedir, csv_basedir,framerate):
     logger = logging.getLogger('video_quality')
     start_time = time.time()
     try:
@@ -209,16 +213,16 @@ def video_quality(video_file_path, image_basedir, csv_basedir):
         image_dir = os.path.join(image_basedir, video_name)
         
         # 解帧
-        #image_file_paths = extract(video_file_path, image_dir)
+        image_file_paths = extract(video_file_path, image_dir,framerate)
         # [ os.path.join(image_dir, _) for _ in os.listdir(image_dir) if os.path.isfile(os.path.join(image_dir, _)) ] 
 
-        path_list = os.listdir(image_dir)
-        image_file_paths = []
-        for _ in path_list:
-            image_file_paths.append(os.path.join(image_dir,_))
+        #path_list = os.listdir(image_dir)
+        #image_file_paths = []
+        #for _ in path_list:
+        #    image_file_paths.append(os.path.join(image_dir,_))
        
         # 去重
-        #image_file_paths = duplication(video_name, image_file_paths)
+        image_file_paths = duplication(video_name, image_file_paths)
         
         #duplication(video_name, image_file_paths)
         #print image_dir
@@ -238,8 +242,9 @@ def video_quality(video_file_path, image_basedir, csv_basedir):
 if __name__=="__main__":
     video_file_path = sys.argv[1] #"H:\\finish\\huya_lol_18_CQ.avi"
     image_basedir =  sys.argv[2] #'G:\\'
+    framerate = sys.argv[3] #'60' or '30'
     config_logging(video_file_path)
-    video_quality(video_file_path, image_basedir, image_basedir)
+    video_quality(video_file_path, image_basedir, image_basedir,framerate)
     
     
     

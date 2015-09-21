@@ -1,2 +1,2 @@
-python video-qa.py D:\9_15.avi D:\
+python video-qa.py D:\finish\yy_google_04.avi D:/ 30
 cmd
